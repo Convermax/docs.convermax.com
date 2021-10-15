@@ -15,7 +15,7 @@
     "body_layout": "page-full-width",
     "header_layout": "header_2",
     "footer_layout": "footer_2",
-    "product_layout": "layout-1",
+    "product_layout": "layout-2",
     "productCard_layout": "layout_1",
     "product_card_height_procent": 100,
     "image_swap": true,
@@ -31,7 +31,6 @@
     "show_product_compare": true,
     "show_product_compare_mb": false,
     "time_new": 30,
-    "number_product": 30,
     "type_label_sale": "text",
     "qv_enable_zoom": true,
     "qv_enable_fancybox": true,
@@ -51,12 +50,9 @@
     "qv_show_quantity_selector": true,
     "qv_display_short_description": true,
     "qv_number_words": "16",
-    "qv_use_color_swatch": true,
-    "qv_option_color_swatch": "Color",
-    "qv_use_size_swatch": true,
-    "qv_option_size_swatch": "Size",
-    "qv_use_material_swatch": true,
-    "qv_option_material_swatch": "Material",
+    "use_color_swatch": true,
+    "use_size_swatch": true,
+    "use_material_swatch": true,
     "qv_dpl_customers_view": true,
     "qv_title_view": "customers are viewing this product",
     "qv_number_view": "283, 100, 59, 11, 14, 185, 193, 165, 50, 38, 99, 112, 46, 10, 125, 200, 250, 18",
@@ -90,38 +86,18 @@
     "enable_multiple_currencies": true,
     "enable_auto_currency": false,
     "currency_1_unit": "USD",
-    "currency_1_icon": "<svg viewbox=\"0 0 512 512\" id=\"icon-usd\" class=\"icon-flag\">     <circle style=\"fill:#F0F0F0;\" cx=\"256\" cy=\"256\" r=\"256\"><\/circle>     <g>         <path style=\"fill:#D80027;\" d=\"M244.87,256H512c0-23.106-3.08-45.49-8.819-66.783H244.87V256z\"><\/path>         <path style=\"fill:#D80027;\" d=\"M244.87,122.435h229.556c-15.671-25.572-35.708-48.175-59.07-66.783H244.87V122.435z\"><\/path>         <path style=\"fill:#D80027;\" d=\"M256,512c60.249,0,115.626-20.824,159.356-55.652H96.644C140.374,491.176,195.751,512,256,512z\"><\/path>         <path style=\"fill:#D80027;\" d=\"M37.574,389.565h436.852c12.581-20.529,22.338-42.969,28.755-66.783H8.819             C15.236,346.596,24.993,369.036,37.574,389.565z\"><\/path>     <\/g>     <path style=\"fill:#0052B4;\" d=\"M118.584,39.978h23.329l-21.7,15.765l8.289,25.509l-21.699-15.765L85.104,81.252l7.16-22.037         C73.158,75.13,56.412,93.776,42.612,114.552h7.475l-13.813,10.035c-2.152,3.59-4.216,7.237-6.194,10.938l6.596,20.301l-12.306-8.941         c-3.059,6.481-5.857,13.108-8.372,19.873l7.267,22.368h26.822l-21.7,15.765l8.289,25.509l-21.699-15.765l-12.998,9.444         C0.678,234.537,0,245.189,0,256h256c0-141.384,0-158.052,0-256C205.428,0,158.285,14.67,118.584,39.978z M128.502,230.4         l-21.699-15.765L85.104,230.4l8.289-25.509l-21.7-15.765h26.822l8.288-25.509l8.288,25.509h26.822l-21.7,15.765L128.502,230.4z          M120.213,130.317l8.289,25.509l-21.699-15.765l-21.699,15.765l8.289-25.509l-21.7-15.765h26.822l8.288-25.509l8.288,25.509h26.822         L120.213,130.317z M220.328,230.4l-21.699-15.765L176.93,230.4l8.289-25.509l-21.7-15.765h26.822l8.288-25.509l8.288,25.509h26.822         l-21.7,15.765L220.328,230.4z M212.039,130.317l8.289,25.509l-21.699-15.765l-21.699,15.765l8.289-25.509l-21.7-15.765h26.822         l8.288-25.509l8.288,25.509h26.822L212.039,130.317z M212.039,55.743l8.289,25.509l-21.699-15.765L176.93,81.252l8.289-25.509         l-21.7-15.765h26.822l8.288-25.509l8.288,25.509h26.822L212.039,55.743z\"><\/path><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g> <\/svg>",
     "currency_2_unit": "JPY",
-    "currency_2_icon": "<svg viewbox=\"0 0 512 512\" id=\"icon-jpy\" class=\"icon-flag\">     <circle style=\"fill:#F0F0F0;\" cx=\"256\" cy=\"256\" r=\"256\"><\/circle>     <circle style=\"fill:#D80027;\" cx=\"256\" cy=\"256\" r=\"111.304\"><\/circle>     <g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g> <\/svg>",
     "currency_3_unit": "EUR",
-    "currency_3_icon": "<svg viewbox=\"0 0 512 512\" id=\"icon-euro\" class=\"icon-flag\">     <circle style=\"fill:#0052B4;\" cx=\"256\" cy=\"256\" r=\"256\"><\/circle>     <g>     <polygon style=\"fill:#FFDA44;\" points=\"256.001,100.174 264.29,125.683 291.11,125.683 269.411,141.448 277.7,166.957          256.001,151.191 234.301,166.957 242.59,141.448 220.891,125.683 247.712,125.683  \"><\/polygon>     <polygon style=\"fill:#FFDA44;\" points=\"145.814,145.814 169.714,157.99 188.679,139.026 184.482,165.516 208.381,177.693          181.89,181.889 177.694,208.381 165.517,184.482 139.027,188.679 157.992,169.714  \"><\/polygon>     <polygon style=\"fill:#FFDA44;\" points=\"100.175,256 125.684,247.711 125.684,220.89 141.448,242.59 166.958,234.301 151.191,256          166.958,277.699 141.448,269.411 125.684,291.11 125.684,264.289  \"><\/polygon>     <polygon style=\"fill:#FFDA44;\" points=\"145.814,366.186 157.991,342.286 139.027,323.321 165.518,327.519 177.693,303.62          181.89,330.111 208.38,334.307 184.484,346.484 188.679,372.974 169.714,354.009   \"><\/polygon>     <polygon style=\"fill:#FFDA44;\" points=\"256.001,411.826 247.711,386.317 220.891,386.317 242.591,370.552 234.301,345.045          256.001,360.809 277.7,345.045 269.411,370.552 291.11,386.317 264.289,386.317    \"><\/polygon>     <polygon style=\"fill:#FFDA44;\" points=\"366.187,366.186 342.288,354.01 323.322,372.975 327.519,346.483 303.622,334.307          330.112,330.111 334.308,303.62 346.484,327.519 372.974,323.321 354.009,342.288  \"><\/polygon>     <polygon style=\"fill:#FFDA44;\" points=\"411.826,256 386.317,264.289 386.317,291.11 370.552,269.41 345.045,277.699 360.81,256          345.045,234.301 370.553,242.59 386.317,220.89 386.317,247.712   \"><\/polygon>     <polygon style=\"fill:#FFDA44;\" points=\"366.187,145.814 354.01,169.714 372.975,188.679 346.483,184.481 334.308,208.38          330.112,181.889 303.622,177.692 327.519,165.516 323.322,139.027 342.289,157.991     \"><\/polygon><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g> <\/svg>",
     "currency_4_unit": "AUD",
-    "currency_4_icon": "<svg viewbox=\"0 0 512 512\" id=\"icon-aud\" class=\"icon-flag\">     <path style=\"fill:#0052B4;\" d=\"M512,256c0,141.384-114.616,256-256,256S0,397.384,0,256C0,256.06,256,0.029,256,0         C397.384,0,512,114.616,512,256z\"><\/path>     <g>         <path style=\"fill:#F0F0F0;\" d=\"M256,0c-0.014,0-0.029,0.001-0.043,0.001L256,0L256,0z\"><\/path>         <path style=\"fill:#F0F0F0;\" d=\"M255.315,256H256c0-0.232,0-0.454,0-0.685C255.772,255.544,255.544,255.772,255.315,256z\"><\/path>         <path style=\"fill:#F0F0F0;\" d=\"M256,133.566c0-45.045,0-74.562,0-133.565h-0.043C114.592,0.024,0,114.629,0,256h133.565v-75.212             L208.777,256h46.539c0.229-0.228,0.457-0.456,0.685-0.685c0-17.247,0-32.636,0-46.536l-75.213-75.213H256z\"><\/path>     <\/g>     <g>         <path style=\"fill:#D80027;\" d=\"M129.515,33.391C89.476,56.19,56.19,89.476,33.391,129.515V256h66.783V100.175v-0.001H256             c0-21.063,0-41.129,0-66.783H129.515z\"><\/path>         <path style=\"fill:#D80027;\" d=\"M256,224.519l-90.953-90.952h-31.481c0-0.001,0,0,0,0L255.999,256H256             C256,256,256,234.295,256,224.519z\"><\/path>     <\/g>     <g>         <polygon style=\"fill:#F0F0F0;\" points=\"154.395,300.522 168.445,329.9 200.172,322.567 185.964,351.869 211.478,372.102              179.711,379.262 179.8,411.826 154.395,391.453 128.991,411.826 129.08,379.262 97.312,372.102 122.827,351.869 108.617,322.567              140.346,329.9   \"><\/polygon>         <polygon style=\"fill:#F0F0F0;\" points=\"383.284,356.174 390.309,370.863 406.173,367.196 399.068,381.847 411.826,391.964              395.942,395.544 395.986,411.826 383.284,401.639 370.582,411.826 370.626,395.544 354.743,391.964 367.5,381.847 360.396,367.196              376.259,370.863     \"><\/polygon>         <polygon style=\"fill:#F0F0F0;\" points=\"317.933,200.348 324.957,215.038 340.821,211.37 333.717,226.021 346.474,236.138              330.591,239.718 330.634,256 317.933,245.813 305.231,256 305.274,239.718 289.391,236.138 302.148,226.021 295.044,211.37              310.908,215.038     \"><\/polygon>         <polygon style=\"fill:#F0F0F0;\" points=\"383.284,111.304 390.309,125.994 406.173,122.327 399.069,136.978 411.825,147.094              395.942,150.675 395.986,166.957 383.284,156.77 370.582,166.957 370.626,150.675 354.743,147.094 367.499,136.978              360.396,122.327 376.259,125.994     \"><\/polygon>         <polygon style=\"fill:#F0F0F0;\" points=\"440.368,178.087 447.392,192.777 463.256,189.109 456.152,203.76 468.909,213.877              453.025,217.458 453.069,233.739 440.368,223.553 427.666,233.739 427.709,217.458 411.826,213.877 424.583,203.76              417.479,189.109 433.342,192.777     \"><\/polygon>         <polygon style=\"fill:#F0F0F0;\" points=\"399.55,256 405.075,273.006 422.957,273.006 408.49,283.517 414.017,300.522              399.55,290.012 385.084,300.522 390.609,283.517 376.143,273.006 394.024,273.006  \"><\/polygon>     <\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g> <\/svg>",
     "currency_5_unit": "",
-    "currency_5_icon": "",
     "currency_6_unit": "",
-    "currency_6_icon": "",
     "currency_7_unit": "",
-    "currency_7_icon": "",
     "currency_8_unit": "",
-    "currency_8_icon": "",
     "currency_9_unit": "",
-    "currency_9_icon": "",
     "currency_10_unit": "",
-    "currency_10_icon": "",
     "enable_multilang": true,
-    "lange_1": "EN",
-    "lange_1_icon": "<svg viewbox=\"0 0 512 512\" id=\"icon-eng\" class=\"icon-flag\">     <circle style=\"fill:#F0F0F0;\" cx=\"256\" cy=\"256\" r=\"256\"><\/circle>     <g>         <path style=\"fill:#0052B4;\" d=\"M52.92,100.142c-20.109,26.163-35.272,56.318-44.101,89.077h133.178L52.92,100.142z\"><\/path>         <path style=\"fill:#0052B4;\" d=\"M503.181,189.219c-8.829-32.758-23.993-62.913-44.101-89.076l-89.075,89.076H503.181z\"><\/path>         <path style=\"fill:#0052B4;\" d=\"M8.819,322.784c8.83,32.758,23.993,62.913,44.101,89.075l89.074-89.075L8.819,322.784L8.819,322.784             z\"><\/path>         <path style=\"fill:#0052B4;\" d=\"M411.858,52.921c-26.163-20.109-56.317-35.272-89.076-44.102v133.177L411.858,52.921z\"><\/path>         <path style=\"fill:#0052B4;\" d=\"M100.142,459.079c26.163,20.109,56.318,35.272,89.076,44.102V370.005L100.142,459.079z\"><\/path>         <path style=\"fill:#0052B4;\" d=\"M189.217,8.819c-32.758,8.83-62.913,23.993-89.075,44.101l89.075,89.075V8.819z\"><\/path>         <path style=\"fill:#0052B4;\" d=\"M322.783,503.181c32.758-8.83,62.913-23.993,89.075-44.101l-89.075-89.075V503.181z\"><\/path>         <path style=\"fill:#0052B4;\" d=\"M370.005,322.784l89.075,89.076c20.108-26.162,35.272-56.318,44.101-89.076H370.005z\"><\/path>     <\/g>     <g>         <path style=\"fill:#D80027;\" d=\"M509.833,222.609h-220.44h-0.001V2.167C278.461,0.744,267.317,0,256,0             c-11.319,0-22.461,0.744-33.391,2.167v220.44v0.001H2.167C0.744,233.539,0,244.683,0,256c0,11.319,0.744,22.461,2.167,33.391             h220.44h0.001v220.442C233.539,511.256,244.681,512,256,512c11.317,0,22.461-0.743,33.391-2.167v-220.44v-0.001h220.442             C511.256,278.461,512,267.319,512,256C512,244.683,511.256,233.539,509.833,222.609z\"><\/path>         <path style=\"fill:#D80027;\" d=\"M322.783,322.784L322.783,322.784L437.019,437.02c5.254-5.252,10.266-10.743,15.048-16.435             l-97.802-97.802h-31.482V322.784z\"><\/path>         <path style=\"fill:#D80027;\" d=\"M189.217,322.784h-0.002L74.98,437.019c5.252,5.254,10.743,10.266,16.435,15.048l97.802-97.804             V322.784z\"><\/path>         <path style=\"fill:#D80027;\" d=\"M189.217,189.219v-0.002L74.981,74.98c-5.254,5.252-10.266,10.743-15.048,16.435l97.803,97.803             H189.217z\"><\/path>         <path style=\"fill:#D80027;\" d=\"M322.783,189.219L322.783,189.219L437.02,74.981c-5.252-5.254-10.743-10.266-16.435-15.047             l-97.802,97.803V189.219z\"><\/path><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g> <\/svg>",
-    "lange_2": "de",
-    "lange_2_icon": "<svg viewbox=\"0 0 512 512\" id=\"icon-germany\" class=\"icon-flag\">     <path style=\"fill:#FFDA44;\" d=\"M15.923,345.043C52.094,442.527,145.929,512,256,512s203.906-69.473,240.077-166.957L256,322.783         L15.923,345.043z\"><\/path>     <path style=\"fill:#000000;\" d=\"M256,0C145.929,0,52.094,69.472,15.923,166.957L256,189.217l240.077-22.261C459.906,69.472,366.071,0,256,0z\"><\/path>     <path style=\"fill:#D80027;\" d=\"M15.923,166.957C5.633,194.69,0,224.686,0,256s5.633,61.31,15.923,89.043h480.155         C506.368,317.31,512,287.314,512,256s-5.632-61.31-15.923-89.043H15.923z\"><\/path><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g> <\/svg>",
-    "lange_3": "ger",
-    "lange_3_icon": "",
-    "lange_4": "ger",
-    "lange_4_icon": "",
-    "lange_5": "ger",
-    "lange_5_icon": "",
-    "lange_6": "",
-    "lange_6_icon": "",
+    "lange_1": "ENG",
+    "lange_2": "GER",
     "display_popup_newsletter": true,
     "when_to_show": "first_time",
     "popup_newsletter_expire": 1,
@@ -170,7 +146,7 @@
     "gdpr_privacy_policy_text": "privacy policy",
     "gdpr_privacy_policy_link": "https:\/\/policies.google.com",
     "gdpr_accept_cookies_text": "accept",
-    "color_body_text": "#8c8c8c",
+    "color_body_text": "#484b51",
     "color_url": "#8c8c8c",
     "color_url_hover": "#4563b3",
     "color_body_bg": "#ffffff",
@@ -230,8 +206,6 @@
     "color_bg_cookieMessage": "#000000",
     "color_btn_cookieMessage": "#383e47",
     "color_btn_bg_cookieMessage": "#ffffff",
-    "color_btn_cookieMessage_hover": "#ffffff",
-    "color_btn_bg_cookieMessage_hover": "#58a335",
     "color_notification2": "#969696",
     "color_bg_notification2": "#ffffff",
     "multiCategory_color": "#323232",
@@ -322,6 +296,10 @@
     "checkout_accent_color": "#197bbd",
     "checkout_button_color": "#197bbd",
     "checkout_error_color": "#e32c2b",
+    "qv_use_color_swatch": true,
+    "qv_option_color_swatch": "Color",
+    "qv_use_size_swatch": true,
+    "qv_option_size_swatch": "Size",
     "multilevel_categories_position": "slideshow",
     "color_notification": "#ffffff",
     "color_bg_notification": "#ed6912",
@@ -641,131 +619,6 @@
           "show_collection_image": true
         }
       },
-      "sidebar-collection": {
-        "type": "sidebar-collection",
-        "blocks": {
-          "1574329628673": {
-            "type": "collection_1",
-            "settings": {
-              "title": "Categories",
-              "collection_id": "little_category",
-              "link_list": "main-menu"
-            }
-          },
-          "1574331895665": {
-            "type": "filter_color",
-            "settings": {
-              "title": "Color",
-              "color_text_1": "red",
-              "color_img_1": "",
-              "color_text_2": "blue",
-              "color_img_2": "",
-              "color_text_3": "yellow",
-              "color_img_3": "",
-              "color_text_4": "silver",
-              "color_img_4": "",
-              "color_text_5": "white",
-              "color_img_5": "",
-              "color_text_6": "aqua",
-              "color_img_6": "",
-              "color_text_7": "saddlebrown",
-              "color_img_7": "",
-              "color_text_8": "mistyrose",
-              "color_img_8": "",
-              "color_text_9": "salmon",
-              "color_img_9": "",
-              "color_text_10": "purple",
-              "color_img_10": "",
-              "color_text_11": "green",
-              "color_img_11": "",
-              "color_text_12": "brown",
-              "color_img_12": "",
-              "color_text_13": "",
-              "color_img_13": "",
-              "color_text_14": "",
-              "color_img_14": "",
-              "color_text_15": "",
-              "color_img_15": "",
-              "color_text_16": "",
-              "color_img_16": "",
-              "color_text_17": "",
-              "color_img_17": "",
-              "color_text_18": "",
-              "color_img_18": "",
-              "color_text_19": "",
-              "color_img_19": "",
-              "color_text_20": "",
-              "color_img_20": ""
-            }
-          },
-          "1574332073939": {
-            "type": "filter_text",
-            "settings": {
-              "title": "Size",
-              "list_tags": "18', 19', 20', 21', 22'"
-            }
-          },
-          "1574332117626": {
-            "type": "filter_text",
-            "settings": {
-              "title": "Brands",
-              "list_tags": "Marc®, Jimmy Choo®, Daventry Meers®, High Speed Gear®, Burbery®, Collette®, Donatello®, Propper®, Modern Amusement®, Sodling®, Wileyx®"
-            }
-          },
-          "1574332279121": {
-            "type": "product_carousel",
-            "settings": {
-              "title": "Featured products",
-              "collection": "wheels-tires",
-              "number": 3
-            }
-          },
-          "1574332473752": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/advertisement-image-1.jpg",
-              "link": "#"
-            }
-          },
-          "1574332529844": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/advertisement-image-2.jpg",
-              "link": "#"
-            }
-          },
-          "1574332559813": {
-            "type": "quote",
-            "settings": {
-              "title": "Custom CMS Block",
-              "text": "<p>Custom CMS block displayed at the left sidebar on the Catalog Page. Put your own content here: text, html, images, media... whatever you like.<\/p>\n<p>There are many similar sample content placeholders across the store. All editable from Theme Editor.<\/p>"
-            }
-          }
-        },
-        "block_order": [
-          "1574329628673",
-          "1574331895665",
-          "1574332073939",
-          "1574332117626",
-          "1574332279121",
-          "1574332473752",
-          "1574332529844",
-          "1574332559813"
-        ],
-        "settings": {
-          "display_sidebar": true,
-          "position_sidebar": "left"
-        }
-      },
-      "collection-template": {
-        "type": "collection-template",
-        "settings": {
-          "layout": "grid",
-          "column": 3,
-          "rows": 12,
-          "sort_enable": true
-        }
-      },
       "collection_customHtml": {
         "type": "collection_customHtml",
         "settings": {
@@ -980,84 +833,12 @@
           "color_des_section": ""
         }
       },
-      "sidebar-collections": {
-        "type": "sidebar-collections",
-        "blocks": {
-          "1574398492855": {
-            "type": "collection_1",
-            "settings": {
-              "title": "Categories",
-              "collection_id": "little_category",
-              "link_list": "main-menu"
-            }
-          },
-          "1574398521935": {
-            "type": "product_carousel",
-            "settings": {
-              "title": "Featured Products",
-              "collection": "wheels-tires",
-              "number": 3
-            }
-          },
-          "1574398542287": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/advertisement-image-1.jpg",
-              "link": "#"
-            }
-          },
-          "1574398557076": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/advertisement-image-2.jpg",
-              "link": "#"
-            }
-          },
-          "1574398578843": {
-            "type": "quote",
-            "settings": {
-              "title": "Custom CMS Block",
-              "text": "<p>Custom CMS block displayed at the left sidebar on the Catalog Page. Put your own content here: text, html, images, media... whatever you like.<\/p>\n<p>There are many similar sample content placeholders across the store. All editable from Theme Editor.<\/p>"
-            }
-          }
-        },
-        "block_order": [
-          "1574398492855",
-          "1574398521935",
-          "1574398542287",
-          "1574398557076",
-          "1574398578843"
-        ],
-        "settings": {
-          "display_sidebar": true,
-          "position_sidebar": "left"
-        }
-      },
-      "list-collections-template": {
-        "type": "list-collections-template",
-        "settings": {
-          "display_type": "all",
-          "sort": "products_high",
-          "column": 3
-        }
-      },
       "list-collections-header": {
         "type": "list-collections-header",
         "settings": {
           "show_collection_image": true,
           "image": "shopify:\/\/shop_images\/collection-header.jpg",
           "description": "Category Description: Lorem ipsum dolor sit amet consectetur adipiscing elit. Nam convallis imperdiet leo faucibus pulvinar justo tempus. Nulla in quam sit amet eratos pretium egestas de vitae tellus. Aenean pulvinar faucibus neque sit amet cosmopolis. Nunc tristique lorem bibendum tincidunt fermentum metus de vehicula velit ornare fermentum."
-        }
-      },
-      "cart-template": {
-        "type": "cart-template",
-        "settings": {
-          "cart_notes_enable": true,
-          "display_trust_img": true,
-          "img_trust": "shopify:\/\/shop_images\/trust_img.jpg",
-          "cart_securityContact": true,
-          "cart_securityContact_text1": "Secure Shopping Guarantee. Your information is secure.",
-          "cart_securityContact_text2": "Need Help? Contact us or Get in touch 1.800.000.8809"
         }
       },
       "lookbook-content": {
@@ -1258,82 +1039,6 @@
         "settings": {
           "display_google_map": true,
           "google_map_code": "<iframe src=\"https:\/\/maps.google.com\/maps?f=q&source=s_q&hl=vi&geocode=&q=4+Nguy%E1%BB%85n+%C4%90%C3%ACnh+chi%E1%BB%83u,+%C4%90a+Kao,+Qu%E1%BA%ADn+1&aq=&sll=37.0625,-95.677068&sspn=41.903538,86.572266&ie=UTF8&hq=&hnear=4+Nguy%E1%BB%85n+%C4%90%C3%ACnh+Chi%E1%BB%83u,+%C4%90a+Kao,+Qu%E1%BA%ADn+1,+H%E1%BB%93+Ch%C3%AD+Minh,+Vi%E1%BB%87t+Nam&t=m&ll=10.797518,106.700377&spn=0.014754,0.071197&z=15&iwloc=A&output=embed\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"100%\" height=\"350\"><\/iframe>"
-        }
-      },
-      "sidebar-blog": {
-        "type": "sidebar-blog",
-        "blocks": {
-          "1574413492223": {
-            "type": "search",
-            "settings": {
-              "enable_search": true
-            }
-          },
-          "1574413923910": {
-            "type": "collection_1",
-            "settings": {
-              "title": "Blog Categories",
-              "collection_id": "little_category",
-              "link_list": "blog-categories"
-            }
-          },
-          "1574413781806": {
-            "type": "recent_post",
-            "settings": {
-              "title": "Recent Posts",
-              "number": 3
-            }
-          },
-          "1574414031473": {
-            "type": "product_carousel",
-            "settings": {
-              "title": "Featured Products",
-              "collection": "wheels-tires",
-              "number": 3
-            }
-          },
-          "1574414049860": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/advertisement-image-1.jpg",
-              "link": "#"
-            }
-          },
-          "1574414061164": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/advertisement-image-2.jpg",
-              "link": "#"
-            }
-          },
-          "1574414071013": {
-            "type": "quote",
-            "settings": {
-              "title": "Custom CMS Block",
-              "text": "<p>Custom CMS block displayed at the left sidebar on the Catalog Page. Put your own content here: text, html, images, media... whatever you like.<\/p>\n<p>There are many similar sample content placeholders across the store. All editable from Theme Editor.<\/p>"
-            }
-          }
-        },
-        "block_order": [
-          "1574413492223",
-          "1574413923910",
-          "1574413781806",
-          "1574414031473",
-          "1574414049860",
-          "1574414061164",
-          "1574414071013"
-        ],
-        "settings": {
-          "display_sidebar": true,
-          "position_sidebar": "left"
-        }
-      },
-      "blog-template": {
-        "type": "blog-template",
-        "settings": {
-          "blog_show_date": true,
-          "blog_show_author": true,
-          "blog_show_tag": false
         }
       },
       "portfolio-content": {
@@ -1691,428 +1396,6 @@
           "title_layout": "vertical"
         }
       },
-      "sidebar-faq": {
-        "type": "sidebar-faq",
-        "blocks": {
-          "1574416846436": {
-            "type": "widget_sidebar",
-            "settings": {
-              "title": "Contact Support Team",
-              "text": "<p><a href=\"mailto:support@halothemes.com\" title=\"mailto:support@halothemes.com\">support@halothemes.com<\/a><\/p>"
-            }
-          },
-          "1574416861283": {
-            "type": "widget_sidebar",
-            "settings": {
-              "title": "Support Terms",
-              "text": "<p>Please add our email:&nbsp;<a href=\"mailto:support@halothemes.com\" title=\"mailto:support@halothemes.com\">support@halothemes.com<\/a>&nbsp;to your address book to ensure our response email isn&rsquo;t marked as spam mail.<\/p>\n<p><strong>What does support include?<\/strong><\/p>\n<p><a href=\"https:\/\/caros-theme.myshopify.com\/admin\/themes\/76494897245\/editor\" title=\"#\"><strong>Plus, item support includes:<\/strong><\/a><\/p>\n<p>-&nbsp; Availability to answer questions<\/p>\n<p>-&nbsp;&nbsp;Get assistance with reported product bugs and issues<\/p>\n<p><a href=\"https:\/\/caros-theme.myshopify.com\/admin\/themes\/76494897245\/editor\" title=\"#\"><strong>Item support does not includes:<\/strong><\/a><\/p>\n<p>-&nbsp;&nbsp;Customization requests<\/p>\n<p>-&nbsp;&nbsp;Product Installations services<\/p>\n<p>We will try our best to reply your emails as soon as possible. However, we will prioritise email regarding Theme features and issues.<\/p>\n<p><em>We will reply your email regarding Theme features and issues within 24 hours. Regarding emails about template customisation, we will reply you within 48 hours (but normally much sooner).<\/em><\/p>\n<p>Your opinions is highly appreciated and help us built better products.<\/p>\n<p>Thank you, HaloThemes Team.<\/p>"
-            }
-          }
-        },
-        "block_order": [
-          "1574416846436",
-          "1574416861283"
-        ],
-        "settings": {
-          "display_sidebar": true,
-          "position_sidebar": "right"
-        }
-      },
-      "faq-template": {
-        "type": "faq-template",
-        "blocks": {
-          "1574416988522": {
-            "type": "question",
-            "settings": {
-              "question_faqs": "<span class=\"label-question\">Question<\/span>Will your template be fully compatible with Shopify?",
-              "answer_faqs": "<p><span class=\"label-answer\">Answer<\/span>Yes it is.<\/p>"
-            }
-          },
-          "1574417008892": {
-            "type": "question",
-            "settings": {
-              "question_faqs": "<span class=\"label-question\">Question<\/span>I cannot upload the theme to my Shopify store \/ Shopify alerts that the file is too big to upload, what is the problem?",
-              "answer_faqs": "<p><span class=\"label-answer\">Answer<\/span>Please make sure that you follow below steps:<\/p>\n<p>1\/ Download the package from themeforest.net (the file is in zip format)<br><br>2\/ Extract the file you've just downloaded.<br><br>3\/ Find this file: ella-3.0.0-sections-ready.zip in the folder Ella Sections Ready 3.0.0, then you just need to upload ella-3.0.0-sections-ready.zip file to your Shopify store.<br>&lt;\/p&gt;<\/p>"
-            }
-          },
-          "1574417024150": {
-            "type": "question",
-            "settings": {
-              "question_faqs": "<span class=\"label-question\">Question<\/span>What I have to do when I need your support?",
-              "answer_faqs": "<span class=\"label-answer\">Answer<\/span><p>To save your time and reach our support quickly, please follow below steps:<\/p>\n<p>1\/ Create a staff account for us (with Themes permission and Settings permission) <a href=\"http:\/\/docs.shopify.com\/manual\/settings\/account\/staff-members\" title=\"http:\/\/docs.shopify.com\/manual\/settings\/account\/staff-members\">http:\/\/docs.shopify.com\/manual\/settings\/account\/staff-members<\/a><\/p>\n<p>2\/ Capture screenshot or video for the issue you get.<\/p>\n<p>3\/ Specify which template and version you are using.<\/p>\n<p>4\/ Describe clearly how to reproduce the issue.<\/p>\n<p>5\/ Send all information (staff account, screenshot, video, template name and version, description of the issues, link) to <a href=\"mailto:support@halothemes.com\" title=\"mailto:support@halothemes.com\">support@halothemes.com<\/a><\/p>"
-            }
-          },
-          "1574417041895": {
-            "type": "question",
-            "settings": {
-              "question_faqs": "<span class=\"label-question\">Question<\/span>Would assistance be available to upload the template if needed?",
-              "answer_faqs": "<span class=\"label-answer\">Answer<\/span><p>Yes, we will assist you to install the template if needed<\/p>"
-            }
-          },
-          "1574417056451": {
-            "type": "question",
-            "settings": {
-              "question_faqs": "<span class=\"label-question\">Question<\/span>Do you guys offer customisation services for your themes?",
-              "answer_faqs": "<span class=\"label-answer\">Answer<\/span><p>Yes, we do. Please send your customisation requests to <a href=\"mailto:support@halothemes.com\" title=\"mailto:support@halothemes.com\">support@halothemes.com<\/a>, we will give you our quote. Thank you.<\/p>"
-            }
-          },
-          "1574417069185": {
-            "type": "question",
-            "settings": {
-              "question_faqs": "<span class=\"label-question\">Question<\/span>Can I turn on\/off Lazy Loading Image \/ Item Animation \/ Fade Up on the page?",
-              "answer_faqs": "<span class=\"label-answer\">Answer<\/span><p>Yes. You can turn on\/off the animation in the Setting page.<\/p>"
-            }
-          },
-          "1574417082146": {
-            "type": "question",
-            "settings": {
-              "question_faqs": "<span class=\"label-question\">Question<\/span>Can I turn on\/off some blocks on the page?",
-              "answer_faqs": "<span class=\"label-answer\">Answer<\/span><p>Yes. You can turn on\/off almost any blocks on the page (featured products, slideshow, banners, related products, recent products,...).<\/p>"
-            }
-          },
-          "1574417094366": {
-            "type": "question",
-            "settings": {
-              "question_faqs": "<span class=\"label-question\">Question<\/span>I want to have the dropdown cart displayed automatically every time clients hover over it (instead of clicking on it). Is it possible?",
-              "answer_faqs": "<span class=\"label-answer\">Answer<\/span><p>Yes, we have a setting for you to switch between these two options: Display on Hover and Display on Click.<\/p>"
-            }
-          },
-          "1574417107227": {
-            "type": "question",
-            "settings": {
-              "question_faqs": "<span class=\"label-question\">Question<\/span>What is included in the theme package?",
-              "answer_faqs": "<span class=\"label-answer\">Answer<\/span><p>The theme package includes theme source, Photoshop design files, sample data and manual guide.<\/p>"
-            }
-          },
-          "1574417124608": {
-            "type": "question",
-            "settings": {
-              "question_faqs": "<span class=\"label-question\">Question<\/span>I notice that the images used in the theme are all portrait. Will that be a problem if I use square images for our products? How will they be displayed in the theme?",
-              "answer_faqs": "<span class=\"label-answer\">Answer<\/span><p>That is not a problem. You just need to modify the width\/height ratio in theme settings.<\/p>"
-            }
-          },
-          "1574417139956": {
-            "type": "question",
-            "settings": {
-              "question_faqs": "<span class=\"label-question\">Question<\/span>Does the theme support image resizing and cropping?",
-              "answer_faqs": "<span class=\"label-answer\">Answer<\/span><p>Yes. Normally, the theme will resize images to a default size (based on your width\/height ratio setting). We also have Crop setting if you don’t want to scale the image.<\/p>"
-            }
-          },
-          "1574417154896": {
-            "type": "question",
-            "settings": {
-              "question_faqs": "<span class=\"label-question\">Question<\/span>Can I add borders around our product images?",
-              "answer_faqs": "<span class=\"label-answer\">Answer<\/span><p>Yes, you can. You can also set image border colours.<\/p>"
-            }
-          },
-          "1574417166902": {
-            "type": "question",
-            "settings": {
-              "question_faqs": "<span class=\"label-question\">Question<\/span>Can I have multi level menu?",
-              "answer_faqs": "<span class=\"label-answer\">Answer<\/span><p>Yes, you can. Just simply follow the instructions in our Manual Guide, you will be able to easily create a multi-level menu.<\/p>"
-            }
-          },
-          "1574417178748": {
-            "type": "question",
-            "settings": {
-              "question_faqs": "<span class=\"label-question\">Question<\/span>Do you guys provide customer support during weekends \/ holidays?",
-              "answer_faqs": "<span class=\"label-answer\">Answer<\/span><p>Normally we don't provide support during weekends, except for urgent cases. In these cases, you only need to mark “Urgent” in your email, we will get back to you ASAP.<\/p>"
-            }
-          },
-          "1574417190285": {
-            "type": "question",
-            "settings": {
-              "question_faqs": "<span class=\"label-question\">Question<\/span>Does the theme support Variant Image?",
-              "answer_faqs": "<span class=\"label-answer\">Answer<\/span><p>Yes, it does. Please check it out here to see how it works: <a href=\"https:\/\/sneake-demo.myshopify.com\/products\/sample-proin-de-corper-nulla-dan-melementum-1?variant=10214763888684\">https:\/\/sneake-demo.myshopify.com\/products\/sample-proin-de-corper-nulla-dan-melementum-1?variant=10214763888684<\/a><\/p>"
-            }
-          }
-        },
-        "block_order": [
-          "1574416988522",
-          "1574417008892",
-          "1574417024150",
-          "1574417041895",
-          "1574417056451",
-          "1574417069185",
-          "1574417082146",
-          "1574417094366",
-          "1574417107227",
-          "1574417124608",
-          "1574417139956",
-          "1574417154896",
-          "1574417166902",
-          "1574417178748",
-          "1574417190285"
-        ],
-        "settings": {
-          "email_text": "Contact Support",
-          "email_url": "mailto:support@halothemes.com"
-        }
-      },
-      "product-template-2": {
-        "type": "product-template-2",
-        "settings": {
-          "enable_zoom": true,
-          "enable_fancybox": true,
-          "video_product": true,
-          "video_icon_type": "font",
-          "video_icon": "<i class=\"far fa-play-circle\"><\/i>",
-          "video_image": "",
-          "show_contacts": true,
-          "contacts_image": "shopify:\/\/shop_images\/contact-image_5764e156-2e0f-45bd-b857-1bd8c2518947.jpg",
-          "contact_title": "Have Questions?",
-          "contact_phone": "1.800.000.6890",
-          "ask_an_expert": true,
-          "ask_an_expert_title": "Ask an Experts",
-          "show_services": true,
-          "services_icon_1": "<i class=\"fas fa-check\"><\/i>",
-          "services_title_1": "Guaranteed Fitment",
-          "services_description_1": "Always the correct part",
-          "services_icon_2": "<i class=\"fas fa-phone\"><\/i>",
-          "services_title_2": "In-House Experts",
-          "services_description_2": "We know our products",
-          "services_icon_3": "<i class=\"fas fa-wrench\"><\/i>",
-          "services_title_3": "Added Value",
-          "services_description_3": "Mounting, Balancing",
-          "services_icon_4": "<i class=\"fas fa-dice-d6\"><\/i>",
-          "services_title_4": "Wordwide Delivery",
-          "services_description_4": "Free shipping on all orders",
-          "display_product_reviews": true,
-          "show_sold_in": true,
-          "item_prd": "3,5,6,7,8,10,12,15",
-          "item_prds": "sold in last",
-          "hours_prs": "10,15,16,17,18,20,25,35",
-          "item_hours": "hours",
-          "display_vendor": true,
-          "display_product_sku": true,
-          "display_availability": true,
-          "display_product_type": true,
-          "display_countdown": true,
-          "display_price": true,
-          "display_subtotal": true,
-          "show_quantity_selector": true,
-          "display_short_description": true,
-          "type_short_description": "default",
-          "number_words": "16",
-          "use_color_swatch": true,
-          "option_color_swatch": "Color",
-          "use_size_swatch": true,
-          "option_size_swatch": "Size",
-          "use_material_swatch": true,
-          "option_material_swatch": "Material",
-          "display_size_chart": true,
-          "size_guide_text": "Size Guide",
-          "custom_size_chart_header": "Size Chart",
-          "size_chart": "none",
-          "custom_size_chart": "shopify:\/\/shop_images\/size-chart.jpg",
-          "enable_payment_button": false,
-          "dpl_customers_view": true,
-          "title_view": "customers are viewing this product",
-          "number_view": "283, 100, 59, 11, 14, 185, 193, 165, 50, 38, 99, 112, 46, 10, 125, 200, 250, 18",
-          "display_product_detail_share": true,
-          "share_text": "Share",
-          "display_trust_img": true,
-          "img_trust": "shopify:\/\/shop_images\/trust_img.jpg",
-          "enable_sticky_atc": true
-        }
-      },
-      "frequently-by-together-2": {
-        "type": "frequently-by-together-2",
-        "settings": {
-          "dpl_grouped_product": true,
-          "border": true,
-          "padding-top": 0,
-          "padding-bottom": 7,
-          "title": "Frequently Bought Together",
-          "enable_bundle_discount": true,
-          "bundle_discount_text": "Get a [discount]% discount buying these products together"
-        }
-      },
-      "tab-vertical": {
-        "type": "tab-vertical",
-        "blocks": {
-          "1574678500945": {
-            "type": "product_tab",
-            "settings": {
-              "type_tab": "all",
-              "product_tab_title": "Shipping + Returns",
-              "product_tab_content": "<p><i>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.<\/i><\/p>\n<h5>Returns Policy<\/h5>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ut blandit risus. Donec mollis nec tellus et rutrum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut consequat quam a purus faucibus scelerisque. Mauris ac dui ante. Pellentesque congue porttitor tempus. Donec sodales dapibus urna sed dictum. Duis congue posuere libero, a aliquam est porta quis. <\/p>\n<p>Donec ullamcorper magna enim, vitae fermentum turpis elementum quis. Interdum et malesuada fames ac ante ipsum primis in faucibus. <\/p>\n<p>Curabitur vel sem mi. Proin in lobortis ipsum. Aliquam rutrum tempor ex ac rutrum. Maecenas nunc nulla, placerat at eleifend in, viverra etos sem. Nam sagittis lacus metus, dignissim blandit magna euismod eget. Suspendisse a nisl lacus. Phasellus eget augue tincidunt, sollicitudin lectus sed, convallis desto. Pellentesque vitae dui lacinia, venenatis erat sit amet, fringilla felis. Nullam maximus nisi nec mi facilisis.<\/p>\n\n<h5>Shipping<\/h5>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ut blandit risus. Donec mollis nec tellus et rutrum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut consequat quam a purus faucibus scelerisque. Mauris ac dui ante. Pellentesque congue porttitor tempus. Donec sodales dapibus urna sed dictum. Duis congue posuere libero, a aliquam est porta quis. <\/p>\n<p>Donec ullamcorper magna enim, vitae fermentum turpis elementum quis. Interdum et malesuada fames ac ante ipsum primis in faucibus. <\/p>\n<p>Curabitur vel sem mi. Proin in lobortis ipsum. Aliquam rutrum tempor ex ac rutrum. Maecenas nunc nulla, placerat at eleifend in, viverra etos sem. Nam sagittis lacus metus, dignissim blandit magna euismod eget. Suspendisse a nisl lacus. Phasellus eget augue tincidunt, sollicitudin lectus sed, convallis desto. Pellentesque vitae dui lacinia, venenatis erat sit amet, fringilla felis. Nullam maximus nisi nec mi facilisis.<\/p>",
-              "product_tab_content_2": ""
-            }
-          },
-          "1574678619134": {
-            "type": "product_tab",
-            "settings": {
-              "type_tab": "all",
-              "product_tab_title": "Custom tab",
-              "product_tab_content": "<p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis. Pellentesque diam dolor cosmopolis etos lobortis.<\/p>\n<table>\n    <tbody>\n        <tr>\n            <td class=\"title\">Comodous:<\/td>\n            <td>Comodous in tempor ullamcorper miaculis<\/td>\n        <\/tr>\n        <tr>\n            <td class=\"title\">Mattis laoreet:<\/td>\n            <td>Pellentesque vitae neque mollis urna mattis laoreet<\/td>\n        <\/tr>\n        <tr>\n            <td class=\"title\">Divamus de ametos:<\/td>\n            <td>Divamus sit amet purus justo<\/td>\n        <\/tr>\n        <tr>\n            <td class=\"title\">Molestie:<\/td>\n            <td>Proin molestie egestas orci ac suscipit risus posuere loremous<\/td>\n        <\/tr>\n    <\/tbody>\n<\/table>",
-              "product_tab_content_2": ""
-            }
-          },
-          "1574678588525": {
-            "type": "product_tab",
-            "settings": {
-              "type_tab": "all",
-              "product_tab_title": "FAQ",
-              "product_tab_content": "<div id=\"accordion\">\n    \n        <div class=\"card card-2\">\n            <div class=\"card-header\" id=\"heading-1569828417275\">\n                <button class=\"title collapsed\" data-toggle=\"collapse\" data-target=\"#1569828417275\" aria-expanded=\"true\" aria-controls=\"1569828417275\">\n                    Will your template be fully compatible with Shopify?\n                <\/button>\n                \n                <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon--wide icon-chevron-down\" viewbox=\"0 0 498.98 284.49\"><defs><\/defs><path class=\"cls-1\" d=\"M80.93 271.76A35 35 0 0 1 140.68 247l189.74 189.75L520.16 247a35 35 0 1 1 49.5 49.5L355.17 511a35 35 0 0 1-49.5 0L91.18 296.5a34.89 34.89 0 0 1-10.25-24.74z\" transform=\"translate(-80.93 -236.76)\"><\/path><\/svg>\n            <\/div>\n            <div id=\"1569828417275\" class=\"collapse\" aria-labelledby=\"heading-1569828417275\" data-parent=\"#accordion\">\n                <div class=\"card-body\">\n                    \n                    <p>Yes it is.<\/p>\n                <\/div>\n            <\/div>\n        <\/div>\n    \n        <div class=\"card card-2\">\n            <div class=\"card-header\" id=\"heading-1569828878550\">\n                <button class=\"title collapsed\" data-toggle=\"collapse\" data-target=\"#1569828878550\" aria-expanded=\"true\" aria-controls=\"1569828878550\">\n                    I cannot upload the theme to my Shopify store \/ Shopify alerts that the file is too big to upload, what is the problem?\n                <\/button>\n                \n                <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon--wide icon-chevron-down\" viewbox=\"0 0 498.98 284.49\"><defs><\/defs><path class=\"cls-1\" d=\"M80.93 271.76A35 35 0 0 1 140.68 247l189.74 189.75L520.16 247a35 35 0 1 1 49.5 49.5L355.17 511a35 35 0 0 1-49.5 0L91.18 296.5a34.89 34.89 0 0 1-10.25-24.74z\" transform=\"translate(-80.93 -236.76)\"><\/path><\/svg>\n            <\/div>\n            <div id=\"1569828878550\" class=\"collapse\" aria-labelledby=\"heading-1569828878550\" data-parent=\"#accordion\">\n                <div class=\"card-body\">\n                    \n                    <p>Please make sure that you follow below steps:<\/p>\n<p>1\/ Download the package from themeforest.net (the file is in zip format)<br><br>2\/ Extract the file you've just downloaded.<br><br>3\/ Find this file: ella-3.0.0-sections-ready.zip in the folder Ella Sections Ready 3.0.0, then you just need to upload ella-3.0.0-sections-ready.zip file to your Shopify store.<br><\/p>\n                <\/div>\n            <\/div>\n        <\/div>\n    \n        <div class=\"card card-2\">\n            <div class=\"card-header\" id=\"heading-1569828968822\">\n                <button class=\"title collapsed\" data-toggle=\"collapse\" data-target=\"#1569828968822\" aria-expanded=\"true\" aria-controls=\"1569828968822\">\n                    What I have to do when I need your support?\n                <\/button>\n                \n                <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon--wide icon-chevron-down\" viewbox=\"0 0 498.98 284.49\"><defs><\/defs><path class=\"cls-1\" d=\"M80.93 271.76A35 35 0 0 1 140.68 247l189.74 189.75L520.16 247a35 35 0 1 1 49.5 49.5L355.17 511a35 35 0 0 1-49.5 0L91.18 296.5a34.89 34.89 0 0 1-10.25-24.74z\" transform=\"translate(-80.93 -236.76)\"><\/path><\/svg>\n            <\/div>\n            <div id=\"1569828968822\" class=\"collapse\" aria-labelledby=\"heading-1569828968822\" data-parent=\"#accordion\">\n                <div class=\"card-body\">\n                    \n                    <p>To save your time and reach our support quickly, please follow below steps:<\/p>\n<p>1\/ Create a staff account for us (with Themes permission and Settings permission) <a href=\"http:\/\/docs.shopify.com\/manual\/settings\/account\/staff-members\" title=\"http:\/\/docs.shopify.com\/manual\/settings\/account\/staff-members\" aria-describedby=\"a11y-external-message\">http:\/\/docs.shopify.com\/manual\/settings\/account\/staff-members<\/a><\/p>\n<p>2\/ Capture screenshot or video for the issue you get.<\/p>\n<p>3\/ Specify which template and version you are using.<\/p>\n<p>4\/ Describe clearly how to reproduce the issue.<\/p>\n<p>5\/ Send all information (staff account, screenshot, video, template name and version, description of the issues, link) to <a href=\"mailto:support@halothemes.com\" title=\"mailto:support@halothemes.com\" aria-describedby=\"a11y-external-message\">support@halothemes.com<\/a><\/p>\n                <\/div>\n            <\/div>\n        <\/div>\n    \n        <div class=\"card card-2\">\n            <div class=\"card-header\" id=\"heading-1569829479298\">\n                <button class=\"title collapsed\" data-toggle=\"collapse\" data-target=\"#1569829479298\" aria-expanded=\"true\" aria-controls=\"1569829479298\">\n                    Would assistance be available to upload the template if needed?\n                <\/button>\n                \n                <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon--wide icon-chevron-down\" viewbox=\"0 0 498.98 284.49\"><defs><\/defs><path class=\"cls-1\" d=\"M80.93 271.76A35 35 0 0 1 140.68 247l189.74 189.75L520.16 247a35 35 0 1 1 49.5 49.5L355.17 511a35 35 0 0 1-49.5 0L91.18 296.5a34.89 34.89 0 0 1-10.25-24.74z\" transform=\"translate(-80.93 -236.76)\"><\/path><\/svg>\n            <\/div>\n            <div id=\"1569829479298\" class=\"collapse\" aria-labelledby=\"heading-1569829479298\" data-parent=\"#accordion\">\n                <div class=\"card-body\">\n                    \n                    <p>Yes, we will assist you to install the template if needed<\/p>\n                <\/div>\n            <\/div>\n        <\/div>\n    \n        <div class=\"card card-2\">\n            <div class=\"card-header\" id=\"heading-1569830261920\">\n                <button class=\"title collapsed\" data-toggle=\"collapse\" data-target=\"#1569830261920\" aria-expanded=\"true\" aria-controls=\"1569830261920\">\n                    Do you guys offer customisation services for your themes?\n                <\/button>\n                \n                <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon--wide icon-chevron-down\" viewbox=\"0 0 498.98 284.49\"><defs><\/defs><path class=\"cls-1\" d=\"M80.93 271.76A35 35 0 0 1 140.68 247l189.74 189.75L520.16 247a35 35 0 1 1 49.5 49.5L355.17 511a35 35 0 0 1-49.5 0L91.18 296.5a34.89 34.89 0 0 1-10.25-24.74z\" transform=\"translate(-80.93 -236.76)\"><\/path><\/svg>\n            <\/div>\n            <div id=\"1569830261920\" class=\"collapse\" aria-labelledby=\"heading-1569830261920\" data-parent=\"#accordion\">\n                <div class=\"card-body\">\n                    \n                    <p>Yes, we do. Please send your customisation requests to <a href=\"mailto:support@halothemes.com\" title=\"mailto:support@halothemes.com\" aria-describedby=\"a11y-external-message\">support@halothemes.com<\/a>, we will give you our quote. Thank you.<\/p>\n                <\/div>\n            <\/div>\n        <\/div>\n    \n        <div class=\"card card-2\">\n            <div class=\"card-header\" id=\"heading-1569830303138\">\n                <button class=\"title collapsed\" data-toggle=\"collapse\" data-target=\"#1569830303138\" aria-expanded=\"true\" aria-controls=\"1569830303138\">\n                    Can I turn on\/off Lazy Loading Image \/ Item Animation \/ Fade Up on the page?\n                <\/button>\n                \n                <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon--wide icon-chevron-down\" viewbox=\"0 0 498.98 284.49\"><defs><\/defs><path class=\"cls-1\" d=\"M80.93 271.76A35 35 0 0 1 140.68 247l189.74 189.75L520.16 247a35 35 0 1 1 49.5 49.5L355.17 511a35 35 0 0 1-49.5 0L91.18 296.5a34.89 34.89 0 0 1-10.25-24.74z\" transform=\"translate(-80.93 -236.76)\"><\/path><\/svg>\n            <\/div>\n            <div id=\"1569830303138\" class=\"collapse\" aria-labelledby=\"heading-1569830303138\" data-parent=\"#accordion\">\n                <div class=\"card-body\">\n                    \n                    <p>Yes. You can turn on\/off the animation in the Setting page.<\/p>\n                <\/div>\n            <\/div>\n        <\/div>\n    \n        <div class=\"card card-2\">\n            <div class=\"card-header\" id=\"heading-1569830330055\">\n                <button class=\"title collapsed\" data-toggle=\"collapse\" data-target=\"#1569830330055\" aria-expanded=\"true\" aria-controls=\"1569830330055\">\n                    Can I turn on\/off some blocks on the page?\n                <\/button>\n                \n                <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon--wide icon-chevron-down\" viewbox=\"0 0 498.98 284.49\"><defs><\/defs><path class=\"cls-1\" d=\"M80.93 271.76A35 35 0 0 1 140.68 247l189.74 189.75L520.16 247a35 35 0 1 1 49.5 49.5L355.17 511a35 35 0 0 1-49.5 0L91.18 296.5a34.89 34.89 0 0 1-10.25-24.74z\" transform=\"translate(-80.93 -236.76)\"><\/path><\/svg>\n            <\/div>\n            <div id=\"1569830330055\" class=\"collapse\" aria-labelledby=\"heading-1569830330055\" data-parent=\"#accordion\">\n                <div class=\"card-body\">\n                    \n                    <p>Yes. You can turn on\/off almost any blocks on the page (featured products, slideshow, banners, related products, recent products,...).<\/p>\n                <\/div>\n            <\/div>\n        <\/div>\n    \n        <div class=\"card card-2\">\n            <div class=\"card-header\" id=\"heading-1569830354345\">\n                <button class=\"title collapsed\" data-toggle=\"collapse\" data-target=\"#1569830354345\" aria-expanded=\"true\" aria-controls=\"1569830354345\">\n                    I want to have the dropdown cart displayed automatically every time clients hover over it (instead of clicking on it). Is it possible?\n                <\/button>\n                \n                <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon--wide icon-chevron-down\" viewbox=\"0 0 498.98 284.49\"><defs><\/defs><path class=\"cls-1\" d=\"M80.93 271.76A35 35 0 0 1 140.68 247l189.74 189.75L520.16 247a35 35 0 1 1 49.5 49.5L355.17 511a35 35 0 0 1-49.5 0L91.18 296.5a34.89 34.89 0 0 1-10.25-24.74z\" transform=\"translate(-80.93 -236.76)\"><\/path><\/svg>\n            <\/div>\n            <div id=\"1569830354345\" class=\"collapse\" aria-labelledby=\"heading-1569830354345\" data-parent=\"#accordion\">\n                <div class=\"card-body\">\n                    \n                    <p>Yes, we have a setting for you to switch between these two options: Display on Hover and Display on Click.<\/p>\n                <\/div>\n            <\/div>\n        <\/div>\n    \n        <div class=\"card card-2\">\n            <div class=\"card-header\" id=\"heading-1569830380421\">\n                <button class=\"title collapsed\" data-toggle=\"collapse\" data-target=\"#1569830380421\" aria-expanded=\"true\" aria-controls=\"1569830380421\">\n                    What is included in the theme package?\n                <\/button>\n                \n                <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon--wide icon-chevron-down\" viewbox=\"0 0 498.98 284.49\"><defs><\/defs><path class=\"cls-1\" d=\"M80.93 271.76A35 35 0 0 1 140.68 247l189.74 189.75L520.16 247a35 35 0 1 1 49.5 49.5L355.17 511a35 35 0 0 1-49.5 0L91.18 296.5a34.89 34.89 0 0 1-10.25-24.74z\" transform=\"translate(-80.93 -236.76)\"><\/path><\/svg>\n            <\/div>\n            <div id=\"1569830380421\" class=\"collapse\" aria-labelledby=\"heading-1569830380421\" data-parent=\"#accordion\">\n                <div class=\"card-body\">\n                    \n                    <p>The theme package includes theme source, Photoshop design files, sample data and manual guide.<\/p>\n                <\/div>\n            <\/div>\n        <\/div>\n    \n        <div class=\"card card-2\">\n            <div class=\"card-header\" id=\"heading-1569830404635\">\n                <button class=\"title collapsed\" data-toggle=\"collapse\" data-target=\"#1569830404635\" aria-expanded=\"true\" aria-controls=\"1569830404635\">\n                    I notice that the images used in the theme are all portrait. Will that be a problem if I use square images for our products? How will they be displayed in the theme?\n                <\/button>\n                \n                <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon--wide icon-chevron-down\" viewbox=\"0 0 498.98 284.49\"><defs><\/defs><path class=\"cls-1\" d=\"M80.93 271.76A35 35 0 0 1 140.68 247l189.74 189.75L520.16 247a35 35 0 1 1 49.5 49.5L355.17 511a35 35 0 0 1-49.5 0L91.18 296.5a34.89 34.89 0 0 1-10.25-24.74z\" transform=\"translate(-80.93 -236.76)\"><\/path><\/svg>\n            <\/div>\n            <div id=\"1569830404635\" class=\"collapse\" aria-labelledby=\"heading-1569830404635\" data-parent=\"#accordion\">\n                <div class=\"card-body\">\n                    \n                    <p>That is not a problem. You just need to modify the width\/height ratio in theme settings.<\/p>\n                <\/div>\n            <\/div>\n        <\/div>\n    \n<\/div>",
-              "product_tab_content_2": ""
-            }
-          }
-        },
-        "block_order": [
-          "1574678500945",
-          "1574678619134",
-          "1574678588525"
-        ],
-        "settings": {
-          "display_product_detail_description": true,
-          "product_description_title": "Description",
-          "display_product_reviews": true,
-          "product_review_title": "Customer Reviews",
-          "display_shipping_returns": true
-        }
-      },
-      "product-recommendations": {
-        "type": "product-recommendations",
-        "settings": {
-          "show_product_recommendations": true,
-          "background-color": false,
-          "border-top": false,
-          "border-bottom": false,
-          "padding-top": 0,
-          "padding-bottom": 3,
-          "title": "Related Products",
-          "text_link": "",
-          "custom_link": "",
-          "description": "",
-          "title_border": true,
-          "products_layout": "carousel",
-          "column": 2,
-          "row": 2,
-          "carousel-arrows": true,
-          "carousel-dots": true
-        }
-      },
-      "product-template": {
-        "type": "product-template",
-        "settings": {
-          "thumnail_image_position": "position_left",
-          "enable_zoom": true,
-          "enable_fancybox": true,
-          "video_product": true,
-          "video_icon_type": "image",
-          "video_icon": "<i class=\"far fa-play-circle\"><\/i>",
-          "video_image": "shopify:\/\/shop_images\/video.png",
-          "video_header": "Video",
-          "instruction_product": true,
-          "instruction_icon_type": "image",
-          "instruction_icon": "<i class=\"fas fa-book\"><\/i>",
-          "instruction_image": "shopify:\/\/shop_images\/instruction.png",
-          "instruction_header": "Instruction",
-          "warranty_product": true,
-          "warranty_icon_type": "image",
-          "warranty_icon": "<i class=\"fas fa-shield-alt\"><\/i>",
-          "warranty_image": "shopify:\/\/shop_images\/warranty.png",
-          "warranty_header": "Warranty",
-          "show_contacts": true,
-          "contacts_image": "shopify:\/\/shop_images\/contact-image.jpg",
-          "contact_title": "Have Questions?",
-          "contact_phone": "1.800.000.6890",
-          "ask_an_expert": true,
-          "ask_an_expert_title": "Ask an Experts",
-          "show_services": true,
-          "services_icon_1": "<i class=\"fas fa-check\"><\/i>",
-          "services_title_1": "Guaranteed Fitment",
-          "services_description_1": "Always the correct part",
-          "services_icon_2": "<i class=\"fas fa-phone\"><\/i>",
-          "services_title_2": "In-House Experts",
-          "services_description_2": "We know our products",
-          "services_icon_3": "<i class=\"fas fa-wrench\"><\/i>",
-          "services_title_3": "Added Value",
-          "services_description_3": "Mounting, Balancing",
-          "services_icon_4": "<i class=\"fas fa-dice-d6\"><\/i>",
-          "services_title_4": "Wordwide Delivery",
-          "services_description_4": "Free shipping on all orders",
-          "display_product_reviews": true,
-          "show_sold_in": true,
-          "item_prd": "3,5,6,7,8,10,12,15",
-          "item_prds": "sold in last",
-          "hours_prs": "10,15,16,17,18,20,25,35",
-          "item_hours": "hours",
-          "display_vendor": true,
-          "display_product_sku": true,
-          "display_availability": true,
-          "display_product_type": true,
-          "display_countdown": true,
-          "display_price": true,
-          "display_subtotal": true,
-          "show_quantity_selector": true,
-          "display_short_description": true,
-          "type_short_description": "default",
-          "number_words": "16",
-          "use_color_swatch": true,
-          "option_color_swatch": "Color",
-          "use_size_swatch": true,
-          "option_size_swatch": "Size",
-          "use_material_swatch": true,
-          "option_material_swatch": "Material",
-          "display_size_chart": true,
-          "size_guide_text": "Size Guide",
-          "custom_size_chart_header": "Size Chart",
-          "size_chart": "none",
-          "custom_size_chart": "shopify:\/\/shop_images\/size-chart.jpg",
-          "enable_payment_button": true,
-          "dpl_customers_view": true,
-          "title_view": "customers are viewing this product",
-          "number_view": "283, 100, 59, 11, 14, 185, 193, 165, 50, 38, 99, 112, 46, 10, 125, 200, 250, 18",
-          "display_product_detail_share": true,
-          "share_text": "Share",
-          "display_trust_img": true,
-          "img_trust": "shopify:\/\/shop_images\/trust_img.jpg",
-          "enable_sticky_atc": true
-        }
-      },
-      "tab-horizontal-2": {
-        "type": "tab-horizontal-2",
-        "blocks": {
-          "1574671007763": {
-            "type": "product_tab",
-            "settings": {
-              "type_tab": "all",
-              "product_tab_title": "Shipping + Returns",
-              "product_tab_content": "<p><i>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.<\/i><\/p>\n<h5>Returns Policy<\/h5>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ut blandit risus. Donec mollis nec tellus et rutrum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut consequat quam a purus faucibus scelerisque. Mauris ac dui ante. Pellentesque congue porttitor tempus. Donec sodales dapibus urna sed dictum. Duis congue posuere libero, a aliquam est porta quis. <\/p>\n<p>Donec ullamcorper magna enim, vitae fermentum turpis elementum quis. Interdum et malesuada fames ac ante ipsum primis in faucibus. <\/p>\n<p>Curabitur vel sem mi. Proin in lobortis ipsum. Aliquam rutrum tempor ex ac rutrum. Maecenas nunc nulla, placerat at eleifend in, viverra etos sem. Nam sagittis lacus metus, dignissim blandit magna euismod eget. Suspendisse a nisl lacus. Phasellus eget augue tincidunt, sollicitudin lectus sed, convallis desto. Pellentesque vitae dui lacinia, venenatis erat sit amet, fringilla felis. Nullam maximus nisi nec mi facilisis.<\/p>\n\n<h5>Shipping<\/h5>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ut blandit risus. Donec mollis nec tellus et rutrum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut consequat quam a purus faucibus scelerisque. Mauris ac dui ante. Pellentesque congue porttitor tempus. Donec sodales dapibus urna sed dictum. Duis congue posuere libero, a aliquam est porta quis. <\/p>\n<p>Donec ullamcorper magna enim, vitae fermentum turpis elementum quis. Interdum et malesuada fames ac ante ipsum primis in faucibus. <\/p>\n<p>Curabitur vel sem mi. Proin in lobortis ipsum. Aliquam rutrum tempor ex ac rutrum. Maecenas nunc nulla, placerat at eleifend in, viverra etos sem. Nam sagittis lacus metus, dignissim blandit magna euismod eget. Suspendisse a nisl lacus. Phasellus eget augue tincidunt, sollicitudin lectus sed, convallis desto. Pellentesque vitae dui lacinia, venenatis erat sit amet, fringilla felis. Nullam maximus nisi nec mi facilisis.<\/p>",
-              "product_tab_content_2": ""
-            }
-          },
-          "1574671098104": {
-            "type": "product_tab",
-            "settings": {
-              "type_tab": "all",
-              "product_tab_title": "Custom Tab",
-              "product_tab_content": "<p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis. Pellentesque diam dolor cosmopolis etos lobortis.<\/p>\n<table>\n    <tbody>\n        <tr>\n            <td class=\"title\">Comodous:<\/td>\n            <td>Comodous in tempor ullamcorper miaculis<\/td>\n        <\/tr>\n        <tr>\n            <td class=\"title\">Mattis laoreet:<\/td>\n            <td>Pellentesque vitae neque mollis urna mattis laoreet<\/td>\n        <\/tr>\n        <tr>\n            <td class=\"title\">Divamus de ametos:<\/td>\n            <td>Divamus sit amet purus justo<\/td>\n        <\/tr>\n        <tr>\n            <td class=\"title\">Molestie:<\/td>\n            <td>Proin molestie egestas orci ac suscipit risus posuere loremous<\/td>\n        <\/tr>\n    <\/tbody>\n<\/table>",
-              "product_tab_content_2": ""
-            }
-          },
-          "1574671134797": {
-            "type": "product_tab",
-            "settings": {
-              "type_tab": "all",
-              "product_tab_title": "FAQ",
-              "product_tab_content": "<div id=\"accordion\">\n    \n        <div class=\"card card-2\">\n            <div class=\"card-header\" id=\"heading-1569828417275\">\n                <button class=\"title collapsed\" data-toggle=\"collapse\" data-target=\"#1569828417275\" aria-expanded=\"true\" aria-controls=\"1569828417275\">\n                    Will your template be fully compatible with Shopify?\n                <\/button>\n                \n                <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon--wide icon-chevron-down\" viewbox=\"0 0 498.98 284.49\"><defs><\/defs><path class=\"cls-1\" d=\"M80.93 271.76A35 35 0 0 1 140.68 247l189.74 189.75L520.16 247a35 35 0 1 1 49.5 49.5L355.17 511a35 35 0 0 1-49.5 0L91.18 296.5a34.89 34.89 0 0 1-10.25-24.74z\" transform=\"translate(-80.93 -236.76)\"><\/path><\/svg>\n            <\/div>\n            <div id=\"1569828417275\" class=\"collapse\" aria-labelledby=\"heading-1569828417275\" data-parent=\"#accordion\">\n                <div class=\"card-body\">\n                    \n                    <p>Yes it is.<\/p>\n                <\/div>\n            <\/div>\n        <\/div>\n    \n        <div class=\"card card-2\">\n            <div class=\"card-header\" id=\"heading-1569828878550\">\n                <button class=\"title collapsed\" data-toggle=\"collapse\" data-target=\"#1569828878550\" aria-expanded=\"true\" aria-controls=\"1569828878550\">\n                    I cannot upload the theme to my Shopify store \/ Shopify alerts that the file is too big to upload, what is the problem?\n                <\/button>\n                \n                <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon--wide icon-chevron-down\" viewbox=\"0 0 498.98 284.49\"><defs><\/defs><path class=\"cls-1\" d=\"M80.93 271.76A35 35 0 0 1 140.68 247l189.74 189.75L520.16 247a35 35 0 1 1 49.5 49.5L355.17 511a35 35 0 0 1-49.5 0L91.18 296.5a34.89 34.89 0 0 1-10.25-24.74z\" transform=\"translate(-80.93 -236.76)\"><\/path><\/svg>\n            <\/div>\n            <div id=\"1569828878550\" class=\"collapse\" aria-labelledby=\"heading-1569828878550\" data-parent=\"#accordion\">\n                <div class=\"card-body\">\n                    \n                    <p>Please make sure that you follow below steps:<\/p>\n<p>1\/ Download the package from themeforest.net (the file is in zip format)<br><br>2\/ Extract the file you've just downloaded.<br><br>3\/ Find this file: ella-3.0.0-sections-ready.zip in the folder Ella Sections Ready 3.0.0, then you just need to upload ella-3.0.0-sections-ready.zip file to your Shopify store.<br><\/p>\n                <\/div>\n            <\/div>\n        <\/div>\n    \n        <div class=\"card card-2\">\n            <div class=\"card-header\" id=\"heading-1569828968822\">\n                <button class=\"title collapsed\" data-toggle=\"collapse\" data-target=\"#1569828968822\" aria-expanded=\"true\" aria-controls=\"1569828968822\">\n                    What I have to do when I need your support?\n                <\/button>\n                \n                <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon--wide icon-chevron-down\" viewbox=\"0 0 498.98 284.49\"><defs><\/defs><path class=\"cls-1\" d=\"M80.93 271.76A35 35 0 0 1 140.68 247l189.74 189.75L520.16 247a35 35 0 1 1 49.5 49.5L355.17 511a35 35 0 0 1-49.5 0L91.18 296.5a34.89 34.89 0 0 1-10.25-24.74z\" transform=\"translate(-80.93 -236.76)\"><\/path><\/svg>\n            <\/div>\n            <div id=\"1569828968822\" class=\"collapse\" aria-labelledby=\"heading-1569828968822\" data-parent=\"#accordion\">\n                <div class=\"card-body\">\n                    \n                    <p>To save your time and reach our support quickly, please follow below steps:<\/p>\n<p>1\/ Create a staff account for us (with Themes permission and Settings permission) <a href=\"http:\/\/docs.shopify.com\/manual\/settings\/account\/staff-members\" title=\"http:\/\/docs.shopify.com\/manual\/settings\/account\/staff-members\" aria-describedby=\"a11y-external-message\">http:\/\/docs.shopify.com\/manual\/settings\/account\/staff-members<\/a><\/p>\n<p>2\/ Capture screenshot or video for the issue you get.<\/p>\n<p>3\/ Specify which template and version you are using.<\/p>\n<p>4\/ Describe clearly how to reproduce the issue.<\/p>\n<p>5\/ Send all information (staff account, screenshot, video, template name and version, description of the issues, link) to <a href=\"mailto:support@halothemes.com\" title=\"mailto:support@halothemes.com\" aria-describedby=\"a11y-external-message\">support@halothemes.com<\/a><\/p>\n                <\/div>\n            <\/div>\n        <\/div>\n    \n        <div class=\"card card-2\">\n            <div class=\"card-header\" id=\"heading-1569829479298\">\n                <button class=\"title collapsed\" data-toggle=\"collapse\" data-target=\"#1569829479298\" aria-expanded=\"true\" aria-controls=\"1569829479298\">\n                    Would assistance be available to upload the template if needed?\n                <\/button>\n                \n                <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon--wide icon-chevron-down\" viewbox=\"0 0 498.98 284.49\"><defs><\/defs><path class=\"cls-1\" d=\"M80.93 271.76A35 35 0 0 1 140.68 247l189.74 189.75L520.16 247a35 35 0 1 1 49.5 49.5L355.17 511a35 35 0 0 1-49.5 0L91.18 296.5a34.89 34.89 0 0 1-10.25-24.74z\" transform=\"translate(-80.93 -236.76)\"><\/path><\/svg>\n            <\/div>\n            <div id=\"1569829479298\" class=\"collapse\" aria-labelledby=\"heading-1569829479298\" data-parent=\"#accordion\">\n                <div class=\"card-body\">\n                    \n                    <p>Yes, we will assist you to install the template if needed<\/p>\n                <\/div>\n            <\/div>\n        <\/div>\n    \n        <div class=\"card card-2\">\n            <div class=\"card-header\" id=\"heading-1569830261920\">\n                <button class=\"title collapsed\" data-toggle=\"collapse\" data-target=\"#1569830261920\" aria-expanded=\"true\" aria-controls=\"1569830261920\">\n                    Do you guys offer customisation services for your themes?\n                <\/button>\n                \n                <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon--wide icon-chevron-down\" viewbox=\"0 0 498.98 284.49\"><defs><\/defs><path class=\"cls-1\" d=\"M80.93 271.76A35 35 0 0 1 140.68 247l189.74 189.75L520.16 247a35 35 0 1 1 49.5 49.5L355.17 511a35 35 0 0 1-49.5 0L91.18 296.5a34.89 34.89 0 0 1-10.25-24.74z\" transform=\"translate(-80.93 -236.76)\"><\/path><\/svg>\n            <\/div>\n            <div id=\"1569830261920\" class=\"collapse\" aria-labelledby=\"heading-1569830261920\" data-parent=\"#accordion\">\n                <div class=\"card-body\">\n                    \n                    <p>Yes, we do. Please send your customisation requests to <a href=\"mailto:support@halothemes.com\" title=\"mailto:support@halothemes.com\" aria-describedby=\"a11y-external-message\">support@halothemes.com<\/a>, we will give you our quote. Thank you.<\/p>\n                <\/div>\n            <\/div>\n        <\/div>\n    \n        <div class=\"card card-2\">\n            <div class=\"card-header\" id=\"heading-1569830303138\">\n                <button class=\"title collapsed\" data-toggle=\"collapse\" data-target=\"#1569830303138\" aria-expanded=\"true\" aria-controls=\"1569830303138\">\n                    Can I turn on\/off Lazy Loading Image \/ Item Animation \/ Fade Up on the page?\n                <\/button>\n                \n                <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon--wide icon-chevron-down\" viewbox=\"0 0 498.98 284.49\"><defs><\/defs><path class=\"cls-1\" d=\"M80.93 271.76A35 35 0 0 1 140.68 247l189.74 189.75L520.16 247a35 35 0 1 1 49.5 49.5L355.17 511a35 35 0 0 1-49.5 0L91.18 296.5a34.89 34.89 0 0 1-10.25-24.74z\" transform=\"translate(-80.93 -236.76)\"><\/path><\/svg>\n            <\/div>\n            <div id=\"1569830303138\" class=\"collapse\" aria-labelledby=\"heading-1569830303138\" data-parent=\"#accordion\">\n                <div class=\"card-body\">\n                    \n                    <p>Yes. You can turn on\/off the animation in the Setting page.<\/p>\n                <\/div>\n            <\/div>\n        <\/div>\n    \n        <div class=\"card card-2\">\n            <div class=\"card-header\" id=\"heading-1569830330055\">\n                <button class=\"title collapsed\" data-toggle=\"collapse\" data-target=\"#1569830330055\" aria-expanded=\"true\" aria-controls=\"1569830330055\">\n                    Can I turn on\/off some blocks on the page?\n                <\/button>\n                \n                <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon--wide icon-chevron-down\" viewbox=\"0 0 498.98 284.49\"><defs><\/defs><path class=\"cls-1\" d=\"M80.93 271.76A35 35 0 0 1 140.68 247l189.74 189.75L520.16 247a35 35 0 1 1 49.5 49.5L355.17 511a35 35 0 0 1-49.5 0L91.18 296.5a34.89 34.89 0 0 1-10.25-24.74z\" transform=\"translate(-80.93 -236.76)\"><\/path><\/svg>\n            <\/div>\n            <div id=\"1569830330055\" class=\"collapse\" aria-labelledby=\"heading-1569830330055\" data-parent=\"#accordion\">\n                <div class=\"card-body\">\n                    \n                    <p>Yes. You can turn on\/off almost any blocks on the page (featured products, slideshow, banners, related products, recent products,...).<\/p>\n                <\/div>\n            <\/div>\n        <\/div>\n    \n        <div class=\"card card-2\">\n            <div class=\"card-header\" id=\"heading-1569830354345\">\n                <button class=\"title collapsed\" data-toggle=\"collapse\" data-target=\"#1569830354345\" aria-expanded=\"true\" aria-controls=\"1569830354345\">\n                    I want to have the dropdown cart displayed automatically every time clients hover over it (instead of clicking on it). Is it possible?\n                <\/button>\n                \n                <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon--wide icon-chevron-down\" viewbox=\"0 0 498.98 284.49\"><defs><\/defs><path class=\"cls-1\" d=\"M80.93 271.76A35 35 0 0 1 140.68 247l189.74 189.75L520.16 247a35 35 0 1 1 49.5 49.5L355.17 511a35 35 0 0 1-49.5 0L91.18 296.5a34.89 34.89 0 0 1-10.25-24.74z\" transform=\"translate(-80.93 -236.76)\"><\/path><\/svg>\n            <\/div>\n            <div id=\"1569830354345\" class=\"collapse\" aria-labelledby=\"heading-1569830354345\" data-parent=\"#accordion\">\n                <div class=\"card-body\">\n                    \n                    <p>Yes, we have a setting for you to switch between these two options: Display on Hover and Display on Click.<\/p>\n                <\/div>\n            <\/div>\n        <\/div>\n    \n        <div class=\"card card-2\">\n            <div class=\"card-header\" id=\"heading-1569830380421\">\n                <button class=\"title collapsed\" data-toggle=\"collapse\" data-target=\"#1569830380421\" aria-expanded=\"true\" aria-controls=\"1569830380421\">\n                    What is included in the theme package?\n                <\/button>\n                \n                <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon--wide icon-chevron-down\" viewbox=\"0 0 498.98 284.49\"><defs><\/defs><path class=\"cls-1\" d=\"M80.93 271.76A35 35 0 0 1 140.68 247l189.74 189.75L520.16 247a35 35 0 1 1 49.5 49.5L355.17 511a35 35 0 0 1-49.5 0L91.18 296.5a34.89 34.89 0 0 1-10.25-24.74z\" transform=\"translate(-80.93 -236.76)\"><\/path><\/svg>\n            <\/div>\n            <div id=\"1569830380421\" class=\"collapse\" aria-labelledby=\"heading-1569830380421\" data-parent=\"#accordion\">\n                <div class=\"card-body\">\n                    \n                    <p>The theme package includes theme source, Photoshop design files, sample data and manual guide.<\/p>\n                <\/div>\n            <\/div>\n        <\/div>\n    \n        <div class=\"card card-2\">\n            <div class=\"card-header\" id=\"heading-1569830404635\">\n                <button class=\"title collapsed\" data-toggle=\"collapse\" data-target=\"#1569830404635\" aria-expanded=\"true\" aria-controls=\"1569830404635\">\n                    I notice that the images used in the theme are all portrait. Will that be a problem if I use square images for our products? How will they be displayed in the theme?\n                <\/button>\n                \n                <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon--wide icon-chevron-down\" viewbox=\"0 0 498.98 284.49\"><defs><\/defs><path class=\"cls-1\" d=\"M80.93 271.76A35 35 0 0 1 140.68 247l189.74 189.75L520.16 247a35 35 0 1 1 49.5 49.5L355.17 511a35 35 0 0 1-49.5 0L91.18 296.5a34.89 34.89 0 0 1-10.25-24.74z\" transform=\"translate(-80.93 -236.76)\"><\/path><\/svg>\n            <\/div>\n            <div id=\"1569830404635\" class=\"collapse\" aria-labelledby=\"heading-1569830404635\" data-parent=\"#accordion\">\n                <div class=\"card-body\">\n                    \n                    <p>That is not a problem. You just need to modify the width\/height ratio in theme settings.<\/p>\n                <\/div>\n            <\/div>\n        <\/div>\n    \n<\/div>",
-              "product_tab_content_2": ""
-            }
-          }
-        },
-        "block_order": [
-          "1574671007763",
-          "1574671098104",
-          "1574671134797"
-        ],
-        "settings": {
-          "display_product_detail_description": true,
-          "product_description_title": "Description"
-        }
-      },
       "product-reviews": {
         "type": "product-reviews",
         "settings": {
@@ -2124,138 +1407,6 @@
           "padding-bottom": 5,
           "title": "Customer Reviews",
           "title_border": false
-        }
-      },
-      "sidebar-product": {
-        "type": "sidebar-product",
-        "blocks": {
-          "1574680436926": {
-            "type": "collection_1",
-            "settings": {
-              "title": "Categories",
-              "collection_id": "little_category",
-              "link_list": "main-menu"
-            }
-          },
-          "1574680449874": {
-            "type": "product_carousel",
-            "settings": {
-              "title": "Featured Products",
-              "collection": "wheels-tires",
-              "number": 3
-            }
-          },
-          "1574680472700": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/advertisement-image-1.jpg",
-              "link": "#"
-            }
-          },
-          "1574680551372": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/advertisement-image-2.jpg",
-              "link": ""
-            }
-          },
-          "1574680562284": {
-            "type": "quote",
-            "settings": {
-              "title": "Custom CMS Block",
-              "text": "<p>Custom CMS block displayed at the left sidebar on the Catalog Page. Put your own content here: text, html, images, media... whatever you like.<\/p>\n<p>There are many similar sample content placeholders across the store. All editable from Theme Editor.<\/p>"
-            }
-          }
-        },
-        "block_order": [
-          "1574680436926",
-          "1574680449874",
-          "1574680472700",
-          "1574680551372",
-          "1574680562284"
-        ],
-        "settings": {
-          "display_sidebar": true,
-          "position_sidebar": "left"
-        }
-      },
-      "product-template-3": {
-        "type": "product-template-3",
-        "settings": {
-          "enable_zoom": true,
-          "enable_fancybox": true,
-          "video_product": true,
-          "video_icon_type": "font",
-          "video_icon": "<i class=\"far fa-play-circle\"><\/i>",
-          "video_image": "",
-          "show_contacts": true,
-          "contacts_image": "shopify:\/\/shop_images\/contact-image_5764e156-2e0f-45bd-b857-1bd8c2518947.jpg",
-          "contact_title": "Have Questions?",
-          "contact_phone": "1.800.000.6890",
-          "ask_an_expert": true,
-          "ask_an_expert_title": "Ask an Experts",
-          "show_services": true,
-          "services_icon_1": "<i class=\"fas fa-check\"><\/i>",
-          "services_title_1": "Guaranteed Fitment",
-          "services_description_1": "Always the correct part",
-          "services_icon_2": "<i class=\"fas fa-phone\"><\/i>",
-          "services_title_2": "In-House Experts",
-          "services_description_2": "We know our products",
-          "services_icon_3": "<i class=\"fas fa-wrench\"><\/i>",
-          "services_title_3": "Added Value",
-          "services_description_3": "Mounting, Balancing",
-          "services_icon_4": "<i class=\"fas fa-dice-d6\"><\/i>",
-          "services_title_4": "Wordwide Delivery",
-          "services_description_4": "Free shipping on all orders",
-          "display_product_reviews": true,
-          "show_sold_in": true,
-          "item_prd": "3,5,6,7,8,10,12,15",
-          "item_prds": "sold in last",
-          "hours_prs": "10,15,16,17,18,20,25,35",
-          "item_hours": "hours",
-          "display_vendor": true,
-          "display_product_sku": true,
-          "display_availability": true,
-          "display_product_type": true,
-          "display_countdown": true,
-          "display_price": true,
-          "display_subtotal": true,
-          "show_quantity_selector": true,
-          "display_short_description": true,
-          "type_short_description": "default",
-          "number_words": "16",
-          "use_color_swatch": true,
-          "option_color_swatch": "Color",
-          "use_size_swatch": true,
-          "option_size_swatch": "Size",
-          "use_material_swatch": true,
-          "option_material_swatch": "Material",
-          "display_size_chart": true,
-          "size_guide_text": "Size Guide",
-          "custom_size_chart_header": "Size Chart",
-          "size_chart": "none",
-          "custom_size_chart": "shopify:\/\/shop_images\/size-chart.jpg",
-          "enable_payment_button": true,
-          "dpl_customers_view": true,
-          "title_view": "customers are viewing this product",
-          "number_view": "283, 100, 59, 11, 14, 185, 193, 165, 50, 38, 99, 112, 46, 10, 125, 200, 250, 18",
-          "display_product_detail_share": true,
-          "share_text": "Share",
-          "display_trust_img": true,
-          "img_trust": "shopify:\/\/shop_images\/trust_img.jpg",
-          "enable_sticky_atc": true
-        }
-      },
-      "frequently-by-together": {
-        "type": "frequently-by-together",
-        "settings": {
-          "dpl_grouped_product": true,
-          "border": true,
-          "padding-top": 3,
-          "padding-bottom": 3,
-          "title": "Frequently Bought Together",
-          "enable_bundle_discount": true,
-          "bundle_discount_text": "Get a [discount]% discount buying these products together"
         }
       },
       "tab-horizontal": {
@@ -2352,10 +1503,7 @@
               "payment_image_4": "shopify:\/\/shop_images\/payment-4.png",
               "payment_image_5": "shopify:\/\/shop_images\/payment-5.png",
               "payment_image_6": "shopify:\/\/shop_images\/payment-6.png",
-              "payment_image_7": "shopify:\/\/shop_images\/payment-7.png",
-              "payment_image_8": "",
-              "payment_image_9": "",
-              "payment_image_10": ""
+              "payment_image_7": "shopify:\/\/shop_images\/payment-7.png"
             }
           },
           "1575010858094": {
@@ -2367,10 +1515,7 @@
               "geotrust_ssl_image_4": "shopify:\/\/shop_images\/security-8.png",
               "geotrust_ssl_image_5": "shopify:\/\/shop_images\/security-2.png",
               "geotrust_ssl_image_6": "shopify:\/\/shop_images\/security-3.png",
-              "geotrust_ssl_image_7": "shopify:\/\/shop_images\/security-4.png",
-              "geotrust_ssl_image_8": "",
-              "geotrust_ssl_image_9": "",
-              "geotrust_ssl_image_10": ""
+              "geotrust_ssl_image_7": "shopify:\/\/shop_images\/security-4.png"
             }
           }
         },
@@ -2641,8 +1786,7 @@
               "banner_image_style_3_2": "shopify:\/\/shop_images\/megamenu-2_96a1db2a-4109-4ed9-a7a4-de5514c1ec74.jpg",
               "banner_image_style_3_3": "shopify:\/\/shop_images\/megamenu-3_c7af60d8-5b9b-40a4-b215-8dda38e6f1f3.jpg",
               "banner_image_style_3_4": "shopify:\/\/shop_images\/megamenu-4_c1c2f8f8-6024-4ca6-a3b1-3e4ce00489d5.jpg",
-              "banner_image_style_3_5": "shopify:\/\/shop_images\/megamenu-5_9ffe4365-764a-4906-9c55-c1898d733ebd.jpg",
-              "banner_image_style_3_6": ""
+              "banner_image_style_3_5": "shopify:\/\/shop_images\/megamenu-5_9ffe4365-764a-4906-9c55-c1898d733ebd.jpg"
             }
           }
         },
@@ -2652,6 +1796,7 @@
           "1576492679207"
         ],
         "settings": {
+          "enable_header_effect": true,
           "message": false,
           "home_page_only": false,
           "message_text": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0278\/4434\/5931\/files\/banner-promotion-2.png?115\" alt=\"\"> <b>BUY NOW, PAY LATER.<\/b> Starting at 0% APR <span class=\"btn\">learn more<\/span>",
@@ -2776,11 +1921,9 @@
               "collection_link_6": "#",
               "collection_title_6": "Headlights",
               "collection_description_6": "Pellentesque cosmo dinciduntos",
-              "collection_image_7": "",
               "collection_link_7": "",
               "collection_title_7": "Title",
               "collection_description_7": "Image with text overlay",
-              "collection_image_8": "",
               "collection_link_8": "",
               "collection_title_8": "Title",
               "collection_description_8": "Image with text overlay"
@@ -2888,7 +2031,6 @@
           "marketting_url_1": "shopify:\/\/collections\/interior",
           "marketting_banner_2": "shopify:\/\/shop_images\/category-special-2.jpg",
           "marketting_url_2": "shopify:\/\/collections\/interior",
-          "marketting_banner_3": "",
           "marketting_url_3": "",
           "marketting_banner_title": "Milancelos",
           "marketting_banner_description": "Dinterdum Pretium An Dapboe Dan Mauris",
@@ -2906,8 +2048,7 @@
           "brands_image_6": "shopify:\/\/shop_images\/brands-20_51686f43-a40d-48b8-96d0-4fb6d66dafaa.png",
           "brands_image_7": "shopify:\/\/shop_images\/brands-21_0f98c432-18ff-46ab-86f1-7d3d1c56f9bb.png",
           "brands_image_8": "shopify:\/\/shop_images\/brands-22_3fae15a5-098d-41c4-bf76-73d868854a31.png",
-          "brands_image_9": "shopify:\/\/shop_images\/brands-24_309132e0-9c74-4962-aed7-215cf1b27e6a.png",
-          "brands_image_10": ""
+          "brands_image_9": "shopify:\/\/shop_images\/brands-24_309132e0-9c74-4962-aed7-215cf1b27e6a.png"
         }
       },
       "1576237246103": {
@@ -2924,9 +2065,7 @@
           "list_html": "<p><a href=\"\/collections\/bibendumetos\" title=\"Bibendumetos\">Bibendumetos<\/a><\/p>\n<p><a href=\"\/collections\/pellentes-habitanto\" title=\"Pellentes Habitanto\">Pellentes Habitanto<\/a><\/p>\n<p><a href=\"\/collections\/senectus\" title=\"Senectus\">Senectus<\/a><\/p>\n<p><a href=\"\/collections\/consequatod\" title=\"Consequatod\">Consequatodo<\/a><\/p>\n<p><a href=\"\/collections\/scelerisque-dapboe\" title=\"Scelerisque Dapboe\">Scelerisque Durno<\/a><\/p>\n<p><a href=\"\/collections\/loremouticas\" title=\"Loremouticas\">Loremouticas<\/a><\/p>\n<p><a href=\"\/collections\/bibendumetos\" title=\"Bibendumetos\">Bibendumetos<\/a><\/p>\n<p><a href=\"\/collections\/pellentes-habitanto\" title=\"Pellentes Habitanto\">Pellentes Habitanto<\/a><\/p>\n<p><a href=\"\/collections\/senectus\" title=\"Senectus\">Senectus<\/a><\/p>\n<p><a href=\"\/collections\/consequatod\" title=\"Consequatod\">Consequatodo<\/a><\/p>\n<p><a href=\"\/collections\/scelerisque-dapboe\" title=\"Scelerisque Dapboe\">Scelerisque Durno<\/a><\/p>\n<p><a href=\"\/collections\/loremouticas\" title=\"Loremouticas\">Loremouticas<\/a><\/p>\n<p><a href=\"\/collections\/senectus-milance\" title=\"Senectus Milance\">Senectus Milance<\/a><\/p>",
           "marketting_banner_1": "shopify:\/\/shop_images\/category-special-2.jpg",
           "marketting_url_1": "shopify:\/\/collections\/interior",
-          "marketting_banner_2": "",
           "marketting_url_2": "",
-          "marketting_banner_3": "",
           "marketting_url_3": "",
           "marketting_banner_title": "Cosmopolis",
           "marketting_banner_description": "Dinterdum Pretium An Dapboe Dan Mauris",
@@ -2944,8 +2083,7 @@
           "brands_image_6": "shopify:\/\/shop_images\/brands-20_51686f43-a40d-48b8-96d0-4fb6d66dafaa.png",
           "brands_image_7": "shopify:\/\/shop_images\/brands-21_0f98c432-18ff-46ab-86f1-7d3d1c56f9bb.png",
           "brands_image_8": "shopify:\/\/shop_images\/brands-22_3fae15a5-098d-41c4-bf76-73d868854a31.png",
-          "brands_image_9": "shopify:\/\/shop_images\/brands-24_309132e0-9c74-4962-aed7-215cf1b27e6a.png",
-          "brands_image_10": ""
+          "brands_image_9": "shopify:\/\/shop_images\/brands-24_309132e0-9c74-4962-aed7-215cf1b27e6a.png"
         }
       },
       "1576237735573": {
@@ -2962,9 +2100,7 @@
           "list_html": "<p><a href=\"\/collections\/bibendumetos\" title=\"Bibendumetos\">Bibendumetos<\/a><\/p>\n<p><a href=\"\/collections\/pellentes-habitanto\" title=\"Pellentes Habitanto\">Pellentes Habitanto<\/a><\/p>\n<p><a href=\"\/collections\/senectus\" title=\"Senectus\">Senectus<\/a><\/p>\n<p><a href=\"\/collections\/consequatod\" title=\"Consequatod\">Consequatodo<\/a><\/p>\n<p><a href=\"\/collections\/scelerisque-dapboe\" title=\"Scelerisque Dapboe\">Scelerisque Durno<\/a><\/p>\n<p><a href=\"\/collections\/loremouticas\" title=\"Loremouticas\">Loremouticas<\/a><\/p>\n<p><a href=\"\/collections\/bibendumetos\" title=\"Bibendumetos\">Bibendumetos<\/a><\/p>\n<p><a href=\"\/collections\/pellentes-habitanto\" title=\"Pellentes Habitanto\">Pellentes Habitanto<\/a><\/p>\n<p><a href=\"\/collections\/senectus\" title=\"Senectus\">Senectus<\/a><\/p>\n<p><a href=\"\/collections\/consequatod\" title=\"Consequatod\">Consequatodo<\/a><\/p>\n<p><a href=\"\/collections\/scelerisque-dapboe\" title=\"Scelerisque Dapboe\">Scelerisque Durno<\/a><\/p>\n<p><a href=\"\/collections\/loremouticas\" title=\"Loremouticas\">Loremouticas<\/a><\/p>\n<p><a href=\"\/collections\/senectus-milance\" title=\"Senectus Milance\">Senectus Milance<\/a><\/p>",
           "marketting_banner_1": "shopify:\/\/shop_images\/category-special-3.jpg",
           "marketting_url_1": "shopify:\/\/collections\/performance",
-          "marketting_banner_2": "",
           "marketting_url_2": "",
-          "marketting_banner_3": "",
           "marketting_url_3": "",
           "marketting_banner_title": "Loremous",
           "marketting_banner_description": "Dinterdum Pretium An Dapboe Dan Mauris",
@@ -2982,8 +2118,7 @@
           "brands_image_6": "shopify:\/\/shop_images\/brands-20_51686f43-a40d-48b8-96d0-4fb6d66dafaa.png",
           "brands_image_7": "shopify:\/\/shop_images\/brands-21_0f98c432-18ff-46ab-86f1-7d3d1c56f9bb.png",
           "brands_image_8": "shopify:\/\/shop_images\/brands-22_3fae15a5-098d-41c4-bf76-73d868854a31.png",
-          "brands_image_9": "shopify:\/\/shop_images\/brands-24_309132e0-9c74-4962-aed7-215cf1b27e6a.png",
-          "brands_image_10": ""
+          "brands_image_9": "shopify:\/\/shop_images\/brands-24_309132e0-9c74-4962-aed7-215cf1b27e6a.png"
         }
       },
       "1576238223475": {
@@ -3000,9 +2135,7 @@
           "list_html": "<p><a href=\"\/collections\/bibendumetos\" title=\"Bibendumetos\">Bibendumetos<\/a><\/p>\n<p><a href=\"\/collections\/pellentes-habitanto\" title=\"Pellentes Habitanto\">Pellentes Habitanto<\/a><\/p>\n<p><a href=\"\/collections\/senectus\" title=\"Senectus\">Senectus<\/a><\/p>\n<p><a href=\"\/collections\/consequatod\" title=\"Consequatod\">Consequatodo<\/a><\/p>\n<p><a href=\"\/collections\/scelerisque-dapboe\" title=\"Scelerisque Dapboe\">Scelerisque Durno<\/a><\/p>\n<p><a href=\"\/collections\/loremouticas\" title=\"Loremouticas\">Loremouticas<\/a><\/p>\n<p><a href=\"\/collections\/bibendumetos\" title=\"Bibendumetos\">Bibendumetos<\/a><\/p>\n<p><a href=\"\/collections\/pellentes-habitanto\" title=\"Pellentes Habitanto\">Pellentes Habitanto<\/a><\/p>\n<p><a href=\"\/collections\/senectus\" title=\"Senectus\">Senectus<\/a><\/p>\n<p><a href=\"\/collections\/consequatod\" title=\"Consequatod\">Consequatodo<\/a><\/p>\n<p><a href=\"\/collections\/scelerisque-dapboe\" title=\"Scelerisque Dapboe\">Scelerisque Durno<\/a><\/p>\n<p><a href=\"\/collections\/loremouticas\" title=\"Loremouticas\">Loremouticas<\/a><\/p>\n<p><a href=\"\/collections\/senectus-milance\" title=\"Senectus Milance\">Senectus Milance<\/a><\/p>",
           "marketting_banner_1": "shopify:\/\/shop_images\/banner-by-category-5_80de48f3-4d3f-4e89-9fc4-6b698b715c04.jpg",
           "marketting_url_1": "shopify:\/\/collections\/lighting",
-          "marketting_banner_2": "",
           "marketting_url_2": "",
-          "marketting_banner_3": "",
           "marketting_url_3": "",
           "marketting_banner_title": "Quisquetro",
           "marketting_banner_description": "Dinterdum Pretium An Dapboe Dan Mauris",
@@ -3020,8 +2153,7 @@
           "brands_image_6": "shopify:\/\/shop_images\/brands-20_51686f43-a40d-48b8-96d0-4fb6d66dafaa.png",
           "brands_image_7": "shopify:\/\/shop_images\/brands-21_0f98c432-18ff-46ab-86f1-7d3d1c56f9bb.png",
           "brands_image_8": "shopify:\/\/shop_images\/brands-22_3fae15a5-098d-41c4-bf76-73d868854a31.png",
-          "brands_image_9": "shopify:\/\/shop_images\/brands-24_309132e0-9c74-4962-aed7-215cf1b27e6a.png",
-          "brands_image_10": ""
+          "brands_image_9": "shopify:\/\/shop_images\/brands-24_309132e0-9c74-4962-aed7-215cf1b27e6a.png"
         }
       },
       "1576238460573": {
@@ -3038,9 +2170,7 @@
           "list_html": "<p><a href=\"\/collections\/bibendumetos\" title=\"Bibendumetos\">Bibendumetos<\/a><\/p>\n<p><a href=\"\/collections\/pellentes-habitanto\" title=\"Pellentes Habitanto\">Pellentes Habitanto<\/a><\/p>\n<p><a href=\"\/collections\/senectus\" title=\"Senectus\">Senectus<\/a><\/p>\n<p><a href=\"\/collections\/consequatod\" title=\"Consequatod\">Consequatodo<\/a><\/p>\n<p><a href=\"\/collections\/scelerisque-dapboe\" title=\"Scelerisque Dapboe\">Scelerisque Durno<\/a><\/p>\n<p><a href=\"\/collections\/loremouticas\" title=\"Loremouticas\">Loremouticas<\/a><\/p>\n<p><a href=\"\/collections\/bibendumetos\" title=\"Bibendumetos\">Bibendumetos<\/a><\/p>\n<p><a href=\"\/collections\/pellentes-habitanto\" title=\"Pellentes Habitanto\">Pellentes Habitanto<\/a><\/p>\n<p><a href=\"\/collections\/senectus\" title=\"Senectus\">Senectus<\/a><\/p>\n<p><a href=\"\/collections\/consequatod\" title=\"Consequatod\">Consequatodo<\/a><\/p>\n<p><a href=\"\/collections\/scelerisque-dapboe\" title=\"Scelerisque Dapboe\">Scelerisque Durno<\/a><\/p>\n<p><a href=\"\/collections\/loremouticas\" title=\"Loremouticas\">Loremouticas<\/a><\/p>\n<p><a href=\"\/collections\/senectus-milance\" title=\"Senectus Milance\">Senectus Milance<\/a><\/p>",
           "marketting_banner_1": "shopify:\/\/shop_images\/banner-by-category-6_bc309dc0-2b5d-430e-a31b-07a224c54247.jpg",
           "marketting_url_1": "shopify:\/\/collections\/wheels-tires",
-          "marketting_banner_2": "",
           "marketting_url_2": "",
-          "marketting_banner_3": "",
           "marketting_url_3": "",
           "marketting_banner_title": "Pellentesque",
           "marketting_banner_description": "Dinterdum Pretium An Dapboe Dan Mauris",
@@ -3058,8 +2188,7 @@
           "brands_image_6": "shopify:\/\/shop_images\/brands-20_51686f43-a40d-48b8-96d0-4fb6d66dafaa.png",
           "brands_image_7": "shopify:\/\/shop_images\/brands-21_0f98c432-18ff-46ab-86f1-7d3d1c56f9bb.png",
           "brands_image_8": "shopify:\/\/shop_images\/brands-22_3fae15a5-098d-41c4-bf76-73d868854a31.png",
-          "brands_image_9": "shopify:\/\/shop_images\/brands-24_309132e0-9c74-4962-aed7-215cf1b27e6a.png",
-          "brands_image_10": ""
+          "brands_image_9": "shopify:\/\/shop_images\/brands-24_309132e0-9c74-4962-aed7-215cf1b27e6a.png"
         }
       },
       "1576238692233": {
@@ -3454,9 +2583,7 @@
           "list_html": "<p><a href=\"\/collections\/bibendumetos\" title=\"Bibendumetos\">Bibendumetos<\/a><\/p>\n<p><a href=\"\/collections\/pellentes-habitanto\" title=\"Pellentes Habitanto\">Pellentes Habitanto<\/a><\/p>\n<p><a href=\"\/collections\/senectus\" title=\"Senectus\">Senectus<\/a><\/p>\n<p><a href=\"\/collections\/consequatod\" title=\"Consequatod\">Consequatodo<\/a><\/p>\n<p><a href=\"\/collections\/scelerisque-dapboe\" title=\"Scelerisque Dapboe\">Scelerisque Durno<\/a><\/p>\n<p><a href=\"\/collections\/loremouticas\" title=\"Loremouticas\">Loremouticas<\/a><\/p>\n<p><a href=\"\/collections\/bibendumetos\" title=\"Bibendumetos\">Bibendumetos<\/a><\/p>\n<p><a href=\"\/collections\/pellentes-habitanto\" title=\"Pellentes Habitanto\">Pellentes Habitanto<\/a><\/p>\n<p><a href=\"\/collections\/senectus\" title=\"Senectus\">Senectus<\/a><\/p>\n<p><a href=\"\/collections\/consequatod\" title=\"Consequatod\">Consequatodo<\/a><\/p>\n<p><a href=\"\/collections\/scelerisque-dapboe\" title=\"Scelerisque Dapboe\">Scelerisque Durno<\/a><\/p>\n<p><a href=\"\/collections\/loremouticas\" title=\"Loremouticas\">Loremouticas<\/a><\/p>\n<p><a href=\"\/collections\/senectus-milance\" title=\"Senectus Milance\">Senectus Milance<\/a><\/p>",
           "marketting_banner_1": "shopify:\/\/shop_images\/Layer-1046.jpg",
           "marketting_url_1": "shopify:\/\/collections\/audio-electronics",
-          "marketting_banner_2": "",
           "marketting_url_2": "",
-          "marketting_banner_3": "",
           "marketting_url_3": "",
           "marketting_banner_title": "Molestie",
           "marketting_banner_description": "Dinterdum Pretium An Dapboe Dan Mauris",
@@ -3474,8 +2601,7 @@
           "brands_image_6": "shopify:\/\/shop_images\/brands-20_51686f43-a40d-48b8-96d0-4fb6d66dafaa.png",
           "brands_image_7": "shopify:\/\/shop_images\/brands-21_0f98c432-18ff-46ab-86f1-7d3d1c56f9bb.png",
           "brands_image_8": "shopify:\/\/shop_images\/brands-22_3fae15a5-098d-41c4-bf76-73d868854a31.png",
-          "brands_image_9": "shopify:\/\/shop_images\/brands-24_309132e0-9c74-4962-aed7-215cf1b27e6a.png",
-          "brands_image_10": ""
+          "brands_image_9": "shopify:\/\/shop_images\/brands-24_309132e0-9c74-4962-aed7-215cf1b27e6a.png"
         }
       }
     },
