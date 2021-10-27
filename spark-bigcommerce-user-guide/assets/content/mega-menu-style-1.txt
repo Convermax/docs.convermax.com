@@ -1,0 +1,16 @@
+themevaleMenu.menuItem({{title_1}}).themevaleMegaMenu({
+    dropAlign: &#x27;{{link_text_1}}&#x27;,     // Dropdown MegaMenu Alignment: left, right, center, fullWidth
+    dropWidth: &#x27;{{label_1}}&#x27;,         // Width of Dropdown MegaMenu (if dropAlign: fullWidth =&#x3E; dropWidth auto set 100%)
+    dropType: &#x27;{{button_1}}&#x27;,       // Type of Dropdown MegaMenu content: imageLeft, imageRight, noImage
+    imageAreaWidth: &#x27;{{countdown_1}}&#x27;,       // width of images area
+    cateAreaWidth: &#x27;{{description_1}}&#x27;,      // width of categories area
+    cateColumns: {{heading_title_1}},             // columns of categories area - max 5 columns
+    // contents for images column (HTML supported)
+    imagesTop: [
+        &#x27;&#x3C;a class=&#x22;imageTop-item&#x22; href=&#x22;{{link_2}}&#x22;&#x3E;&#x3C;img class=&#x22;lazyload&#x22; data-src=&#x22;{{image_2}}&#x22; alt=&#x22;&#x22;/&#x3E;&#x3C;/a&#x3E;&#x27;,
+        &#x27;&#x3C;a class=&#x22;imageTop-item&#x22; href=&#x22;{{link_3}}&#x22;&#x3E;&#x3C;img class=&#x22;lazyload&#x22; data-src=&#x22;{{image_3}}&#x22; alt=&#x22;&#x22;/&#x3E;&#x3C;/a&#x3E;&#x27;,
+        &#x27;&#x3C;a class=&#x22;imageTop-item&#x22; href=&#x22;{{link_4}}&#x22;&#x3E;&#x3C;img class=&#x22;lazyload&#x22; data-src=&#x22;{{image_4}}&#x22; alt=&#x22;&#x22;/&#x3E;&#x3C;/a&#x3E;&#x27;,
+        &#x27;&#x3C;a class=&#x22;imageTop-item&#x22; href=&#x22;{{link_5}}&#x22;&#x3E;&#x3C;img class=&#x22;lazyload&#x22; data-src=&#x22;{{image_5}}&#x22; alt=&#x22;&#x22;/&#x3E;&#x3C;/a&#x3E;&#x27;,
+        &#x27;&#x3C;a class=&#x22;imageTop-item&#x22; href=&#x22;{{link_6}}&#x22;&#x3E;&#x3C;img class=&#x22;lazyload&#x22; data-src=&#x22;{{image_6}}&#x22; alt=&#x22;&#x22;/&#x3E;&#x3C;/a&#x3E;&#x27;
+    ]
+});

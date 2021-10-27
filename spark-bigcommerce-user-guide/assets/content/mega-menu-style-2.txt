@@ -1,0 +1,120 @@
+themevaleMenu.menuItem({{title_1}}).themevaleMegaMenu({
+    dropAlign: &#x27;{{link_text_1}}&#x27;,   // Dropdown MegaMenu Alignment: left, right, center, fullWidth
+    dropWidth: &#x27;{{label_1}}&#x27;,       // Width of Dropdown MegaMenu (if dropAlign: fullWidth =&#x3E; dropWidth auto set 100%)
+    dropType: &#x27;{{button_1}}&#x27;,   // Type of Dropdown MegaMenu content: imageLeft, imageRight, noImage
+    imageAreaWidth: &#x27;{{countdown_1}}&#x27;,    // width of images area
+    cateAreaWidth: &#x27;{{description_1}}&#x27;,     // width of categories area
+    cateColumns: {{heading_title_1}},           // columns of categories area - max 5 columns
+    // contents for images column (HTML supported)
+    images: &#x27;&#x3C;div class=&#x22;imgList style-2&#x22;&#x3E;\
+                &#x3C;div class=&#x22;imgItem imgLeft&#x22;&#x3E;\
+                    &#x3C;div class=&#x22;featured-product&#x22;&#x3E;\
+                    &#x3C;h2 class=&#x22;imgHeading&#x22;&#x3E;{{title_2}}&#x3C;/h2&#x3E;\
+                    &#x3C;div class=&#x22;featuredProductCarousel&#x22;&#x3E;\
+                        &#x3C;div class=&#x22;product&#x22;&#x3E;\
+                            &#x3C;article class=&#x22;card&#x22; data-product-id=&#x22;{{id_3}}&#x22;&#x3E;\
+                                &#x3C;figure class=&#x22;card-figure&#x22; data-product-id=&#x22;{{id_3}}&#x22;&#x3E;\
+                                    &#x3C;a href=&#x22;{{link_3}}&#x22;&#x3E;\
+                                        &#x3C;div class=&#x22;card-img-container&#x22;&#x3E;\
+                                            &#x3C;img class=&#x22;lazyload&#x22; src=&#x22;&#x22; data-src=&#x22;{{image_3}}&#x22; alt=&#x22;&#x22;&#x3E;\
+                                        &#x3C;/div&#x3E;\
+                                    &#x3C;/a&#x3E;\
+                                &#x3C;/figure&#x3E;\
+                                &#x3C;div class=&#x22;card-body&#x22;&#x3E;\
+                                        &#x3C;p class=&#x22;card-brand&#x22; data-test-info-type=&#x22;brandName&#x22;&#x3E;{{link_text_3}}&#x3C;/p&#x3E;\
+                                    &#x3C;h4 class=&#x22;card-title&#x22;&#x3E;\
+                                        &#x3C;a href=&#x22;{{link_3}}&#x22;&#x3E;{{label_3}}&#x3C;/a&#x3E;\
+                                    &#x3C;/h4&#x3E;\
+                                    &#x3C;div class=&#x22;card-price&#x22; data-test-info-type=&#x22;price&#x22;&#x3E;\
+                                        &#x3C;div class=&#x22;price-section price-section--withoutTax non-sale-price--withoutTax&#x22;&#x3E;\
+                                            &#x3C;span class=&#x22;non-sale-price-label&#x22;&#x3E;Was:&#x3C;/span&#x3E;\
+                                            &#x3C;span data-product-non-sale-price-without-tax=&#x22;&#x22; class=&#x22;price price--non-sale&#x22;&#x3E;\
+                                                {{button_3}}\
+                                            &#x3C;/span&#x3E;\
+                                        &#x3C;/div&#x3E;\
+                                        &#x3C;div class=&#x22;price-section price-section--withoutTax&#x22;&#x3E;\
+                                            &#x3C;span data-product-price-without-tax=&#x22;&#x22; class=&#x22;price price--withoutTax&#x22;&#x3E;{{countdown_3}}&#x3C;/span&#x3E;\
+                                        &#x3C;/div&#x3E;\
+                                    &#x3C;/div&#x3E;\
+                                    &#x3C;figcaption class=&#x22;card-figcaption&#x22;&#x3E;\
+                                        &#x3C;div class=&#x22;card-figcaption-body&#x22;&#x3E;\
+                                           &#x3C;a href=&#x22;{{link_3}}&#x22; data-event-type=&#x22;product-click&#x22; class=&#x22;button card-figcaption-button&#x22; data-product-id=&#x22;{{id_3}}&#x22;&#x3E;{{description_3}}&#x3C;/a&#x3E;\
+                                        &#x3C;/div&#x3E;\
+                                    &#x3C;/figcaption&#x3E;\
+                                &#x3C;/div&#x3E;\
+                            &#x3C;/article&#x3E;\
+                        &#x3C;/div&#x3E;\
+                        &#x3C;div class=&#x22;product&#x22;&#x3E;\
+                            &#x3C;article class=&#x22;card&#x22; data-product-id=&#x22;{{id_4}}&#x22;&#x3E;\
+                                &#x3C;figure class=&#x22;card-figure&#x22; data-product-id=&#x22;{{id_4}}&#x22;&#x3E;\
+                                    &#x3C;a href=&#x22;{{link_4}}&#x22;&#x3E;\
+                                        &#x3C;div class=&#x22;card-img-container&#x22;&#x3E;\
+                                            &#x3C;img class=&#x22;lazyload&#x22; src=&#x22;&#x22; data-src=&#x22;{{image_4}}&#x22; alt=&#x22;&#x22;&#x3E;\
+                                        &#x3C;/div&#x3E;\
+                                    &#x3C;/a&#x3E;\
+                                &#x3C;/figure&#x3E;\
+                                &#x3C;div class=&#x22;card-body&#x22;&#x3E;\
+                                        &#x3C;p class=&#x22;card-brand&#x22; data-test-info-type=&#x22;brandName&#x22;&#x3E;{{link_text_4}}&#x3C;/p&#x3E;\
+                                    &#x3C;h4 class=&#x22;card-title&#x22;&#x3E;\
+                                        &#x3C;a href=&#x22;{{link_4}}&#x22;&#x3E;{{label_4}}&#x3C;/a&#x3E;\
+                                    &#x3C;/h4&#x3E;\
+                                    &#x3C;div class=&#x22;card-price&#x22; data-test-info-type=&#x22;price&#x22;&#x3E;\
+                                        &#x3C;div class=&#x22;price-section price-section--withoutTax non-sale-price--withoutTax&#x22;&#x3E;\
+                                            &#x3C;span class=&#x22;non-sale-price-label&#x22;&#x3E;Was:&#x3C;/span&#x3E;\
+                                            &#x3C;span data-product-non-sale-price-without-tax=&#x22;&#x22; class=&#x22;price price--non-sale&#x22;&#x3E;\
+                                               {{button_4}}\
+                                            &#x3C;/span&#x3E;\
+                                        &#x3C;/div&#x3E;\
+                                        &#x3C;div class=&#x22;price-section price-section--withoutTax&#x22;&#x3E;\
+                                            &#x3C;span data-product-price-without-tax=&#x22;&#x22; class=&#x22;price price--withoutTax&#x22;&#x3E;{{countdown_4}}&#x3C;/span&#x3E;\
+                                        &#x3C;/div&#x3E;\
+                                    &#x3C;/div&#x3E;\
+                                    &#x3C;figcaption class=&#x22;card-figcaption&#x22;&#x3E;\
+                                        &#x3C;div class=&#x22;card-figcaption-body&#x22;&#x3E;\
+                                           &#x3C;a href=&#x22;{{link_4}}&#x22; data-event-type=&#x22;product-click&#x22; class=&#x22;button card-figcaption-button&#x22; data-product-id=&#x22;{{id_4}}&#x22;&#x3E;{{description_4}}&#x3C;/a&#x3E;\
+                                        &#x3C;/div&#x3E;\
+                                    &#x3C;/figcaption&#x3E;\
+                                &#x3C;/div&#x3E;\
+                            &#x3C;/article&#x3E;\
+                        &#x3C;/div&#x3E;\
+                        &#x3C;div class=&#x22;product&#x22;&#x3E;\
+                            &#x3C;article class=&#x22;card&#x22; data-product-id=&#x22;{{id_5}}&#x22;&#x3E;\
+                                &#x3C;figure class=&#x22;card-figure&#x22; data-product-id=&#x22;{{id_5}}&#x22;&#x3E;\
+                                    &#x3C;a href=&#x22;{{link_5}}&#x22;&#x3E;\
+                                        &#x3C;div class=&#x22;card-img-container&#x22;&#x3E;\
+                                            &#x3C;img class=&#x22;lazyload&#x22; src=&#x22;&#x22; data-src=&#x22;{{image_5}}&#x22; alt=&#x22;&#x22;&#x3E;\
+                                        &#x3C;/div&#x3E;\
+                                    &#x3C;/a&#x3E;\
+                                &#x3C;/figure&#x3E;\
+                                &#x3C;div class=&#x22;card-body&#x22;&#x3E;\
+                                        &#x3C;p class=&#x22;card-brand&#x22; data-test-info-type=&#x22;brandName&#x22;&#x3E;{{link_text_5}}&#x3C;/p&#x3E;\
+                                    &#x3C;h4 class=&#x22;card-title&#x22;&#x3E;\
+                                        &#x3C;a href=&#x22;{{link_5}}&#x22;&#x3E;{{label_5}}&#x3C;/a&#x3E;\
+                                    &#x3C;/h4&#x3E;\
+                                    &#x3C;div class=&#x22;card-price&#x22; data-test-info-type=&#x22;price&#x22;&#x3E;\
+                                        &#x3C;div class=&#x22;price-section price-section--withoutTax non-sale-price--withoutTax&#x22;&#x3E;\
+                                            &#x3C;span class=&#x22;non-sale-price-label&#x22;&#x3E;Was:&#x3C;/span&#x3E;\
+                                            &#x3C;span data-product-non-sale-price-without-tax=&#x22;&#x22; class=&#x22;price price--non-sale&#x22;&#x3E;\
+                                                {{button_5}}\
+                                            &#x3C;/span&#x3E;\
+                                        &#x3C;/div&#x3E;\
+                                        &#x3C;div class=&#x22;price-section price-section--withoutTax&#x22;&#x3E;\
+                                            &#x3C;span data-product-price-without-tax=&#x22;&#x22; class=&#x22;price price--withoutTax&#x22;&#x3E;{{countdown_5}}&#x3C;/span&#x3E;\
+                                        &#x3C;/div&#x3E;\
+                                    &#x3C;/div&#x3E;\
+                                    &#x3C;figcaption class=&#x22;card-figcaption&#x22;&#x3E;\
+                                        &#x3C;div class=&#x22;card-figcaption-body&#x22;&#x3E;\
+                                           &#x3C;a href=&#x22;{{link_5}}&#x22; data-event-type=&#x22;product-click&#x22; class=&#x22;button card-figcaption-button&#x22; data-product-id=&#x22;{{id_5}}&#x22;&#x3E;{{description_5}}&#x3C;/a&#x3E;\
+                                        &#x3C;/div&#x3E;\
+                                    &#x3C;/figcaption&#x3E;\
+                                &#x3C;/div&#x3E;\
+                            &#x3C;/article&#x3E;\
+                        &#x3C;/div&#x3E;\
+                    &#x3C;/div&#x3E;\
+                &#x3C;/div&#x3E;\
+            &#x3C;/div&#x3E;\
+            &#x3C;div class=&#x22;imgItem imgRight&#x22;&#x3E;\
+               &#x3C;a href=&#x22;{{link_6}}&#x22;&#x3E;&#x3C;img class=&#x22;lazyload&#x22; src=&#x22;&#x22; data-src=&#x22;{{image_6}}&#x22;/&#x3E;&#x3C;/a&#x3E;\
+           &#x3C;/div&#x3E;\
+           &#x3C;/div&#x3E;&#x27;
+});

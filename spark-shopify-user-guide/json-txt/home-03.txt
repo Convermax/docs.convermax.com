@@ -1,0 +1,2494 @@
+﻿{
+  "current": {
+    "type_header_font": "rajdhani_n7",
+    "type_header_base_size": 16,
+    "logo_size": 26,
+    "type_base_font": "arimo_n4",
+    "type_base_size": 12,
+    "type_heading_font": "rajdhani_n7",
+    "type_heading_size": 22,
+    "type_button_font": "rajdhani_n7",
+    "type_button_size": 16,
+    "favicon": "shopify:\/\/shop_images\/favicon.png",
+    "enable_opengraph": true,
+    "image_share": "",
+    "body_layout": "default",
+    "header_layout": "header_3",
+    "footer_layout": "footer_3",
+    "product_layout": "layout-3",
+    "productCard_layout": "layout_2",
+    "product_card_height_procent": 100,
+    "image_swap": true,
+    "show_product_quickview": true,
+    "display_countdown": true,
+    "show_product_vendor": true,
+    "show_product_title": true,
+    "show_product_reviews": true,
+    "show_product_price": true,
+    "show_product_button": true,
+    "show_wishlist": true,
+    "show_wishlist_mb": false,
+    "show_product_compare": true,
+    "show_product_compare_mb": false,
+    "time_new": 30,
+    "type_label_sale": "number",
+    "qv_enable_zoom": true,
+    "qv_enable_fancybox": true,
+    "qv_display_product_reviews": true,
+    "qv_show_sold_in": true,
+    "qv_item_prd": "3,5,6,7,8,10,12,15",
+    "qv_item_prds": "sold in last",
+    "qv_hours_prs": "10,15,16,17,18,20,25,35",
+    "qv_item_hours": "hours",
+    "qv_display_vendor": true,
+    "qv_display_product_sku": true,
+    "qv_display_availability": true,
+    "qv_display_product_type": true,
+    "qv_display_countdown": true,
+    "qv_display_price": true,
+    "qv_display_subtotal": true,
+    "qv_show_quantity_selector": true,
+    "qv_display_short_description": true,
+    "qv_number_words": "16",
+    "qv_dpl_customers_view": true,
+    "qv_title_view": "customers are viewing this product",
+    "qv_number_view": "283, 100, 59, 11, 14, 185, 193, 165, 50, 38, 99, 112, 46, 10, 125, 200, 250, 18",
+    "qv_display_product_detail_share": true,
+    "qv_share_text": "Share",
+    "qv_display_trust_img": true,
+    "qv_img_trust": "",
+    "terms_conditions": true,
+    "terms_conditions_text": "I agree with the terms and conditions",
+    "enable_backtotop": true,
+    "enable_search_trending": true,
+    "trending_search_title": "trending",
+    "trending_search_item_1": "dempus",
+    "trending_search_item_2": "sample",
+    "trending_search_item_3": "magnis",
+    "trending_search_item_4": "loremous saliduar",
+    "trending_search_item_5": "naminos",
+    "trending_search_item_6": "dinterdum",
+    "enable_search_popular_products": true,
+    "popular_products_search_title": "Popular Products",
+    "popular_products_collection": "tools",
+    "popular_products_limit": 3,
+    "enable_multilevel_categories": true,
+    "category_filter_title": "Select Your Vehicle",
+    "category_filter_des": "Search from over 1 million products",
+    "category_filter_label1": "Select Level 1",
+    "category_filter_label2": "Select Level 2",
+    "category_filter_label3": "Select Level 3",
+    "category_filter": "main-menu",
+    "enable_shopify_payments_currencies": false,
+    "enable_multiple_currencies": true,
+    "enable_auto_currency": false,
+    "currency_1_unit": "USD",
+    "currency_2_unit": "JPY",
+    "currency_3_unit": "EUR",
+    "currency_4_unit": "AUD",
+    "currency_5_unit": "",
+    "currency_6_unit": "",
+    "currency_7_unit": "",
+    "currency_8_unit": "",
+    "currency_9_unit": "",
+    "currency_10_unit": "",
+    "enable_multilang": true,
+    "lange_1": "ENG",
+    "lange_2": "GER",
+    "display_popup_newsletter": true,
+    "when_to_show": "first_time",
+    "popup_newsletter_expire": 1,
+    "popup_newsletter_delay": 8,
+    "newsletter": "shopify:\/\/shop_images\/newletter.jpg",
+    "popup_newsletter_title": "Join Our Mailing List",
+    "popup_newsletter_des_1": "Receive our latest updates about our products and promotions.",
+    "popup_newsletter_des": "We promise to only send you good things.",
+    "popup_newsletter_text_note": "Don't show again!",
+    "newssletter_success_text": "You have successfully subscribed!",
+    "display_popup_social": true,
+    "enable_ask_an_expert": true,
+    "ask_an_expert_header": "Have Questions?",
+    "ask_an_expert_des": "Ask The Automotive Experts anything on Speedo-Demo. We will follow up with you via email within 24-48 hours.",
+    "ask_an_expert_title": "Please answer the following questionnaire",
+    "enable_ask_do_you_need": true,
+    "ask_do_you_need": "Do You Need",
+    "ask_do_you_need_1": "Pricing",
+    "ask_do_you_need_2": "Answers",
+    "ask_do_you_need_3": "Both",
+    "ask_form_mess": "What can i help you with today ?",
+    "enable_how_would_you_like_me_to_contact_you": true,
+    "how_would_you_like_me_to_contact_you": "How would you like me to contact you?",
+    "contact_with_you_1": "Phone",
+    "contact_with_you_2": "Email",
+    "contact_with_you_3": "Both",
+    "display_someone-purchased": true,
+    "display_someone-purchased_mb": false,
+    "show_someone-purchased": "left",
+    "autorotate_speed": 8,
+    "text": "Someone recently bought a",
+    "someone_recently_product_1": "lobortis-maxim-tesque-lobortis-acuinon-efficitur-dapinica",
+    "from_ago_1": "20 minutes ago from Blackburn, UK",
+    "someone_recently_product_2": "orci-malestus-sonec-laoreet-tortor-malesuada-libero",
+    "from_ago_2": "40 minutes ago, from Blue Mountains, Australia",
+    "someone_recently_product_3": "",
+    "from_ago_3": "",
+    "someone_recently_product_4": "",
+    "from_ago_4": "",
+    "someone_recently_product_5": "",
+    "from_ago_5": "",
+    "display_gdpr": true,
+    "display_gdpr_mb": false,
+    "show_gdpr": "right",
+    "gdpr_content": "We use cookies to improve your experience on our website. Read about how we use cookies in our Privacy Policy. By browsing this website, you agree to our use of cookies.",
+    "gdpr_privacy_policy_text": "privacy policy",
+    "gdpr_privacy_policy_link": "https:\/\/policies.google.com",
+    "gdpr_accept_cookies_text": "accept",
+    "color_body_text": "#484b51",
+    "color_url": "#8c8c8c",
+    "color_url_hover": "#4563b3",
+    "color_body_bg": "#ffffff",
+    "color_heading_text": "#323232",
+    "color_heading_url": "#4563b3",
+    "color_section_border": "#e2e4e8",
+    "color_section_bg_gray": "#f5f5f5",
+    "color_button_text": "#ffffff",
+    "color_button_border": "#f04723",
+    "color_button": "#f04723",
+    "color_button_text_hover": "#ffffff",
+    "color_button_border_hover": "#cd2c19",
+    "color_button_hover": "#cd2c19",
+    "color_button_secondary_text": "#3d4044",
+    "color_button_secondary_border": "#b6b6b6",
+    "color_button_secondary": "",
+    "color_button_secondary_text_hover": "#ffffff",
+    "color_button_secondary_border_hover": "#5d6673",
+    "color_button_secondary_hover": "#5d6673",
+    "color_small_button_text": "#383e47",
+    "color_small_button_text_hover": "#005599",
+    "color_product_vendor": "#323232",
+    "color_product_title": "#323232",
+    "color_product_title_hover": "#4563b3",
+    "color_product_review": "#ffc50a",
+    "color_product_review_empty": "#e4e4e4",
+    "color_product_price": "#323232",
+    "color_product_price_sale": "#f04723",
+    "color_product_price_presale": "#999999",
+    "color_product_button_text": "#323232",
+    "color_product_button_bg": "#ffffff",
+    "color_product_button_border": "#9b9b9b",
+    "color_product_button_text_hover": "#ffffff",
+    "color_product_button_bg_hover": "#58a335",
+    "color_product_button_border_hover": "#58a335",
+    "color_product_button_soldOut_text": "#999999",
+    "color_product_button_soldOut_bg": "#f7f7f7",
+    "color_product_button_soldOut_border": "#f7f7f7",
+    "color_badge_text": "#ffffff",
+    "color_badge_bg": "#383e46",
+    "color_new_badge_text": "#ffffff",
+    "color_new_badge_bg": "#4563b3",
+    "color_sale_badge_text": "#ffffff",
+    "color_sale_badge_bg": "#f04723",
+    "color_soldOut_badge_text": "#ffffff",
+    "color_soldOut_badge_bg": "#b6b6b6",
+    "color_bestSellers_badge_text": "#ffffff",
+    "color_bestSellers_badge_bg": "#ed6912",
+    "color_text_field_text": "#000",
+    "color_text_field_border": "#cccfd6",
+    "color_text_field": "#fff",
+    "image_overlay_opacity": 40,
+    "color_btt": "#000000",
+    "color_border_btt": "#000000",
+    "color_bg_btt": "#ffffff",
+    "color_cookieMessage": "#ffffff",
+    "color_bg_cookieMessage": "#000000",
+    "color_btn_cookieMessage": "#383e47",
+    "color_btn_bg_cookieMessage": "#ffffff",
+    "color_notification2": "#969696",
+    "color_bg_notification2": "#ffffff",
+    "multiCategory_color": "#323232",
+    "multiCategory_border": "#e2e4e8",
+    "multiCategory_bg": "#ffffff",
+    "color_announcement_bar": "#ffffff",
+    "color_bg_announcement_bar": "#383e47",
+    "color_header_top": "#8c8c8c",
+    "color_bg_header_top": "#f7f7f7",
+    "color_border_header_top": "#f7f7f7",
+    "color_header_top_shortdescription": "#383e47",
+    "color_header_middle": "#383e47",
+    "color_bg_header_middle": "#ffffff",
+    "color_time_header_middle": "#383e47",
+    "color_logo": "#383e47",
+    "color_search_bar": "#383e47",
+    "color_border_search_bar": "#e2e4e8",
+    "color_bg_search_bar": "#ffffff",
+    "color_search_btn": "#ffffff",
+    "color_bg_search_btn": "#5d6673",
+    "color_cart_countPill": "#ffffff",
+    "color_bg_cart_countPill": "#5fb139",
+    "color_header_bottom": "#323232",
+    "color_border_header_bottom": "#ffffff",
+    "color_bg_header_bottom": "#ffffff",
+    "color_label_1": "#ffffff",
+    "color_bg_label_1": "#d95949",
+    "color_label_2": "#ffffff",
+    "color_bg_label_2": "#f4ae4d",
+    "color_label_3": "#ffffff",
+    "color_bg_label_3": "#41aed6",
+    "nav_vertical_bg": "#fafafa",
+    "nav_vertical_color": "#383e47",
+    "nav_vertical_dropdown_bg": "#ffffff",
+    "nav_vertical_dropdown_border": "#ffffff",
+    "color_title_dropdownmenu": "#323232",
+    "color_dropdownmenu": "#323232",
+    "color_border_dropdownmenu": "#ebebeb",
+    "color_bg_dropdownmenu": "#ffffff",
+    "color_social": "#f04723",
+    "color_social_hover": "#f04723",
+    "color_footer_title": "#ffffff",
+    "color_footer_text": "#bcbfc5",
+    "color_footer_link_hover": "#ffffff",
+    "color_footer_bg": "#2e3034",
+    "color_contact_owner": "#303030",
+    "bg_contact_owner": "#ffffff",
+    "border_contact_owner": "#e2e4e8",
+    "color_footer_block_icon": "#ffffff",
+    "color_title_footer_block_icon": "#ffffff",
+    "bg_footer_block_icon": "#f04723",
+    "border_footer_block_icon": "#f79a86",
+    "color_newsletter_input": "#383e47",
+    "color_newsletter_input_bg": "#ffffff",
+    "color_newsletter_input_border": "#ffffff",
+    "footer_social": "#ffffff",
+    "footer_social_border": "#636364",
+    "footer_bottom_text": "#bcbfc5",
+    "footer_bottom_bg": "#222326",
+    "share_image": "",
+    "share_facebook": true,
+    "share_twitter": true,
+    "share_pinterest": true,
+    "social_twitter_link": "https:\/\/twitter.com\/shopify",
+    "social_facebook_link": "https:\/\/facebook.com\/shopify",
+    "social_pinterest_link": "https:\/\/pinterest.com\/shopify",
+    "social_instagram_link": "http:\/\/instagram.com\/shopify",
+    "social_tumblr_link": "",
+    "social_snapchat_link": "",
+    "social_youtube_link": "",
+    "social_vimeo_link": "https:\/\/vimeo.com\/shopify",
+    "show_shipping_calculator": true,
+    "shipping_calculator_heading": "Get shipping estimates",
+    "shipping_calculator_default_country": "Canada",
+    "css_enable": true,
+    "customcss_enable": false,
+    "checkout_header_image": "",
+    "checkout_logo_image": "",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "medium",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#fff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_accent_color": "#197bbd",
+    "checkout_button_color": "#197bbd",
+    "checkout_error_color": "#e32c2b",
+    "qv_use_color_swatch": true,
+    "qv_option_color_swatch": "Color",
+    "qv_use_size_swatch": true,
+    "qv_option_size_swatch": "Size",
+    "multilevel_categories_position": "slideshow",
+    "color_notification": "#ffffff",
+    "color_bg_notification": "#ed6912",
+    "color_newsletter_btn": "#ffffff",
+    "color_newsletter_btn_bg": "#b20000",
+    "color_icon_list": "#b20000",
+    "color_icon_list_icon": "#ffffff",
+    "color_icon_list_text": "#ffffff",
+    "i-currency-1": "shopify:\/\/shop_images\/i-currency-1.png",
+    "i-currency-2": "shopify:\/\/shop_images\/i-currency-2.png",
+    "i-currency-3": "shopify:\/\/shop_images\/i-currency-4.png",
+    "i-currency-4": "",
+    "i-currency-5": "",
+    "i-currency-6": "",
+    "i-currency-7": "",
+    "i-currency-8": "",
+    "i-currency-9": "",
+    "i-currency-10": "",
+    "i_lang_1": "shopify:\/\/shop_images\/i-currency-3.png",
+    "i_lang_2": "shopify:\/\/shop_images\/i-currency-5.png",
+    "sections": {
+      "header": {
+        "type": "header",
+        "blocks": {
+          "1573706144646": {
+            "type": "style_2",
+            "settings": {
+              "megamenu_items_2": "interior",
+              "banner_first_style_2": "shopify:\/\/shop_images\/megamenu-7.jpg",
+              "link_banner_first_style_2": "",
+              "banner_second_style_2": "shopify:\/\/shop_images\/megamenu-8.jpg",
+              "link_banner_second_style_2": "",
+              "banner_third_style_2": "shopify:\/\/shop_images\/megamenu-9.jpg",
+              "link_banner_third_style_2": "",
+              "banner_four_style_2": "shopify:\/\/shop_images\/megamenu-10.jpg",
+              "link_banner_four_style_2": "",
+              "banner_five_style_2": "shopify:\/\/shop_images\/megamenu-11.jpg",
+              "link_banner_five_style_2": ""
+            }
+          },
+          "1573706190500": {
+            "type": "style_1",
+            "settings": {
+              "megamenu_items_1": "exterior",
+              "title_featured_product": "Featured Products",
+              "featured_product": "lobortis-maxim-tesque-lobortis-acuinon-efficitur-dapinica",
+              "featured_product_2": "porttitor-fusce-chelas-erisque-volutpat-libero-hendrerit",
+              "featured_product_3": "dinterdum-pretium-an-dapboe-dan-mauris-condimentus",
+              "banner_first_style_1": "shopify:\/\/shop_images\/megamenu-6.jpg",
+              "link_banner_first_style_1": ""
+            }
+          },
+          "1573706218638": {
+            "type": "style_3",
+            "settings": {
+              "megamenu_items_3": "Performance",
+              "column_category": 5,
+              "banner_image_style_3_1": "shopify:\/\/shop_images\/megamenu-1.jpg",
+              "banner_image_style_3_2": "shopify:\/\/shop_images\/megamenu-2.jpg",
+              "banner_image_style_3_3": "shopify:\/\/shop_images\/megamenu-3.jpg",
+              "banner_image_style_3_4": "shopify:\/\/shop_images\/megamenu-4.jpg",
+              "banner_image_style_3_5": "shopify:\/\/shop_images\/megamenu-5.jpg",
+              "banner_image_style_3_6": ""
+            }
+          }
+        },
+        "block_order": [
+          "1573706144646",
+          "1573706190500",
+          "1573706218638"
+        ],
+        "settings": {
+          "message": true,
+          "home_page_only": false,
+          "message_text": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0278\/4434\/5931\/files\/banner-promotion-2.png?115\" alt=\"\"> <b>BUY NOW, PAY LATER.<\/b> Starting at 0% APR <span class=\"btn\">learn more<\/span>",
+          "message_link": "https:\/\/spark-theme-automotive.myshopify.com\/",
+          "header_top": true,
+          "enable_multiple_language": true,
+          "language_position": "right",
+          "enable_multiple_currencies": true,
+          "currency_position": "right",
+          "enable_phone": true,
+          "phone_position": "right",
+          "phone_number": "Toll-free +1800 000 6890",
+          "enable_email": false,
+          "email_position": "left",
+          "email": "",
+          "enable_short_description": false,
+          "short_description_position": "left",
+          "short_description": "",
+          "enable_url_1": true,
+          "url_position_1": "right",
+          "url_text_1": "Rewards Program",
+          "url_1": "#",
+          "enable_url_2": true,
+          "url_position_2": "right",
+          "url_text_2": "Blog",
+          "url_2": "#",
+          "enable_url_3": true,
+          "url_position_3": "right",
+          "url_text_3": "Contact",
+          "url_3": "#",
+          "enable_url_4": true,
+          "url_position_4": "right",
+          "url_text_4": "About",
+          "url_4": "#",
+          "enable_url_5": true,
+          "url_position_5": "right",
+          "url_text_5": "Customer Service",
+          "url_5": "#",
+          "header_middle": true,
+          "logo": "shopify:\/\/shop_images\/logo.png",
+          "logo_text": "",
+          "logo_max_width": 205,
+          "enable_header_search": true,
+          "enable_header_account": true,
+          "enable_header_wishlist": true,
+          "enable_header_cart": true,
+          "main_menu": "main-menu",
+          "display_megamenu": true,
+          "label_1": "sale",
+          "label_1_collection": "tools",
+          "label_2": "hot",
+          "label_2_collection": "Repair Parts",
+          "label_3": "new",
+          "label_3_collection": "Audio & Electronics"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "1574151563872": {
+            "type": "contact_owner",
+            "settings": {
+              "contact_description": "<p>Need help? We're available at <strong>1800-000-6890<\/strong> - Email us at: support@halothemes.com or <a href=\"#\" title=\"#\">LIVE HELP<\/a><\/p>"
+            }
+          },
+          "1574153157687": {
+            "type": "block_icon",
+            "settings": {
+              "icon_1": "<svg x=\"0px\" y=\"0px\" viewbox=\"0 0 493.349 493.349\"> <g> \t<path d=\"M487.932,51.1c-3.613-3.612-7.905-5.424-12.847-5.424h-292.36c-4.948,0-9.233,1.812-12.847,5.424 \t\tc-3.615,3.617-5.424,7.902-5.424,12.85v54.818h-45.683c-5.14,0-10.71,1.237-16.705,3.711c-5.996,2.478-10.801,5.518-14.416,9.135 \t\tl-56.532,56.531c-2.473,2.474-4.612,5.327-6.424,8.565c-1.807,3.23-3.14,6.14-3.997,8.705c-0.855,2.572-1.477,6.089-1.854,10.566 \t\tc-0.378,4.475-0.62,7.758-0.715,9.853c-0.091,2.092-0.091,5.71,0,10.85c0.096,5.142,0.144,8.47,0.144,9.995v91.36 \t\tc-4.947,0-9.229,1.807-12.847,5.428C1.809,347.076,0,351.363,0,356.312c0,2.851,0.378,5.376,1.14,7.562 \t\tc0.763,2.19,2.046,3.949,3.858,5.284c1.807,1.335,3.378,2.426,4.709,3.285c1.335,0.855,3.571,1.424,6.711,1.711 \t\ts5.28,0.479,6.423,0.575c1.143,0.089,3.568,0.089,7.279,0c3.715-0.096,5.855-0.144,6.427-0.144h18.271 \t\tc0,20.17,7.139,37.397,21.411,51.674c14.277,14.274,31.501,21.413,51.678,21.413c20.175,0,37.401-7.139,51.675-21.413 \t\tc14.277-14.276,21.411-31.504,21.411-51.674H310.63c0,20.17,7.139,37.397,21.412,51.674c14.271,14.274,31.498,21.413,51.675,21.413 \t\tc20.181,0,37.397-7.139,51.675-21.413c14.277-14.276,21.412-31.504,21.412-51.674c0.568,0,2.711,0.048,6.42,0.144 \t\tc3.713,0.089,6.14,0.089,7.282,0c1.144-0.096,3.289-0.288,6.427-0.575c3.139-0.287,5.373-0.855,6.708-1.711s2.901-1.95,4.709-3.285 \t\tc1.81-1.335,3.097-3.094,3.856-5.284c0.77-2.187,1.143-4.712,1.143-7.562V63.953C493.353,59.004,491.546,54.724,487.932,51.1z \t\t M153.597,400.28c-7.229,7.23-15.797,10.854-25.694,10.854c-9.898,0-18.464-3.62-25.697-10.854 \t\tc-7.233-7.228-10.848-15.797-10.848-25.693c0-9.897,3.619-18.47,10.848-25.701c7.232-7.228,15.798-10.848,25.697-10.848 \t\tc9.897,0,18.464,3.617,25.694,10.848c7.236,7.231,10.853,15.804,10.853,25.701C164.45,384.483,160.833,393.052,153.597,400.28z \t\t M164.45,228.403H54.814v-8.562c0-2.475,0.855-4.569,2.568-6.283l55.674-55.672c1.712-1.714,3.809-2.568,6.283-2.568h45.111 \t\tV228.403z M409.41,400.28c-7.23,7.23-15.797,10.854-25.693,10.854c-9.9,0-18.47-3.62-25.7-10.854 \t\tc-7.231-7.228-10.849-15.797-10.849-25.693c0-9.897,3.617-18.47,10.849-25.701c7.23-7.228,15.8-10.848,25.7-10.848 \t\tc9.896,0,18.463,3.617,25.693,10.848c7.231,7.235,10.852,15.804,10.852,25.701C420.262,384.483,416.648,393.052,409.41,400.28z\"><\/path> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <\/svg>",
+              "title_1": "Worldwide Delivery",
+              "text_1": "Metus tellus ultricies et quam sit amet commodo odio diam a libero nulla facilisi suspendissous enim sodales lacinia neque commodo.",
+              "icon_2": "<svg x=\"0px\" y=\"0px\" viewbox=\"0 0 548.176 548.176\"> <g> \t<g> \t\t<path d=\"M534.754,68.238c-8.945-8.945-19.698-13.417-32.258-13.417H45.681c-12.562,0-23.313,4.471-32.264,13.417 \t\t\tC4.471,77.185,0,87.936,0,100.499v347.173c0,12.566,4.471,23.318,13.417,32.264c8.951,8.946,19.702,13.419,32.264,13.419h456.815 \t\t\tc12.56,0,23.312-4.473,32.258-13.419c8.945-8.945,13.422-19.697,13.422-32.264V100.499 \t\t\tC548.176,87.936,543.699,77.185,534.754,68.238z M511.627,447.679c0,2.478-0.903,4.613-2.711,6.427 \t\t\tc-1.807,1.8-3.949,2.703-6.42,2.703H45.681c-2.473,0-4.615-0.903-6.423-2.71c-1.807-1.813-2.712-3.949-2.712-6.427V274.088 \t\t\th475.082V447.679z M511.627,164.449H36.545v-63.954c0-2.474,0.902-4.611,2.712-6.423c1.809-1.803,3.951-2.708,6.423-2.708h456.815 \t\t\tc2.471,0,4.613,0.901,6.42,2.708c1.808,1.812,2.711,3.949,2.711,6.423V164.449L511.627,164.449z\"><\/path> \t\t<rect x=\"73.092\" y=\"383.719\" width=\"73.089\" height=\"36.548\"><\/rect> \t\t<rect x=\"182.728\" y=\"383.719\" width=\"109.634\" height=\"36.548\"><\/rect> \t<\/g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <\/svg>",
+              "title_2": "Secure Shopping",
+              "text_2": "Metus tellus ultricies et quam sit amet commodo odio diam a libero nulla facilisi suspendissous enim sodales lacinia neque commodo.",
+              "icon_3": "<svg x=\"0px\" y=\"0px\" viewbox=\"0 0 438.543 438.543\"> <g> \t<path d=\"M396.58,5.424C392.959,1.807,388.675,0,383.727,0H54.824c-4.952,0-9.235,1.807-12.852,5.424 \t\tc-3.615,3.615-5.424,7.898-5.424,12.847v219.268c0,16.371,3.186,32.596,9.563,48.681c6.374,16.084,14.274,30.361,23.697,42.828 \t\tc9.423,12.47,20.651,24.605,33.689,36.405c13.04,11.806,25.078,21.6,36.116,29.409c11.038,7.803,22.554,15.181,34.545,22.121 \t\tc11.991,6.943,20.511,11.663,25.553,14.134c5.043,2.478,9.088,4.38,12.132,5.708c2.286,1.143,4.758,1.718,7.426,1.718 \t\tc2.671,0,5.14-0.575,7.428-1.718c3.042-1.328,7.087-3.23,12.128-5.708c5.041-2.471,13.565-7.19,25.557-14.134 \t\tc11.984-6.94,23.504-14.318,34.54-22.121c11.043-7.81,23.079-17.604,36.121-29.409c13.031-11.8,24.263-23.936,33.685-36.405 \t\tc9.421-12.467,17.319-26.744,23.705-42.828c6.379-16.085,9.562-32.31,9.562-48.681V18.271 \t\tC401.994,13.319,400.187,9.04,396.58,5.424z M347.178,237.539c0,33.5-22.367,67.759-67.095,102.781 \t\tc-17.892,14.082-38.164,27.124-60.813,39.115V54.813h127.908V237.539z\"><\/path> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <\/svg>",
+              "title_3": "Shop with Confidence",
+              "text_3": "Metus tellus ultricies et quam sit amet commodo odio diam a libero nulla facilisi suspendissous enim sodales lacinia neque commodo.",
+              "icon_4": "<svg x=\"0px\" y=\"0px\" viewbox=\"0 0 437.6 437.6\">         <path d=\"M264.6,300.4h-92C97,300.4,35.4,362,35.4,437.6h366.8C401.8,362.4,340.2,300.4,264.6,300.4z\"><\/path>         <path d=\"M235,237.6c7.2,0,14,2.4,19.2,6.8h33.2c16.4-17.2,26.4-40,26.4-65.6c0-52.8-42.8-95.2-95.2-95.2s-95.2,42.4-95.2,95.2 c0,35.6,19.6,66.8,48.8,83.2c3.2-14,15.6-24.4,30-24.4H235z\"><\/path>         <path d=\"M77.8,186.8c1.2,10,6,19.2,12.8,26c5.2,5.2,12,9.2,19.6,11.6c-0.4-1.6-0.4-3.2-0.4-4.4v-77.6c0-1.6,0-3.2,0.4-4.8 c-7.6,2-14,6-19.6,11.6c-0.4,0.4-1.2,1.2-1.6,1.6v-3.2c0-7.6,0.8-15.2,2-22.4c1.2-7.6,3.2-14.8,6-21.6c2.4-7.2,5.6-14,9.6-20.4 c3.6-6.4,8-12.8,12.8-18.4c0.4-0.4,0.8-1.2,0.8-1.6c3.6,0.4,7.2-0.8,9.6-3.2c24.4-24.4,56.4-36.4,88-36.4c31.6,0,64,12,88,36.4 c2.8,2.8,6.4,3.6,9.6,3.2c0.4,0.4,0.4,1.2,0.8,1.6c4.8,5.6,9.2,12,12.8,18.4c3.6,6.4,6.8,13.2,9.6,20.4c2.4,7.2,4.4,14.4,6,22 c1.2,7.2,2,14.8,2,22.4v3.2c-0.4-0.8-1.2-1.2-1.6-1.6c-5.2-5.2-12-9.2-19.6-11.6c0.4,1.6,0.4,3.2,0.4,4.8V220 c0,1.6,0,3.2-0.4,4.4c2-0.4,4-1.2,6-2v25.2c0,2.8-0.4,5.6-0.8,7.6c-0.4,2-1.2,3.2-2,4.4c-0.8,0.8-2,1.6-3.2,2 c-1.6,0.4-3.2,0.8-5.2,0.8h-0.4h-73.6c-2.4-4-6.4-6.8-11.6-6.8h-32.8c-7.2,0-12.8,6-12.8,12.8c0.4,7.2,6,12.8,13.2,12.8H235 c4.8,0,9.2-2.8,11.6-6.8H321h2.8c2.8,0,5.2-0.8,7.6-1.6c3.2-1.2,5.6-2.8,8-5.2c2-2.4,3.6-5.2,4.8-8.8c0.8-3.2,1.6-7.2,1.6-11.6 v-32V214c0.4-0.4,0.8-0.8,1.2-1.2c6.8-6.8,11.6-16,12.8-26c0.4-0.4,0.8-0.4,0.8-0.8c1.2-1.2,2-3.2,2-4.8V148 c0-8.4-0.8-16.8-2-24.8c-2.4-8.4-4.4-16.4-7.2-24.4c-2.8-8-6.4-15.6-10.8-22.8c-4-7.2-8.8-14-14.4-20.4c-0.4-0.8-1.2-1.2-2-1.6 c0.8-3.6-0.4-8-3.2-10.8C294.2,14.4,256.6,0,218.6,0S143,14.4,113.8,43.2c-2.8,2.8-4,7.2-3.2,10.8c-0.8,0.4-1.2,0.8-2,1.6 C103,62,98.2,68.8,94.2,76s-7.6,14.8-10.8,22.8c-2.8,8-5.2,16-6.4,24.4c-1.6,8-2,16.4-2,24.8v33.2c0,2,0.8,3.6,2,4.8 C77.4,186.4,77.8,186.4,77.8,186.8z\"><\/path>     <\/svg>",
+              "title_4": "24\/7 Help Center",
+              "text_4": "Metus tellus ultricies et quam sit amet commodo odio diam a libero nulla facilisi suspendissous enim sodales lacinia neque commodo."
+            }
+          },
+          "1574137211956": {
+            "type": "link_list",
+            "settings": {
+              "title": "Further Info.",
+              "menu": "footer"
+            }
+          },
+          "1574137727301": {
+            "type": "link_list",
+            "settings": {
+              "title": "Customer Service",
+              "menu": "footer-menu-2"
+            }
+          },
+          "1574137828602": {
+            "type": "link_list",
+            "settings": {
+              "title": "Shop",
+              "menu": "footer-menu-3"
+            }
+          },
+          "1574137847479": {
+            "type": "link_list",
+            "settings": {
+              "title": "Brands",
+              "menu": "footer-menu-4"
+            }
+          },
+          "1574137864274": {
+            "type": "newsletter",
+            "settings": {
+              "title": "Join in Our Mailing List",
+              "description": "Receive our latest updates about our products and promotions.",
+              "geotrust_ssl_image_1": "shopify:\/\/shop_images\/security-6.png",
+              "geotrust_ssl_image_2": "shopify:\/\/shop_images\/security-2.png",
+              "geotrust_ssl_image_3": "shopify:\/\/shop_images\/security-3.png"
+            }
+          },
+          "1574136286926": {
+            "type": "copyright",
+            "settings": {
+              "copyright_1": "© 2019 Spark Store Demo. All Rights Reserved. Powered by Shopify.",
+              "copyright_2": "Shopify Themes & Templates by HaloThemes.com."
+            }
+          },
+          "1574136332210": {
+            "type": "payment_methods",
+            "settings": {
+              "payment_image_1": "shopify:\/\/shop_images\/payment-1.png",
+              "payment_image_2": "shopify:\/\/shop_images\/payment-2.png",
+              "payment_image_3": "shopify:\/\/shop_images\/payment-3.png",
+              "payment_image_4": "shopify:\/\/shop_images\/payment-4.png",
+              "payment_image_5": "shopify:\/\/shop_images\/payment-5.png",
+              "payment_image_6": "shopify:\/\/shop_images\/payment-6.png",
+              "payment_image_7": "shopify:\/\/shop_images\/payment-7.png",
+              "payment_image_8": "",
+              "payment_image_9": "",
+              "payment_image_10": ""
+            }
+          }
+        },
+        "block_order": [
+          "1574151563872",
+          "1574153157687",
+          "1574137211956",
+          "1574137727301",
+          "1574137828602",
+          "1574137847479",
+          "1574137864274",
+          "1574136286926",
+          "1574136332210"
+        ],
+        "settings": {
+        }
+      },
+      "1573645506188": {
+        "type": "slideshow",
+        "blocks": {
+          "1573645506188-0": {
+            "type": "image",
+            "settings": {
+              "image_slide": "shopify:\/\/shop_images\/slider-1.jpg",
+              "alignment": "left",
+              "heading": "Milancelos Cosmo",
+              "slide-des": "Curabitur sodales lorem quis adipiscing euismod, midos lacus eleifend nulla porttitor semper urna loremous.",
+              "button_slide": "Shop now",
+              "link": "#"
+            }
+          },
+          "1573645572671": {
+            "type": "image",
+            "settings": {
+              "image_slide": "shopify:\/\/shop_images\/slider-2.jpg",
+              "alignment": "left",
+              "heading": "Lorem Dé Molis",
+              "slide-des": "Curabitur sodales lorem quis adipiscing euismod, midos lacus eleifend nulla porttitor semper urna loremous.",
+              "button_slide": "Shop now",
+              "link": "#"
+            }
+          },
+          "1573645657099": {
+            "type": "image",
+            "settings": {
+              "image_slide": "shopify:\/\/shop_images\/slider-3.jpg",
+              "alignment": "left",
+              "heading": "Custom Wheels",
+              "slide-des": "Curabitur sodales lorem quis adipiscing euismod, midos lacus eleifend nulla porttitor semper urna loremous.",
+              "button_slide": "Shop Now",
+              "link": "#"
+            }
+          }
+        },
+        "block_order": [
+          "1573645506188-0",
+          "1573645572671",
+          "1573645657099"
+        ],
+        "settings": {
+          "slide_height": "large",
+          "text_size": "medium",
+          "overlay": "dark",
+          "show_arrows": true,
+          "show_dots": true,
+          "show_fadein": false,
+          "autoplay": true,
+          "autorotate_speed": 5,
+          "custom_color": false,
+          "color_heading": "",
+          "color_text": "",
+          "color_button_text": "",
+          "color_button_border": "",
+          "color_button_bg": "",
+          "color_button_text_hover": "",
+          "color_button_border_hover": "",
+          "color_button_bg_hover": "",
+          "color_arrow": "",
+          "color_arrow_border": "",
+          "color_dot": "",
+          "color_dot_border": ""
+        }
+      },
+      "collection-header": {
+        "type": "collection-header",
+        "blocks": {
+          "1574329236830": {
+            "type": "collection",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/category-banner.jpg",
+              "collection_id": "interior"
+            }
+          },
+          "1574329452976": {
+            "type": "collection",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/category-banner.jpg",
+              "collection_id": "wheels-tires"
+            }
+          },
+          "1574329463081": {
+            "type": "collection",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/category-banner.jpg",
+              "collection_id": "exterior"
+            }
+          },
+          "1574329473518": {
+            "type": "collection",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/category-banner.jpg",
+              "collection_id": "performance"
+            }
+          },
+          "1574329491447": {
+            "type": "collection",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/category-banner.jpg",
+              "collection_id": "lighting"
+            }
+          },
+          "1574329501988": {
+            "type": "collection",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/category-banner.jpg",
+              "collection_id": "audio-electronics"
+            }
+          },
+          "1574329512824": {
+            "type": "collection",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/category-banner.jpg",
+              "collection_id": "body-parts"
+            }
+          },
+          "1574329521004": {
+            "type": "collection",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/category-banner.jpg",
+              "collection_id": "tools"
+            }
+          },
+          "1574329536386": {
+            "type": "collection",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/category-banner.jpg",
+              "collection_id": "today-s-deals"
+            }
+          },
+          "1574329545403": {
+            "type": "collection",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/category-banner.jpg",
+              "collection_id": "repair-parts"
+            }
+          }
+        },
+        "block_order": [
+          "1574329236830",
+          "1574329452976",
+          "1574329463081",
+          "1574329473518",
+          "1574329491447",
+          "1574329501988",
+          "1574329512824",
+          "1574329521004",
+          "1574329536386",
+          "1574329545403"
+        ],
+        "settings": {
+          "show_collection_image": true
+        }
+      },
+      "collection_customHtml": {
+        "type": "collection_customHtml",
+        "settings": {
+          "customHtml": true,
+          "text": "Custom CMS Block - Phasellus volutpat magna id mauris sodales et ornare urna molestie. Mauris non sem tincidunt, hendrerit nisi quis honcus felis. Suspendisse tempus mi durna in mattis nisl egestas quis. Proin nisi justo consectetur sed lacus an bibendum commodo diam. Praesent vulputate arcu eros quis accumsan odio malesuada at. Nulla vel ante magna. Cras ultricies nulla porttitor metus cursus malesuada. Sed convallis tempor ante ac semperos. Duis an turpis de nisl ultricies rhoncus. Morbi aliquet sem non orci lacinia posuere nam eget efficitur nibh. Aenean nec ornare ipsum. Aliquam vel semper augue. Phasellus pharetra lacus eu magna gravida, vel pharetra velit interdum. Duis lobortis faucibus quam, non dignissim odio rhoncus quis. Quisque et nulla molestie, dapibus neque in, bibendum enim. Fusce sollicitudin varius leo, vel condimentum justo volutpat quis. In posuere cursus leo sed molestie. Nam id varius orci. Etiam lorem lacus, eleifend ut elit faucibus, tristique accumsan nibh. \nVestibulum a condimentum nisl. Praesent risus est, maximus vitae purus ac, sollicitudin luctus neque. Integer mattis mauris quis urna hendrerit, in eleifend mauris pretium. Phasellus sit amet pharetra tortor. Donec finibus euismod pretium. Vivamus quis tempus enim, id pretium leo. Etiam mollis ex id lectus pretium consequat. Vivamus imperdiet at sapien sit amet iaculis. Vestibulum et felis libero. Praesent vitae venenatis nisl, non egestas urna. Proin dignissim nunc vel quam dapibus, non varius velit interdum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In sagittis ex eu tellus congue porttitor. Cras non interdum sapien. Maecenas mollis sed diam vitae accumsan. Praesent congue turpis in urna venenatis fringilla. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+          "background-color": false,
+          "border-top": false,
+          "border-bottom": false,
+          "padding-top": 1,
+          "padding-bottom": 5
+        }
+      },
+      "reviews": {
+        "type": "reviews",
+        "blocks": {
+          "1574334643307": {
+            "type": "review",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/wheel_arch-12.jpg",
+              "brand": "Tomorrow®",
+              "title": "(Sample) Tempus es lortis ados delos lorem tempus cosmo sapiendos",
+              "link": "shopify:\/\/products\/aliquam-erat-volutpat-urabitur-nunc-diornare-felis-metus",
+              "stars": 5,
+              "caption": "Look Amazing",
+              "author": "HaloThemes on May 16, 2019",
+              "text": "Duis an turpis de nor multricies honcus. Morbi aliquet sem non orci lacinia posuere nam eget efficitur nibh. Aenean nec ornare ipsum..."
+            }
+          },
+          "1574334749936": {
+            "type": "review",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/wheel_arch-22.jpg",
+              "brand": "High Speed Gear®",
+              "title": "(Sample) Magnes de darturien cosmopolis an deros laciniados",
+              "link": "shopify:\/\/products\/laoreet-magna-at-gravida-metus-praesent-euismod-placera",
+              "stars": 5,
+              "caption": "Very Nice Wheels & Rims",
+              "author": "HaloThemes on May 16, 2019",
+              "text": "Phasellus volutpat magna id mauris sodales et ornare urna molestie. Mauris non sem tincidunt, hendrerit nisi quis honcus felis. Suspendisse tempus mi durna in mattis de nilos egestas quis. Proin nisi justo consectetur sed lacus."
+            }
+          },
+          "1574334804576": {
+            "type": "review",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/wheel_arch-3b.jpg",
+              "brand": "High Speed Gear®",
+              "title": "Fusce eget vestibulum ipsumt tincidunt diam commodo",
+              "link": "shopify:\/\/products\/fusce-eget-vestibulum-ipsumt-tincidunt-diam",
+              "stars": 4,
+              "caption": "Best Producs",
+              "author": "HaloThemes On May 16, 2019",
+              "text": "Phasellus volutpat magna id mauris sodales et ornare urna molestie. Mauris non sem tincidunt, hendrerit nisi quis honcus felis. Suspendisse tempus mi durna in mattis de nilos egestas quis. Proin nisi justo consectetur sed lacus."
+            }
+          }
+        },
+        "block_order": [
+          "1574334643307",
+          "1574334749936",
+          "1574334804576"
+        ],
+        "settings": {
+          "review_checkbox": true,
+          "background-color": false,
+          "border-top": true,
+          "border-bottom": false,
+          "padding-top": 5,
+          "padding-bottom": 5,
+          "title": "Customer Reviews",
+          "text_link": "",
+          "custom_link": "",
+          "description": "",
+          "title_layout": "left",
+          "review_layout": "carousel",
+          "column": 2,
+          "carousel-arrows": false,
+          "carousel-dots": true
+        }
+      },
+      "recently-viewed-products": {
+        "type": "recently-viewed-products",
+        "settings": {
+          "show": true,
+          "background-color": false,
+          "border-top": true,
+          "border-bottom": false,
+          "padding-top": 5,
+          "padding-bottom": 7,
+          "title": "Recently Viewed Products",
+          "text_link": "",
+          "custom_link": "",
+          "description": "",
+          "title_layout": "left",
+          "products_layout": "carousel",
+          "column": 5,
+          "limit": 6,
+          "carousel-arrows": true,
+          "carousel-dots": true
+        }
+      },
+      "brand-grid": {
+        "type": "brand-grid",
+        "blocks": {
+          "1574335043390": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brands-1.png",
+              "link": "",
+              "title": ""
+            }
+          },
+          "1574335074927": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brands-2.png",
+              "link": "",
+              "title": ""
+            }
+          },
+          "1574335090727": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brands-3.png",
+              "link": "",
+              "title": ""
+            }
+          },
+          "1574335104032": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brands-4.png",
+              "link": "",
+              "title": ""
+            }
+          },
+          "1574335120461": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brands-5.png",
+              "link": "",
+              "title": ""
+            }
+          },
+          "1574335133992": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brands-6.png",
+              "link": "",
+              "title": ""
+            }
+          },
+          "1574335146496": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brands-14.png",
+              "link": "",
+              "title": ""
+            }
+          },
+          "1574335159584": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brands-8.png",
+              "link": "",
+              "title": ""
+            }
+          },
+          "1574335189343": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brands-9.png",
+              "link": "",
+              "title": ""
+            }
+          },
+          "1574335217272": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brands-12.png",
+              "link": "",
+              "title": ""
+            }
+          }
+        },
+        "block_order": [
+          "1574335043390",
+          "1574335074927",
+          "1574335090727",
+          "1574335104032",
+          "1574335120461",
+          "1574335133992",
+          "1574335146496",
+          "1574335159584",
+          "1574335189343",
+          "1574335217272"
+        ],
+        "settings": {
+          "background-color": true,
+          "border-top": false,
+          "border-bottom": false,
+          "padding-top": 5,
+          "padding-bottom": 6,
+          "title": "Featured Brands",
+          "text_link": "",
+          "custom_link": "",
+          "description": "",
+          "title_layout": "left",
+          "column": 5,
+          "border_image": false,
+          "custom_color": false,
+          "color_heading_section": "",
+          "color_link_section": "",
+          "color_des_section": ""
+        }
+      },
+      "list-collections-header": {
+        "type": "list-collections-header",
+        "settings": {
+          "show_collection_image": true,
+          "image": "shopify:\/\/shop_images\/collection-header.jpg",
+          "description": "Category Description: Lorem ipsum dolor sit amet consectetur adipiscing elit. Nam convallis imperdiet leo faucibus pulvinar justo tempus. Nulla in quam sit amet eratos pretium egestas de vitae tellus. Aenean pulvinar faucibus neque sit amet cosmopolis. Nunc tristique lorem bibendum tincidunt fermentum metus de vehicula velit ornare fermentum."
+        }
+      },
+      "lookbook-content": {
+        "type": "lookbook-content",
+        "blocks": {
+          "1574411259674": {
+            "type": "lookbook_item",
+            "settings": {
+              "lookbook_tab": "lookbook 01",
+              "lookbook_image": "shopify:\/\/shop_images\/lookbook-1.jpg",
+              "lookbook_image_text": "image caption 01",
+              "product_1": "aenean-commodo-lipsum-quis-blandit-exims-placerat",
+              "coordinates_x_1": 55,
+              "coordinates_y_1": 60,
+              "product_2": "dapibus-phoncus-justo-ustectin-consectetur-massang",
+              "coordinates_x_2": 35,
+              "coordinates_y_2": 45,
+              "product_3": "",
+              "coordinates_x_3": 30,
+              "coordinates_y_3": 30
+            }
+          },
+          "1574411389145": {
+            "type": "lookbook_item",
+            "settings": {
+              "lookbook_tab": "lookbook 02",
+              "lookbook_image": "shopify:\/\/shop_images\/lookbook-2.jpg",
+              "lookbook_image_text": "image caption 02",
+              "product_1": "etiam-bibendum-nisl-id-urna-elementum-varius-turpis",
+              "coordinates_x_1": 40,
+              "coordinates_y_1": 55,
+              "product_2": "",
+              "coordinates_x_2": 20,
+              "coordinates_y_2": 20,
+              "product_3": "",
+              "coordinates_x_3": 30,
+              "coordinates_y_3": 30
+            }
+          },
+          "1574411454911": {
+            "type": "lookbook_item",
+            "settings": {
+              "lookbook_tab": "lookbook 03",
+              "lookbook_image": "shopify:\/\/shop_images\/lookbook-3.jpg",
+              "lookbook_image_text": "image caption 03",
+              "product_1": "",
+              "coordinates_x_1": 10,
+              "coordinates_y_1": 10,
+              "product_2": "",
+              "coordinates_x_2": 20,
+              "coordinates_y_2": 20,
+              "product_3": "",
+              "coordinates_x_3": 30,
+              "coordinates_y_3": 30
+            }
+          },
+          "1574411480307": {
+            "type": "lookbook_item",
+            "settings": {
+              "lookbook_tab": "lookbook 04",
+              "lookbook_image": "shopify:\/\/shop_images\/lookbook-4.jpg",
+              "lookbook_image_text": "image caption 04",
+              "product_1": "",
+              "coordinates_x_1": 10,
+              "coordinates_y_1": 10,
+              "product_2": "",
+              "coordinates_x_2": 20,
+              "coordinates_y_2": 20,
+              "product_3": "",
+              "coordinates_x_3": 30,
+              "coordinates_y_3": 30
+            }
+          },
+          "1574411492669": {
+            "type": "lookbook_item",
+            "settings": {
+              "lookbook_tab": "lookbook 05",
+              "lookbook_image": "shopify:\/\/shop_images\/lookbook-5.jpg",
+              "lookbook_image_text": "image caption 05",
+              "product_1": "",
+              "coordinates_x_1": 10,
+              "coordinates_y_1": 10,
+              "product_2": "",
+              "coordinates_x_2": 20,
+              "coordinates_y_2": 20,
+              "product_3": "",
+              "coordinates_x_3": 30,
+              "coordinates_y_3": 30
+            }
+          },
+          "1574411508199": {
+            "type": "lookbook_item",
+            "settings": {
+              "lookbook_tab": "lookbook 06",
+              "lookbook_image": "shopify:\/\/shop_images\/lookbook-6.jpg",
+              "lookbook_image_text": "image caption 06",
+              "product_1": "",
+              "coordinates_x_1": 10,
+              "coordinates_y_1": 10,
+              "product_2": "",
+              "coordinates_x_2": 20,
+              "coordinates_y_2": 20,
+              "product_3": "",
+              "coordinates_x_3": 30,
+              "coordinates_y_3": 30
+            }
+          }
+        },
+        "block_order": [
+          "1574411259674",
+          "1574411389145",
+          "1574411454911",
+          "1574411480307",
+          "1574411492669",
+          "1574411508199"
+        ],
+        "settings": {
+          "fontsize_tab": "medium",
+          "title_layout": "center",
+          "display_share": true,
+          "display_btn": true,
+          "btn_text": "Shop LookBook",
+          "btn_link": "shopify:\/\/collections"
+        }
+      },
+      "section-product-1": {
+        "type": "section-product-1",
+        "settings": {
+          "background-color": false,
+          "border-top": true,
+          "border-bottom": false,
+          "padding-top": 5,
+          "padding-bottom": 5,
+          "icon": "",
+          "title": "You May Also Like",
+          "text_link": "",
+          "custom_link": "",
+          "title_layout": "left",
+          "title_border": true,
+          "collection": "wheels-tires",
+          "collection_layout": "carousel",
+          "grid": 5,
+          "rows": 6,
+          "carousel-arrows": true,
+          "carousel-dots": true,
+          "custom-color": false,
+          "color_heading_custom": "",
+          "color_link_section": "",
+          "color_border_section": ""
+        }
+      },
+      "section-product-lookbook": {
+        "type": "section-product-lookbook",
+        "settings": {
+          "background-color": false,
+          "border-top": true,
+          "border-bottom": false,
+          "padding-top": 5,
+          "padding-bottom": 5,
+          "icon": "",
+          "title": "You May Also Like",
+          "text_link": "",
+          "custom_link": "",
+          "title_layout": "left",
+          "title_border": false,
+          "custom-color": false,
+          "color_heading_custom": "",
+          "collection": "wheels-tires",
+          "collection_layout": "carousel",
+          "grid": 5,
+          "rows": 6,
+          "carousel-arrows": true,
+          "carousel-dots": true
+        }
+      },
+      "contact-template": {
+        "type": "contact-template",
+        "blocks": {
+          "1574413136041": {
+            "type": "contact_infomation",
+            "settings": {
+              "title": "CHAT WITH US:",
+              "description": "<p>If you have an issue or question that requires immediate assistance, you can click below to chat live with a Customer Service Dept. representative. If we aren&rsquo;t availale, just drop us an email to the left and we&rsquo;ll response within 24~48 hours.<\/p>\n<p><a href=\"#\" title=\"#\">Message us<\/a><\/p>"
+            }
+          },
+          "1574413169355": {
+            "type": "contact_infomation",
+            "settings": {
+              "title": "Get In Touch:",
+              "description": "<p>Call Toll-Free<\/p>\n<p>+1.800.000.8809<\/p>\n<p>Monday to Saturday: 9am - 10pm<\/p>\n<p>Sundays: 10am - 6pm<\/p>\n<p>Or you can reach us via email at&nbsp;<a href=\"mailto:support@halothemes.com\" title=\"mailto:support@halothemes.com\">support@halothemes.com<\/a>&nbsp;and expect a response within 24-48 hours.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "1574413136041",
+          "1574413169355"
+        ],
+        "settings": {
+          "display_google_map": true,
+          "google_map_code": "<iframe src=\"https:\/\/maps.google.com\/maps?f=q&source=s_q&hl=vi&geocode=&q=4+Nguy%E1%BB%85n+%C4%90%C3%ACnh+chi%E1%BB%83u,+%C4%90a+Kao,+Qu%E1%BA%ADn+1&aq=&sll=37.0625,-95.677068&sspn=41.903538,86.572266&ie=UTF8&hq=&hnear=4+Nguy%E1%BB%85n+%C4%90%C3%ACnh+Chi%E1%BB%83u,+%C4%90a+Kao,+Qu%E1%BA%ADn+1,+H%E1%BB%93+Ch%C3%AD+Minh,+Vi%E1%BB%87t+Nam&t=m&ll=10.797518,106.700377&spn=0.014754,0.071197&z=15&iwloc=A&output=embed\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"100%\" height=\"350\"><\/iframe>"
+        }
+      },
+      "portfolio-content": {
+        "type": "portfolio-content",
+        "blocks": {
+          "1574414537883": {
+            "type": "portfolio_item",
+            "settings": {
+              "portfolio_tab": "All",
+              "portfolio_image_1": "shopify:\/\/shop_images\/image-1.jpg",
+              "portfolio_title_1": "Portfolio",
+              "portfolio_des_1": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_2": "shopify:\/\/shop_images\/image-2.jpg",
+              "portfolio_title_2": "Portfolio",
+              "portfolio_des_2": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_3": "shopify:\/\/shop_images\/image-3.jpg",
+              "portfolio_title_3": "Portfolio",
+              "portfolio_des_3": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_4": "shopify:\/\/shop_images\/image-4.jpg",
+              "portfolio_title_4": "Portfolio",
+              "portfolio_des_4": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_5": "shopify:\/\/shop_images\/image-5.jpg",
+              "portfolio_title_5": "Portfolio",
+              "portfolio_des_5": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_6": "shopify:\/\/shop_images\/image-6.jpg",
+              "portfolio_title_6": "Portfolio",
+              "portfolio_des_6": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_7": "shopify:\/\/shop_images\/image-7.jpg",
+              "portfolio_title_7": "Portfolio",
+              "portfolio_des_7": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_8": "shopify:\/\/shop_images\/image-8.jpg",
+              "portfolio_title_8": "Portfolio",
+              "portfolio_des_8": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_9": "shopify:\/\/shop_images\/image-9.jpg",
+              "portfolio_title_9": "Portfolio",
+              "portfolio_des_9": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_10": "shopify:\/\/shop_images\/image-10.jpg",
+              "portfolio_title_10": "Portfolio",
+              "portfolio_des_10": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_11": "shopify:\/\/shop_images\/image-11.jpg",
+              "portfolio_title_11": "Portfolio",
+              "portfolio_des_11": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_12": "shopify:\/\/shop_images\/image-12.jpg",
+              "portfolio_title_12": "Portfolio",
+              "portfolio_des_12": "Use overlay text to give your customers insight into your brand"
+            }
+          },
+          "1574414760750": {
+            "type": "portfolio_item",
+            "settings": {
+              "portfolio_tab": "Dincidunteros",
+              "portfolio_image_1": "shopify:\/\/shop_images\/image-5.jpg",
+              "portfolio_title_1": "Portfolio",
+              "portfolio_des_1": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_2": "shopify:\/\/shop_images\/image-6.jpg",
+              "portfolio_title_2": "Portfolio",
+              "portfolio_des_2": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_3": "shopify:\/\/shop_images\/image-11.jpg",
+              "portfolio_title_3": "Portfolio",
+              "portfolio_des_3": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_4": "shopify:\/\/shop_images\/image-12.jpg",
+              "portfolio_title_4": "Portfolio",
+              "portfolio_des_4": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_5": "shopify:\/\/shop_images\/image-7.jpg",
+              "portfolio_title_5": "Portfolio",
+              "portfolio_des_5": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_6": "shopify:\/\/shop_images\/image-9.jpg",
+              "portfolio_title_6": "Portfolio",
+              "portfolio_des_6": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_7": "",
+              "portfolio_title_7": "Portfolio",
+              "portfolio_des_7": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_8": "",
+              "portfolio_title_8": "Portfolio",
+              "portfolio_des_8": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_9": "",
+              "portfolio_title_9": "Portfolio",
+              "portfolio_des_9": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_10": "",
+              "portfolio_title_10": "Portfolio",
+              "portfolio_des_10": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_11": "",
+              "portfolio_title_11": "Portfolio",
+              "portfolio_des_11": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_12": "",
+              "portfolio_title_12": "Portfolio",
+              "portfolio_des_12": "Use overlay text to give your customers insight into your brand"
+            }
+          },
+          "1574414806281": {
+            "type": "portfolio_item",
+            "settings": {
+              "portfolio_tab": "Nectellus",
+              "portfolio_image_1": "shopify:\/\/shop_images\/image-8.jpg",
+              "portfolio_title_1": "Portfolio",
+              "portfolio_des_1": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_2": "shopify:\/\/shop_images\/image-3.jpg",
+              "portfolio_title_2": "Portfolio",
+              "portfolio_des_2": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_3": "shopify:\/\/shop_images\/image-4.jpg",
+              "portfolio_title_3": "Portfolio",
+              "portfolio_des_3": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_4": "shopify:\/\/shop_images\/image-11.jpg",
+              "portfolio_title_4": "Portfolio",
+              "portfolio_des_4": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_5": "shopify:\/\/shop_images\/image-6.jpg",
+              "portfolio_title_5": "Portfolio",
+              "portfolio_des_5": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_6": "shopify:\/\/shop_images\/image-3.jpg",
+              "portfolio_title_6": "Portfolio",
+              "portfolio_des_6": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_7": "",
+              "portfolio_title_7": "Portfolio",
+              "portfolio_des_7": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_8": "",
+              "portfolio_title_8": "Portfolio",
+              "portfolio_des_8": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_9": "",
+              "portfolio_title_9": "Portfolio",
+              "portfolio_des_9": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_10": "",
+              "portfolio_title_10": "Portfolio",
+              "portfolio_des_10": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_11": "",
+              "portfolio_title_11": "Portfolio",
+              "portfolio_des_11": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_12": "",
+              "portfolio_title_12": "Portfolio",
+              "portfolio_des_12": "Use overlay text to give your customers insight into your brand"
+            }
+          },
+          "1574414847617": {
+            "type": "portfolio_item",
+            "settings": {
+              "portfolio_tab": "Solutmades",
+              "portfolio_image_1": "shopify:\/\/shop_images\/image-9.jpg",
+              "portfolio_title_1": "Portfolio",
+              "portfolio_des_1": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_2": "shopify:\/\/shop_images\/image-12.jpg",
+              "portfolio_title_2": "Portfolio",
+              "portfolio_des_2": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_3": "shopify:\/\/shop_images\/image-1.jpg",
+              "portfolio_title_3": "Portfolio",
+              "portfolio_des_3": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_4": "shopify:\/\/shop_images\/image-3.jpg",
+              "portfolio_title_4": "Portfolio",
+              "portfolio_des_4": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_5": "shopify:\/\/shop_images\/image-1.jpg",
+              "portfolio_title_5": "Portfolio",
+              "portfolio_des_5": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_6": "shopify:\/\/shop_images\/image-4.jpg",
+              "portfolio_title_6": "Portfolio",
+              "portfolio_des_6": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_7": "shopify:\/\/shop_images\/image-5.jpg",
+              "portfolio_title_7": "Portfolio",
+              "portfolio_des_7": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_8": "",
+              "portfolio_title_8": "Portfolio",
+              "portfolio_des_8": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_9": "",
+              "portfolio_title_9": "Portfolio",
+              "portfolio_des_9": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_10": "",
+              "portfolio_title_10": "Portfolio",
+              "portfolio_des_10": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_11": "",
+              "portfolio_title_11": "Portfolio",
+              "portfolio_des_11": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_12": "",
+              "portfolio_title_12": "Portfolio",
+              "portfolio_des_12": "Use overlay text to give your customers insight into your brand"
+            }
+          },
+          "1574414879339": {
+            "type": "portfolio_item",
+            "settings": {
+              "portfolio_tab": "Loremous Comodous",
+              "portfolio_image_1": "shopify:\/\/shop_images\/image-10.jpg",
+              "portfolio_title_1": "Portfolio",
+              "portfolio_des_1": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_2": "shopify:\/\/shop_images\/image-8.jpg",
+              "portfolio_title_2": "Portfolio",
+              "portfolio_des_2": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_3": "shopify:\/\/shop_images\/image-7.jpg",
+              "portfolio_title_3": "Portfolio",
+              "portfolio_des_3": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_4": "shopify:\/\/shop_images\/image-6.jpg",
+              "portfolio_title_4": "Portfolio",
+              "portfolio_des_4": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_5": "shopify:\/\/shop_images\/image-5.jpg",
+              "portfolio_title_5": "Portfolio",
+              "portfolio_des_5": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_6": "",
+              "portfolio_title_6": "Portfolio",
+              "portfolio_des_6": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_7": "",
+              "portfolio_title_7": "Portfolio",
+              "portfolio_des_7": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_8": "",
+              "portfolio_title_8": "Portfolio",
+              "portfolio_des_8": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_9": "",
+              "portfolio_title_9": "Portfolio",
+              "portfolio_des_9": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_10": "",
+              "portfolio_title_10": "Portfolio",
+              "portfolio_des_10": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_11": "",
+              "portfolio_title_11": "Portfolio",
+              "portfolio_des_11": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_12": "",
+              "portfolio_title_12": "Portfolio",
+              "portfolio_des_12": "Use overlay text to give your customers insight into your brand"
+            }
+          },
+          "1574414909600": {
+            "type": "portfolio_item",
+            "settings": {
+              "portfolio_tab": "Namdos Hempus",
+              "portfolio_image_1": "shopify:\/\/shop_images\/image-8.jpg",
+              "portfolio_title_1": "Portfolio",
+              "portfolio_des_1": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_2": "shopify:\/\/shop_images\/image-11.jpg",
+              "portfolio_title_2": "Portfolio",
+              "portfolio_des_2": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_3": "shopify:\/\/shop_images\/image-1.jpg",
+              "portfolio_title_3": "Portfolio",
+              "portfolio_des_3": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_4": "shopify:\/\/shop_images\/image-10.jpg",
+              "portfolio_title_4": "Portfolio",
+              "portfolio_des_4": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_5": "shopify:\/\/shop_images\/image-9.jpg",
+              "portfolio_title_5": "Portfolio",
+              "portfolio_des_5": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_6": "",
+              "portfolio_title_6": "Portfolio",
+              "portfolio_des_6": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_7": "",
+              "portfolio_title_7": "Portfolio",
+              "portfolio_des_7": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_8": "",
+              "portfolio_title_8": "Portfolio",
+              "portfolio_des_8": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_9": "",
+              "portfolio_title_9": "Portfolio",
+              "portfolio_des_9": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_10": "",
+              "portfolio_title_10": "Portfolio",
+              "portfolio_des_10": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_11": "",
+              "portfolio_title_11": "Portfolio",
+              "portfolio_des_11": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_12": "",
+              "portfolio_title_12": "Portfolio",
+              "portfolio_des_12": "Use overlay text to give your customers insight into your brand"
+            }
+          },
+          "1574414949682": {
+            "type": "portfolio_item",
+            "settings": {
+              "portfolio_tab": "Durpis Metus",
+              "portfolio_image_1": "shopify:\/\/shop_images\/image-1.jpg",
+              "portfolio_title_1": "Portfolio",
+              "portfolio_des_1": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_2": "shopify:\/\/shop_images\/image-12.jpg",
+              "portfolio_title_2": "Portfolio",
+              "portfolio_des_2": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_3": "shopify:\/\/shop_images\/image-8.jpg",
+              "portfolio_title_3": "Portfolio",
+              "portfolio_des_3": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_4": "shopify:\/\/shop_images\/image-9.jpg",
+              "portfolio_title_4": "Portfolio",
+              "portfolio_des_4": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_5": "shopify:\/\/shop_images\/image-5.jpg",
+              "portfolio_title_5": "Portfolio",
+              "portfolio_des_5": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_6": "shopify:\/\/shop_images\/image-7.jpg",
+              "portfolio_title_6": "Portfolio",
+              "portfolio_des_6": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_7": "",
+              "portfolio_title_7": "Portfolio",
+              "portfolio_des_7": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_8": "",
+              "portfolio_title_8": "Portfolio",
+              "portfolio_des_8": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_9": "",
+              "portfolio_title_9": "Portfolio",
+              "portfolio_des_9": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_10": "",
+              "portfolio_title_10": "Portfolio",
+              "portfolio_des_10": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_11": "",
+              "portfolio_title_11": "Portfolio",
+              "portfolio_des_11": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_12": "",
+              "portfolio_title_12": "Portfolio",
+              "portfolio_des_12": "Use overlay text to give your customers insight into your brand"
+            }
+          },
+          "1574414993390": {
+            "type": "portfolio_item",
+            "settings": {
+              "portfolio_tab": "Pellentes Habitanto",
+              "portfolio_image_1": "shopify:\/\/shop_images\/image-6.jpg",
+              "portfolio_title_1": "Portfolio",
+              "portfolio_des_1": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_2": "shopify:\/\/shop_images\/image-10.jpg",
+              "portfolio_title_2": "Portfolio",
+              "portfolio_des_2": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_3": "shopify:\/\/shop_images\/image-4.jpg",
+              "portfolio_title_3": "Portfolio",
+              "portfolio_des_3": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_4": "shopify:\/\/shop_images\/image-5.jpg",
+              "portfolio_title_4": "Portfolio",
+              "portfolio_des_4": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_5": "shopify:\/\/shop_images\/image-3.jpg",
+              "portfolio_title_5": "Portfolio",
+              "portfolio_des_5": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_6": "",
+              "portfolio_title_6": "Portfolio",
+              "portfolio_des_6": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_7": "",
+              "portfolio_title_7": "Portfolio",
+              "portfolio_des_7": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_8": "",
+              "portfolio_title_8": "Portfolio",
+              "portfolio_des_8": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_9": "",
+              "portfolio_title_9": "Portfolio",
+              "portfolio_des_9": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_10": "",
+              "portfolio_title_10": "Portfolio",
+              "portfolio_des_10": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_11": "",
+              "portfolio_title_11": "Portfolio",
+              "portfolio_des_11": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_12": "",
+              "portfolio_title_12": "Portfolio",
+              "portfolio_des_12": "Use overlay text to give your customers insight into your brand"
+            }
+          }
+        },
+        "block_order": [
+          "1574414537883",
+          "1574414760750",
+          "1574414806281",
+          "1574414847617",
+          "1574414879339",
+          "1574414909600",
+          "1574414949682",
+          "1574414993390"
+        ],
+        "settings": {
+          "fontsize_tab": "medium",
+          "title_layout": "vertical"
+        }
+      },
+      "product-reviews": {
+        "type": "product-reviews",
+        "settings": {
+          "show_product_reviews": true,
+          "background-color": false,
+          "border-top": true,
+          "border-bottom": false,
+          "padding-top": 5,
+          "padding-bottom": 5,
+          "title": "Customer Reviews",
+          "title_border": false
+        }
+      },
+      "tab-horizontal": {
+        "type": "tab-horizontal",
+        "settings": {
+          "display_product_detail_description": true,
+          "product_description_title": "Description",
+          "display_product_reviews": true,
+          "product_review_title": "Customer Reviews"
+        }
+      },
+      "footer_2": {
+        "type": "footer_2",
+        "blocks": {
+          "1574997882640": {
+            "type": "block_icon",
+            "settings": {
+              "icon_1": "<svg x=\"0px\" y=\"0px\" viewbox=\"0 0 493.349 493.349\"> <g> \t<path d=\"M487.932,51.1c-3.613-3.612-7.905-5.424-12.847-5.424h-292.36c-4.948,0-9.233,1.812-12.847,5.424 \t\tc-3.615,3.617-5.424,7.902-5.424,12.85v54.818h-45.683c-5.14,0-10.71,1.237-16.705,3.711c-5.996,2.478-10.801,5.518-14.416,9.135 \t\tl-56.532,56.531c-2.473,2.474-4.612,5.327-6.424,8.565c-1.807,3.23-3.14,6.14-3.997,8.705c-0.855,2.572-1.477,6.089-1.854,10.566 \t\tc-0.378,4.475-0.62,7.758-0.715,9.853c-0.091,2.092-0.091,5.71,0,10.85c0.096,5.142,0.144,8.47,0.144,9.995v91.36 \t\tc-4.947,0-9.229,1.807-12.847,5.428C1.809,347.076,0,351.363,0,356.312c0,2.851,0.378,5.376,1.14,7.562 \t\tc0.763,2.19,2.046,3.949,3.858,5.284c1.807,1.335,3.378,2.426,4.709,3.285c1.335,0.855,3.571,1.424,6.711,1.711 \t\ts5.28,0.479,6.423,0.575c1.143,0.089,3.568,0.089,7.279,0c3.715-0.096,5.855-0.144,6.427-0.144h18.271 \t\tc0,20.17,7.139,37.397,21.411,51.674c14.277,14.274,31.501,21.413,51.678,21.413c20.175,0,37.401-7.139,51.675-21.413 \t\tc14.277-14.276,21.411-31.504,21.411-51.674H310.63c0,20.17,7.139,37.397,21.412,51.674c14.271,14.274,31.498,21.413,51.675,21.413 \t\tc20.181,0,37.397-7.139,51.675-21.413c14.277-14.276,21.412-31.504,21.412-51.674c0.568,0,2.711,0.048,6.42,0.144 \t\tc3.713,0.089,6.14,0.089,7.282,0c1.144-0.096,3.289-0.288,6.427-0.575c3.139-0.287,5.373-0.855,6.708-1.711s2.901-1.95,4.709-3.285 \t\tc1.81-1.335,3.097-3.094,3.856-5.284c0.77-2.187,1.143-4.712,1.143-7.562V63.953C493.353,59.004,491.546,54.724,487.932,51.1z \t\t M153.597,400.28c-7.229,7.23-15.797,10.854-25.694,10.854c-9.898,0-18.464-3.62-25.697-10.854 \t\tc-7.233-7.228-10.848-15.797-10.848-25.693c0-9.897,3.619-18.47,10.848-25.701c7.232-7.228,15.798-10.848,25.697-10.848 \t\tc9.897,0,18.464,3.617,25.694,10.848c7.236,7.231,10.853,15.804,10.853,25.701C164.45,384.483,160.833,393.052,153.597,400.28z \t\t M164.45,228.403H54.814v-8.562c0-2.475,0.855-4.569,2.568-6.283l55.674-55.672c1.712-1.714,3.809-2.568,6.283-2.568h45.111 \t\tV228.403z M409.41,400.28c-7.23,7.23-15.797,10.854-25.693,10.854c-9.9,0-18.47-3.62-25.7-10.854 \t\tc-7.231-7.228-10.849-15.797-10.849-25.693c0-9.897,3.617-18.47,10.849-25.701c7.23-7.228,15.8-10.848,25.7-10.848 \t\tc9.896,0,18.463,3.617,25.693,10.848c7.231,7.235,10.852,15.804,10.852,25.701C420.262,384.483,416.648,393.052,409.41,400.28z\"><\/path> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <\/svg>",
+              "title_1": "International Delivery",
+              "text_1": "Phasellus de minterdum loremous*",
+              "icon_2": "<svg x=\"0px\" y=\"0px\" viewbox=\"0 0 548.176 548.176\"> <g> \t<g> \t\t<path d=\"M534.754,68.238c-8.945-8.945-19.698-13.417-32.258-13.417H45.681c-12.562,0-23.313,4.471-32.264,13.417 \t\t\tC4.471,77.185,0,87.936,0,100.499v347.173c0,12.566,4.471,23.318,13.417,32.264c8.951,8.946,19.702,13.419,32.264,13.419h456.815 \t\t\tc12.56,0,23.312-4.473,32.258-13.419c8.945-8.945,13.422-19.697,13.422-32.264V100.499 \t\t\tC548.176,87.936,543.699,77.185,534.754,68.238z M511.627,447.679c0,2.478-0.903,4.613-2.711,6.427 \t\t\tc-1.807,1.8-3.949,2.703-6.42,2.703H45.681c-2.473,0-4.615-0.903-6.423-2.71c-1.807-1.813-2.712-3.949-2.712-6.427V274.088 \t\t\th475.082V447.679z M511.627,164.449H36.545v-63.954c0-2.474,0.902-4.611,2.712-6.423c1.809-1.803,3.951-2.708,6.423-2.708h456.815 \t\t\tc2.471,0,4.613,0.901,6.42,2.708c1.808,1.812,2.711,3.949,2.711,6.423V164.449L511.627,164.449z\"><\/path> \t\t<rect x=\"73.092\" y=\"383.719\" width=\"73.089\" height=\"36.548\"><\/rect> \t\t<rect x=\"182.728\" y=\"383.719\" width=\"109.634\" height=\"36.548\"><\/rect> \t<\/g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <\/svg>",
+              "title_2": "Secure Shopping",
+              "text_2": "Phasellus de minterdum loremous*",
+              "icon_3": "<svg x=\"0px\" y=\"0px\" viewbox=\"0 0 438.543 438.543\"> <g> \t<path d=\"M396.58,5.424C392.959,1.807,388.675,0,383.727,0H54.824c-4.952,0-9.235,1.807-12.852,5.424 \t\tc-3.615,3.615-5.424,7.898-5.424,12.847v219.268c0,16.371,3.186,32.596,9.563,48.681c6.374,16.084,14.274,30.361,23.697,42.828 \t\tc9.423,12.47,20.651,24.605,33.689,36.405c13.04,11.806,25.078,21.6,36.116,29.409c11.038,7.803,22.554,15.181,34.545,22.121 \t\tc11.991,6.943,20.511,11.663,25.553,14.134c5.043,2.478,9.088,4.38,12.132,5.708c2.286,1.143,4.758,1.718,7.426,1.718 \t\tc2.671,0,5.14-0.575,7.428-1.718c3.042-1.328,7.087-3.23,12.128-5.708c5.041-2.471,13.565-7.19,25.557-14.134 \t\tc11.984-6.94,23.504-14.318,34.54-22.121c11.043-7.81,23.079-17.604,36.121-29.409c13.031-11.8,24.263-23.936,33.685-36.405 \t\tc9.421-12.467,17.319-26.744,23.705-42.828c6.379-16.085,9.562-32.31,9.562-48.681V18.271 \t\tC401.994,13.319,400.187,9.04,396.58,5.424z M347.178,237.539c0,33.5-22.367,67.759-67.095,102.781 \t\tc-17.892,14.082-38.164,27.124-60.813,39.115V54.813h127.908V237.539z\"><\/path> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <\/svg>",
+              "title_3": "Shop With Confidence",
+              "text_3": "Phasellus de minterdum loremous*",
+              "icon_4": "<svg id=\"icon-support\" viewbox=\"0 0 437.6 437.6\">         <path d=\"M264.6,300.4h-92C97,300.4,35.4,362,35.4,437.6h366.8C401.8,362.4,340.2,300.4,264.6,300.4z\"><\/path>         <path d=\"M235,237.6c7.2,0,14,2.4,19.2,6.8h33.2c16.4-17.2,26.4-40,26.4-65.6c0-52.8-42.8-95.2-95.2-95.2s-95.2,42.4-95.2,95.2 c0,35.6,19.6,66.8,48.8,83.2c3.2-14,15.6-24.4,30-24.4H235z\"><\/path>         <path d=\"M77.8,186.8c1.2,10,6,19.2,12.8,26c5.2,5.2,12,9.2,19.6,11.6c-0.4-1.6-0.4-3.2-0.4-4.4v-77.6c0-1.6,0-3.2,0.4-4.8 c-7.6,2-14,6-19.6,11.6c-0.4,0.4-1.2,1.2-1.6,1.6v-3.2c0-7.6,0.8-15.2,2-22.4c1.2-7.6,3.2-14.8,6-21.6c2.4-7.2,5.6-14,9.6-20.4 c3.6-6.4,8-12.8,12.8-18.4c0.4-0.4,0.8-1.2,0.8-1.6c3.6,0.4,7.2-0.8,9.6-3.2c24.4-24.4,56.4-36.4,88-36.4c31.6,0,64,12,88,36.4 c2.8,2.8,6.4,3.6,9.6,3.2c0.4,0.4,0.4,1.2,0.8,1.6c4.8,5.6,9.2,12,12.8,18.4c3.6,6.4,6.8,13.2,9.6,20.4c2.4,7.2,4.4,14.4,6,22 c1.2,7.2,2,14.8,2,22.4v3.2c-0.4-0.8-1.2-1.2-1.6-1.6c-5.2-5.2-12-9.2-19.6-11.6c0.4,1.6,0.4,3.2,0.4,4.8V220 c0,1.6,0,3.2-0.4,4.4c2-0.4,4-1.2,6-2v25.2c0,2.8-0.4,5.6-0.8,7.6c-0.4,2-1.2,3.2-2,4.4c-0.8,0.8-2,1.6-3.2,2 c-1.6,0.4-3.2,0.8-5.2,0.8h-0.4h-73.6c-2.4-4-6.4-6.8-11.6-6.8h-32.8c-7.2,0-12.8,6-12.8,12.8c0.4,7.2,6,12.8,13.2,12.8H235 c4.8,0,9.2-2.8,11.6-6.8H321h2.8c2.8,0,5.2-0.8,7.6-1.6c3.2-1.2,5.6-2.8,8-5.2c2-2.4,3.6-5.2,4.8-8.8c0.8-3.2,1.6-7.2,1.6-11.6 v-32V214c0.4-0.4,0.8-0.8,1.2-1.2c6.8-6.8,11.6-16,12.8-26c0.4-0.4,0.8-0.4,0.8-0.8c1.2-1.2,2-3.2,2-4.8V148 c0-8.4-0.8-16.8-2-24.8c-2.4-8.4-4.4-16.4-7.2-24.4c-2.8-8-6.4-15.6-10.8-22.8c-4-7.2-8.8-14-14.4-20.4c-0.4-0.8-1.2-1.2-2-1.6 c0.8-3.6-0.4-8-3.2-10.8C294.2,14.4,256.6,0,218.6,0S143,14.4,113.8,43.2c-2.8,2.8-4,7.2-3.2,10.8c-0.8,0.4-1.2,0.8-2,1.6 C103,62,98.2,68.8,94.2,76s-7.6,14.8-10.8,22.8c-2.8,8-5.2,16-6.4,24.4c-1.6,8-2,16.4-2,24.8v33.2c0,2,0.8,3.6,2,4.8 C77.4,186.4,77.8,186.4,77.8,186.8z\"><\/path>     <\/svg>",
+              "title_4": "24\/7 Help Center",
+              "text_4": "Phasellus de minterdum loremous*"
+            }
+          },
+          "1575002602710": {
+            "type": "newsletter",
+            "settings": {
+              "title": "Join in Our Mailing List",
+              "description": "Receive our latest updates about our products and promotions."
+            }
+          },
+          "1575002672501": {
+            "type": "link_list",
+            "settings": {
+              "title": "Shop",
+              "menu": "footer-menu-3"
+            }
+          },
+          "1575002708911": {
+            "type": "link_list",
+            "settings": {
+              "title": "Further Info.",
+              "menu": "footer"
+            }
+          },
+          "1575002727497": {
+            "type": "link_list",
+            "settings": {
+              "title": "Customer Service",
+              "menu": "footer-menu-2"
+            }
+          },
+          "1575002762259": {
+            "type": "link_list",
+            "settings": {
+              "title": "Brands",
+              "menu": "footer-menu-4"
+            }
+          },
+          "1575002785292": {
+            "type": "info_store",
+            "settings": {
+              "title": "Contact",
+              "info_icon_1": "<i class=\"fas fa-map-marker-alt\" aria-hidden=\"true\"><\/i>",
+              "info_text_1": "9087S Divamus Faucibus Str., City name, CA 90896, United States.",
+              "info_icon_2": "<i class=\"fas fa-phone\" aria-hidden=\"true\"><\/i>",
+              "info_text_2": "Toll-free: +1.800.000.8809",
+              "info_text_2_2": "International: +1.900.880.8809",
+              "ask_an_expert_title": "Ask an expert",
+              "info_icon_3": "<i class=\"fas fa-at\" aria-hidden=\"true\"><\/i>",
+              "info_text_3": "Email: sales@halothemes.com"
+            }
+          },
+          "1575002879589": {
+            "type": "copyright",
+            "settings": {
+              "copyright_1": "© 2019 Caros Demo. All Rights Reserved. Powered by Shopify.",
+              "copyright_2": "Shopify Themes & Templates by HaloThemes.com"
+            }
+          },
+          "1575002884442": {
+            "type": "payment_methods",
+            "settings": {
+              "payment_image_1": "shopify:\/\/shop_images\/payment-1.png",
+              "payment_image_2": "shopify:\/\/shop_images\/payment-2.png",
+              "payment_image_3": "shopify:\/\/shop_images\/payment-3.png",
+              "payment_image_4": "shopify:\/\/shop_images\/payment-4.png",
+              "payment_image_5": "shopify:\/\/shop_images\/payment-5.png",
+              "payment_image_6": "shopify:\/\/shop_images\/payment-6.png",
+              "payment_image_7": "shopify:\/\/shop_images\/payment-7.png",
+              "payment_image_8": "",
+              "payment_image_9": "",
+              "payment_image_10": ""
+            }
+          },
+          "1575010858094": {
+            "type": "geotrust_ssl_image",
+            "settings": {
+              "geotrust_ssl_image_1": "shopify:\/\/shop_images\/security-9.png",
+              "geotrust_ssl_image_2": "shopify:\/\/shop_images\/security-7.png",
+              "geotrust_ssl_image_3": "shopify:\/\/shop_images\/security-5.png",
+              "geotrust_ssl_image_4": "shopify:\/\/shop_images\/security-8.png",
+              "geotrust_ssl_image_5": "shopify:\/\/shop_images\/security-2.png",
+              "geotrust_ssl_image_6": "shopify:\/\/shop_images\/security-3.png",
+              "geotrust_ssl_image_7": "shopify:\/\/shop_images\/security-4.png",
+              "geotrust_ssl_image_8": "",
+              "geotrust_ssl_image_9": "",
+              "geotrust_ssl_image_10": ""
+            }
+          }
+        },
+        "block_order": [
+          "1574997882640",
+          "1575002602710",
+          "1575002672501",
+          "1575002708911",
+          "1575002727497",
+          "1575002762259",
+          "1575002785292",
+          "1575002879589",
+          "1575002884442",
+          "1575010858094"
+        ],
+        "settings": {
+        }
+      },
+      "footer_3": {
+        "type": "footer_3",
+        "blocks": {
+          "1574764912632": {
+            "type": "block_icon",
+            "settings": {
+              "icon_1": "<svg x=\"0px\" y=\"0px\" viewbox=\"0 0 493.349 493.349\"> <g> \t<path d=\"M487.932,51.1c-3.613-3.612-7.905-5.424-12.847-5.424h-292.36c-4.948,0-9.233,1.812-12.847,5.424 \t\tc-3.615,3.617-5.424,7.902-5.424,12.85v54.818h-45.683c-5.14,0-10.71,1.237-16.705,3.711c-5.996,2.478-10.801,5.518-14.416,9.135 \t\tl-56.532,56.531c-2.473,2.474-4.612,5.327-6.424,8.565c-1.807,3.23-3.14,6.14-3.997,8.705c-0.855,2.572-1.477,6.089-1.854,10.566 \t\tc-0.378,4.475-0.62,7.758-0.715,9.853c-0.091,2.092-0.091,5.71,0,10.85c0.096,5.142,0.144,8.47,0.144,9.995v91.36 \t\tc-4.947,0-9.229,1.807-12.847,5.428C1.809,347.076,0,351.363,0,356.312c0,2.851,0.378,5.376,1.14,7.562 \t\tc0.763,2.19,2.046,3.949,3.858,5.284c1.807,1.335,3.378,2.426,4.709,3.285c1.335,0.855,3.571,1.424,6.711,1.711 \t\ts5.28,0.479,6.423,0.575c1.143,0.089,3.568,0.089,7.279,0c3.715-0.096,5.855-0.144,6.427-0.144h18.271 \t\tc0,20.17,7.139,37.397,21.411,51.674c14.277,14.274,31.501,21.413,51.678,21.413c20.175,0,37.401-7.139,51.675-21.413 \t\tc14.277-14.276,21.411-31.504,21.411-51.674H310.63c0,20.17,7.139,37.397,21.412,51.674c14.271,14.274,31.498,21.413,51.675,21.413 \t\tc20.181,0,37.397-7.139,51.675-21.413c14.277-14.276,21.412-31.504,21.412-51.674c0.568,0,2.711,0.048,6.42,0.144 \t\tc3.713,0.089,6.14,0.089,7.282,0c1.144-0.096,3.289-0.288,6.427-0.575c3.139-0.287,5.373-0.855,6.708-1.711s2.901-1.95,4.709-3.285 \t\tc1.81-1.335,3.097-3.094,3.856-5.284c0.77-2.187,1.143-4.712,1.143-7.562V63.953C493.353,59.004,491.546,54.724,487.932,51.1z \t\t M153.597,400.28c-7.229,7.23-15.797,10.854-25.694,10.854c-9.898,0-18.464-3.62-25.697-10.854 \t\tc-7.233-7.228-10.848-15.797-10.848-25.693c0-9.897,3.619-18.47,10.848-25.701c7.232-7.228,15.798-10.848,25.697-10.848 \t\tc9.897,0,18.464,3.617,25.694,10.848c7.236,7.231,10.853,15.804,10.853,25.701C164.45,384.483,160.833,393.052,153.597,400.28z \t\t M164.45,228.403H54.814v-8.562c0-2.475,0.855-4.569,2.568-6.283l55.674-55.672c1.712-1.714,3.809-2.568,6.283-2.568h45.111 \t\tV228.403z M409.41,400.28c-7.23,7.23-15.797,10.854-25.693,10.854c-9.9,0-18.47-3.62-25.7-10.854 \t\tc-7.231-7.228-10.849-15.797-10.849-25.693c0-9.897,3.617-18.47,10.849-25.701c7.23-7.228,15.8-10.848,25.7-10.848 \t\tc9.896,0,18.463,3.617,25.693,10.848c7.231,7.235,10.852,15.804,10.852,25.701C420.262,384.483,416.648,393.052,409.41,400.28z\"><\/path> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <\/svg>",
+              "title_1": "Worldwide Free Shipping",
+              "text_1": "More Information*",
+              "icon_2": "<svg version=\"1.1\" id=\"Capa_1\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" x=\"0px\" y=\"0px\" viewbox=\"0 0 487.222 487.222\" style=\"enable-background:new 0 0 487.222 487.222;\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" xml:space=\"preserve\"> <g> \t<path d=\"M486.554,186.811c-1.6-4.9-5.8-8.4-10.9-9.2l-152-21.6l-68.4-137.5c-2.3-4.6-7-7.5-12.1-7.5l0,0c-5.1,0-9.8,2.9-12.1,7.6 \t\tl-67.5,137.9l-152,22.6c-5.1,0.8-9.3,4.3-10.9,9.2s-0.2,10.3,3.5,13.8l110.3,106.9l-25.5,151.4c-0.9,5.1,1.2,10.2,5.4,13.2 \t\tc2.3,1.7,5.1,2.6,7.9,2.6c2.2,0,4.3-0.5,6.3-1.6l135.7-71.9l136.1,71.1c2,1,4.1,1.5,6.2,1.5l0,0c7.4,0,13.5-6.1,13.5-13.5 \t\tc0-1.1-0.1-2.1-0.4-3.1l-26.3-150.5l109.6-107.5C486.854,197.111,488.154,191.711,486.554,186.811z M349.554,293.911 \t\tc-3.2,3.1-4.6,7.6-3.8,12l22.9,131.3l-118.2-61.7c-3.9-2.1-8.6-2-12.6,0l-117.8,62.4l22.1-131.5c0.7-4.4-0.7-8.8-3.9-11.9 \t\tl-95.6-92.8l131.9-19.6c4.4-0.7,8.2-3.4,10.1-7.4l58.6-119.7l59.4,119.4c2,4,5.8,6.7,10.2,7.4l132,18.8L349.554,293.911z\"><\/path> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <\/svg>",
+              "title_2": "Lowest Price Guarantee",
+              "text_2": "More Information*",
+              "icon_3": "<svg x=\"0px\" y=\"0px\" viewbox=\"0 0 438.543 438.543\"> <g> \t<path d=\"M396.58,5.424C392.959,1.807,388.675,0,383.727,0H54.824c-4.952,0-9.235,1.807-12.852,5.424 \t\tc-3.615,3.615-5.424,7.898-5.424,12.847v219.268c0,16.371,3.186,32.596,9.563,48.681c6.374,16.084,14.274,30.361,23.697,42.828 \t\tc9.423,12.47,20.651,24.605,33.689,36.405c13.04,11.806,25.078,21.6,36.116,29.409c11.038,7.803,22.554,15.181,34.545,22.121 \t\tc11.991,6.943,20.511,11.663,25.553,14.134c5.043,2.478,9.088,4.38,12.132,5.708c2.286,1.143,4.758,1.718,7.426,1.718 \t\tc2.671,0,5.14-0.575,7.428-1.718c3.042-1.328,7.087-3.23,12.128-5.708c5.041-2.471,13.565-7.19,25.557-14.134 \t\tc11.984-6.94,23.504-14.318,34.54-22.121c11.043-7.81,23.079-17.604,36.121-29.409c13.031-11.8,24.263-23.936,33.685-36.405 \t\tc9.421-12.467,17.319-26.744,23.705-42.828c6.379-16.085,9.562-32.31,9.562-48.681V18.271 \t\tC401.994,13.319,400.187,9.04,396.58,5.424z M347.178,237.539c0,33.5-22.367,67.759-67.095,102.781 \t\tc-17.892,14.082-38.164,27.124-60.813,39.115V54.813h127.908V237.539z\"><\/path> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <\/svg>",
+              "title_3": "Secure Checkout Guarantee",
+              "text_3": "More Information*",
+              "icon_4": "<svg version=\"1.1\" id=\"Layer_1\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" x=\"0px\" y=\"0px\" viewbox=\"0 0 512 512\" style=\"enable-background:new 0 0 512 512;\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" xml:space=\"preserve\"> <g> \t<g> \t\t<path d=\"M288.502,32.502c-108.328,0-198.827,77.485-219.166,179.899l-42.482-53.107L0,180.784l68.769,85.961 \t\t\tc3.352,4.178,8.338,6.447,13.427,6.447c2.596,0,5.226-0.585,7.685-1.805l103.153-51.577l-15.387-30.757l-75.8,37.892 \t\t\tc14.063-90.5,92.27-160.059,186.655-160.059c104.271,0,189.114,84.843,189.114,189.114s-84.843,189.114-189.114,189.114v34.384 \t\t\tC411.735,479.498,512,379.233,512,256S411.735,32.502,288.502,32.502z\"><\/path> \t<\/g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <\/svg>",
+              "title_4": "30-Day Free Returns",
+              "text_4": "More Information*"
+            }
+          },
+          "1574759784767": {
+            "type": "info_store",
+            "settings": {
+              "title": "SPARK Performance Company.",
+              "info_icon_1": "<i class=\"fas fa-map-marker-alt\" aria-hidden=\"true\"><\/i>",
+              "info_text_1": "9087S Divamus Faucibus Str., City name, CA 90896, United States.",
+              "info_icon_2": "<i class=\"fas fa-phone\" aria-hidden=\"true\"><\/i>",
+              "info_text_2": "Toll-free: +1.800.000.8809",
+              "info_text_2_2": "International: +1.900.880.8809",
+              "ask_an_expert_title": "Ask an expert",
+              "info_icon_3": "<i class=\"fas fa-at\" aria-hidden=\"true\"><\/i>",
+              "info_text_3": "Email: sales@halothemes.com"
+            }
+          },
+          "1574760221950": {
+            "type": "link_list",
+            "settings": {
+              "title": "Shop",
+              "menu": "footer-menu-3"
+            }
+          },
+          "1574760246940": {
+            "type": "link_list",
+            "settings": {
+              "title": "Customer Service",
+              "menu": "footer-menu-2"
+            }
+          },
+          "1574760264015": {
+            "type": "newsletter",
+            "settings": {
+              "title": "Join in Our Mailing List",
+              "description": "Get the latest updates on new products and upcoming sales",
+              "geotrust_ssl_image_1": "shopify:\/\/shop_images\/trust_img2.png",
+              "description_note": "<p><em>Please note: All manufacturer names, symbols, and descriptions, used in our images &amp; text are used solely for identification purposes only. It is neither inferred nor implied that any item sold by Spark Demo is a product authorized by or in any way connected with any vehicle manufacturers displayed on this page.<\/em><\/p>"
+            }
+          },
+          "1574762119294": {
+            "type": "copyright",
+            "settings": {
+              "copyright_1": "© 2019 Caros Demo. All Rights Reserved. Powered by Shopify.",
+              "copyright_2": "Shopify Themes & Templates by HaloThemes.com"
+            }
+          },
+          "1574762123941": {
+            "type": "payment_methods",
+            "settings": {
+              "payment_image_1": "shopify:\/\/shop_images\/payment-1.png",
+              "payment_image_2": "shopify:\/\/shop_images\/payment-2.png",
+              "payment_image_3": "shopify:\/\/shop_images\/payment-3.png",
+              "payment_image_4": "shopify:\/\/shop_images\/payment-4.png",
+              "payment_image_5": "shopify:\/\/shop_images\/payment-5.png",
+              "payment_image_6": "shopify:\/\/shop_images\/payment-6.png",
+              "payment_image_7": "shopify:\/\/shop_images\/payment-7.png"
+            }
+          },
+          "1574762814208": {
+            "type": "link_navigation",
+            "settings": {
+              "navigation_footer": "footer"
+            }
+          }
+        },
+        "block_order": [
+          "1574764912632",
+          "1574759784767",
+          "1574760221950",
+          "1574760246940",
+          "1574760264015",
+          "1574762119294",
+          "1574762123941",
+          "1574762814208"
+        ],
+        "settings": {
+        }
+      },
+      "header_3": {
+        "type": "header_3",
+        "blocks": {
+          "1574935991899": {
+            "type": "style_2",
+            "settings": {
+              "megamenu_items_2": "interior",
+              "banner_first_style_2": "shopify:\/\/shop_images\/megamenu-7.jpg",
+              "link_banner_first_style_2": "#",
+              "banner_second_style_2": "shopify:\/\/shop_images\/megamenu-8.jpg",
+              "link_banner_second_style_2": "#",
+              "banner_third_style_2": "shopify:\/\/shop_images\/megamenu-9.jpg",
+              "link_banner_third_style_2": "#",
+              "banner_four_style_2": "shopify:\/\/shop_images\/megamenu-10.jpg",
+              "link_banner_four_style_2": "#",
+              "banner_five_style_2": "shopify:\/\/shop_images\/megamenu-11.jpg",
+              "link_banner_five_style_2": "#"
+            }
+          },
+          "1574935963532": {
+            "type": "style_1",
+            "settings": {
+              "megamenu_items_1": "exterior",
+              "title_featured_product": "Featured Products",
+              "featured_product": "lobortis-maxim-tesque-lobortis-acuinon-efficitur-dapinica",
+              "featured_product_2": "dinterdum-pretium-an-dapboe-dan-mauris-condimentus",
+              "featured_product_3": "porttitor-fusce-chelas-erisque-volutpat-libero-hendrerit",
+              "banner_first_style_1": "shopify:\/\/shop_images\/megamenu-6.jpg",
+              "link_banner_first_style_1": ""
+            }
+          },
+          "1574936047359": {
+            "type": "style_3",
+            "settings": {
+              "megamenu_items_3": "performance",
+              "banner_image_style_3_1": "shopify:\/\/shop_images\/Shop-Now.jpg",
+              "link_banner_image_style_3_1": ""
+            }
+          }
+        },
+        "block_order": [
+          "1574935991899",
+          "1574935963532",
+          "1574936047359"
+        ],
+        "settings": {
+          "enable_header_effect": true,
+          "message": true,
+          "home_page_only": false,
+          "message_text": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0278\/4434\/5931\/files\/banner-promotion-2.png?115\" alt=\"\"> <b>BUY NOW, PAY LATER.<\/b> Starting at 0% APR <span class=\"btn\">learn more<\/span>",
+          "message_link": "https:\/\/spark-theme-automotive.myshopify.com\/",
+          "header_top": true,
+          "enable_multiple_language": true,
+          "language_position": "right",
+          "enable_multiple_currencies": true,
+          "currency_position": "right",
+          "enable_phone": false,
+          "phone_position": "left",
+          "phone_number": "",
+          "enable_email": false,
+          "email_position": "left",
+          "email": "",
+          "enable_login": true,
+          "login_position": "right",
+          "enable_short_description": false,
+          "short_description_position": "left",
+          "short_description": "Free shipping on all orders. No minimum purchases*",
+          "enable_url_1": true,
+          "url_position_1": "left",
+          "url_text_1": "<svg x=\"0px\" y=\"0px\" viewbox=\"0 0 191.667 191.667\" width=\"14px\" height=\"14px\"> \t<path d=\"M95.833,0C42.991,0,0,42.99,0,95.833s42.991,95.834,95.833,95.834s95.833-42.991,95.833-95.834S148.676,0,95.833,0z \t M150.862,79.646l-60.207,60.207c-2.56,2.56-5.963,3.969-9.583,3.969c-3.62,0-7.023-1.409-9.583-3.969l-30.685-30.685 \tc-2.56-2.56-3.97-5.963-3.97-9.583c0-3.621,1.41-7.024,3.97-9.584c2.559-2.56,5.962-3.97,9.583-3.97c3.62,0,7.024,1.41,9.583,3.971 \tl21.101,21.1l50.623-50.623c2.56-2.56,5.963-3.969,9.583-3.969c3.62,0,7.023,1.409,9.583,3.969 \tC156.146,65.765,156.146,74.362,150.862,79.646z\"><\/path><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g> <\/svg>  <strong>Guaranteed Fitment<\/strong>",
+          "url_1": "#",
+          "enable_url_2": true,
+          "url_position_2": "left",
+          "url_text_2": "<svg x=\"0px\" y=\"0px\" viewbox=\"0 0 191.667 191.667\" width=\"14px\" height=\"14px\"> \t<path d=\"M95.833,0C42.991,0,0,42.99,0,95.833s42.991,95.834,95.833,95.834s95.833-42.991,95.833-95.834S148.676,0,95.833,0z \t M150.862,79.646l-60.207,60.207c-2.56,2.56-5.963,3.969-9.583,3.969c-3.62,0-7.023-1.409-9.583-3.969l-30.685-30.685 \tc-2.56-2.56-3.97-5.963-3.97-9.583c0-3.621,1.41-7.024,3.97-9.584c2.559-2.56,5.962-3.97,9.583-3.97c3.62,0,7.024,1.41,9.583,3.971 \tl21.101,21.1l50.623-50.623c2.56-2.56,5.963-3.969,9.583-3.969c3.62,0,7.023,1.409,9.583,3.969 \tC156.146,65.765,156.146,74.362,150.862,79.646z\"><\/path><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g> <\/svg> <strong>Lowest Price Guarantee<\/strong>",
+          "url_2": "#",
+          "enable_url_3": true,
+          "url_position_3": "left",
+          "url_text_3": "<svg x=\"0px\" y=\"0px\" viewbox=\"0 0 191.667 191.667\" width=\"14px\" height=\"14px\"> \t<path d=\"M95.833,0C42.991,0,0,42.99,0,95.833s42.991,95.834,95.833,95.834s95.833-42.991,95.833-95.834S148.676,0,95.833,0z \t M150.862,79.646l-60.207,60.207c-2.56,2.56-5.963,3.969-9.583,3.969c-3.62,0-7.023-1.409-9.583-3.969l-30.685-30.685 \tc-2.56-2.56-3.97-5.963-3.97-9.583c0-3.621,1.41-7.024,3.97-9.584c2.559-2.56,5.962-3.97,9.583-3.97c3.62,0,7.024,1.41,9.583,3.971 \tl21.101,21.1l50.623-50.623c2.56-2.56,5.963-3.969,9.583-3.969c3.62,0,7.023,1.409,9.583,3.969 \tC156.146,65.765,156.146,74.362,150.862,79.646z\"><\/path><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g> <\/svg> <strong>Free International Delivery<\/strong>",
+          "url_3": "#",
+          "enable_url_4": true,
+          "url_position_4": "right",
+          "url_text_4": "Rewards Program",
+          "url_4": "#",
+          "enable_url_5": true,
+          "url_position_5": "right",
+          "url_text_5": "My Account",
+          "url_5": "#",
+          "header_middle": true,
+          "logo": "shopify:\/\/shop_images\/logo_25c96690-c6c9-4e10-8cc0-62568f7b8c86.png",
+          "logo_text": "",
+          "logo_max_width": 205,
+          "enable_header_phone": true,
+          "header_phone": "+1.800.000.8809",
+          "enable_header_openingTime": true,
+          "header_openingTime": "Monday - Friday, 9am-6pm PST",
+          "enable_header_search": true,
+          "enable_header_wishlist": true,
+          "enable_header_cart": true,
+          "main_menu_title": "Shop by Categories",
+          "main_menu_2": "main-menu",
+          "always_show": false,
+          "display_megamenu_2": true,
+          "main_menu": "main-menu-2",
+          "label_1": "sale",
+          "label_1_collection": "flash deals",
+          "label_2": "hot",
+          "label_2_collection": "theme faqs",
+          "label_3": "new",
+          "label_3_collection": "demo",
+          "social_show": true,
+          "social_text": "Special Offers",
+          "social_link": "https:\/\/facebook.com\/shopify"
+        }
+      },
+      "header_2": {
+        "type": "header_2",
+        "blocks": {
+          "1575362496117": {
+            "type": "style_2",
+            "settings": {
+              "megamenu_items_2": "interior",
+              "banner_first_style_2": "shopify:\/\/shop_images\/megamenu-7.jpg",
+              "link_banner_first_style_2": "",
+              "banner_second_style_2": "shopify:\/\/shop_images\/megamenu-8.jpg",
+              "link_banner_second_style_2": "",
+              "banner_third_style_2": "shopify:\/\/shop_images\/megamenu-9.jpg",
+              "link_banner_third_style_2": "",
+              "banner_four_style_2": "shopify:\/\/shop_images\/megamenu-10.jpg",
+              "link_banner_four_style_2": "",
+              "banner_five_style_2": "shopify:\/\/shop_images\/megamenu-11.jpg",
+              "link_banner_five_style_2": ""
+            }
+          },
+          "1575363526696": {
+            "type": "style_1",
+            "settings": {
+              "megamenu_items_1": "exterior",
+              "title_featured_product": "Featured Products",
+              "featured_product": "etiam-vehicula-arcu-metus-ante-convallis-surper-mattis",
+              "featured_product_2": "dinterdum-pretium-an-dapboe-dan-mauris-condimentus",
+              "featured_product_3": "porttitor-fusce-chelas-erisque-volutpat-libero-hendrerit",
+              "banner_first_style_1": "shopify:\/\/shop_images\/megamenu-6.jpg",
+              "link_banner_first_style_1": ""
+            }
+          },
+          "1575363590896": {
+            "type": "style_3",
+            "settings": {
+              "megamenu_items_3": "Performance",
+              "column_category": 5,
+              "banner_image_style_3_1": "shopify:\/\/shop_images\/advertisement-image-2.jpg",
+              "banner_image_style_3_2": "",
+              "banner_image_style_3_3": "",
+              "banner_image_style_3_4": "",
+              "banner_image_style_3_5": "",
+              "banner_image_style_3_6": ""
+            }
+          }
+        },
+        "block_order": [
+          "1575362496117",
+          "1575363526696",
+          "1575363590896"
+        ],
+        "settings": {
+          "message": false,
+          "home_page_only": false,
+          "message_text": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0278\/4434\/5931\/files\/banner-promotion-2.png?115\" alt=\"\"> <b>BUY NOW, PAY LATER.<\/b> Starting at 0% APR <span class=\"btn\">learn more<\/span>",
+          "message_link": "#",
+          "header_top": true,
+          "enable_multiple_language": true,
+          "language_position": "right",
+          "enable_multiple_currencies": true,
+          "currency_position": "right",
+          "enable_phone": true,
+          "phone_position": "left",
+          "phone_number": "Toll-free +1800 000 6890",
+          "enable_email": true,
+          "email_position": "left",
+          "email": "support@halothemes.com",
+          "enable_short_description": true,
+          "short_description_position": "center",
+          "short_description": "Free shipping on all orders. No minimum purchases*",
+          "enable_url_1": true,
+          "url_position_1": "right",
+          "url_text_1": "Rewards Program",
+          "url_1": "#",
+          "enable_url_2": true,
+          "url_position_2": "right",
+          "url_text_2": "Blog",
+          "url_2": "shopify:\/\/blogs\/news",
+          "enable_url_3": true,
+          "url_position_3": "right",
+          "url_text_3": "My Orders",
+          "url_3": "#",
+          "enable_url_4": true,
+          "url_position_4": "right",
+          "url_text_4": "Theme FAQs",
+          "url_4": "shopify:\/\/pages\/faq",
+          "enable_url_5": false,
+          "url_position_5": "right",
+          "url_text_5": "",
+          "url_5": "",
+          "header_middle": true,
+          "logo": "shopify:\/\/shop_images\/logo_25c96690-c6c9-4e10-8cc0-62568f7b8c86.png",
+          "logo_text": "",
+          "logo_max_width": 165,
+          "enable_header_phone": true,
+          "header_phone": "shopify:\/\/shop_images\/banner-promotion-2_afbd1e84-e85b-4138-a1bd-331c82054a2a.png",
+          "enable_header_openingTime": true,
+          "header_openingTime": "<p><em><strong>Buy Now, Pay Later. <\/strong><\/em><\/p>\n<p>Starting at 0% APR<\/p>",
+          "enable_header_search": true,
+          "enable_header_account": true,
+          "enable_header_wishlist": true,
+          "enable_header_cart": true,
+          "main_menu_title": "Shop by Categories",
+          "main_menu_2": "main-menu",
+          "always_show": true,
+          "display_megamenu_2": true,
+          "main_menu": "main-menu-2",
+          "label_1": "sale",
+          "label_1_collection": "flash deals",
+          "label_2": "Hot",
+          "label_2_collection": "theme faqs",
+          "label_3": "new",
+          "label_3_collection": "demo"
+        }
+      },
+      "1576322197548": {
+        "type": "collection-list-2",
+        "blocks": {
+          "1576322197548-0": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "headlights",
+              "image": "shopify:\/\/shop_images\/light-10.jpg"
+            }
+          },
+          "1576322197548-1": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "brakes",
+              "image": "shopify:\/\/shop_images\/performance-1c.jpg"
+            }
+          },
+          "1576322197548-2": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "exhaust-systems",
+              "image": "shopify:\/\/shop_images\/performance-3j.jpg"
+            }
+          },
+          "1576322379014": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "spoilers",
+              "image": "shopify:\/\/shop_images\/exterior-3b.jpg"
+            }
+          },
+          "1576322404567": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "custom-wheels",
+              "image": "shopify:\/\/shop_images\/wheel_arch-1c.jpg"
+            }
+          },
+          "1576322425852": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "performance",
+              "image": "shopify:\/\/shop_images\/performance-2e.jpg"
+            }
+          }
+        },
+        "block_order": [
+          "1576322197548-0",
+          "1576322197548-1",
+          "1576322197548-2",
+          "1576322379014",
+          "1576322404567",
+          "1576322425852"
+        ],
+        "settings": {
+          "background-color": true,
+          "border-top": false,
+          "border-bottom": false,
+          "padding-top": 9,
+          "padding-bottom": 5,
+          "title": "Popular Categories",
+          "text_link": "",
+          "custom_link": "",
+          "title_border": false,
+          "description": "",
+          "title_layout": "left",
+          "collection_layout": "grid",
+          "column": 3,
+          "carousel-arrows": false,
+          "carousel-dots": false
+        }
+      },
+      "1576322451059": {
+        "type": "brand-grid",
+        "blocks": {
+          "1576322451059-0": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brands-16_e8f088b9-12d3-4a97-9a3f-ead1326ce081.png",
+              "link": "https:\/\/spark-theme-automotive.myshopify.com\/",
+              "title": ""
+            }
+          },
+          "1576322451059-1": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brands-17.png",
+              "link": "https:\/\/spark-theme-automotive.myshopify.com\/",
+              "title": ""
+            }
+          },
+          "1576322451059-2": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brands-18_4a5e78cf-e2ce-49a9-b023-0ea8b8f658cb.png",
+              "link": "https:\/\/spark-theme-automotive.myshopify.com\/",
+              "title": ""
+            }
+          },
+          "1576322451059-3": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brands-19_9f0abc08-5814-481e-925e-2038f5e6393e.png",
+              "link": "https:\/\/spark-theme-automotive.myshopify.com\/",
+              "title": ""
+            }
+          },
+          "1576322451059-4": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brands-20_51686f43-a40d-48b8-96d0-4fb6d66dafaa.png",
+              "link": "https:\/\/spark-theme-automotive.myshopify.com\/",
+              "title": ""
+            }
+          },
+          "1576322451059-5": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brands-21_0f98c432-18ff-46ab-86f1-7d3d1c56f9bb.png",
+              "link": "https:\/\/spark-theme-automotive.myshopify.com\/",
+              "title": ""
+            }
+          },
+          "1576322451059-6": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brands-22_3fae15a5-098d-41c4-bf76-73d868854a31.png",
+              "link": "https:\/\/spark-theme-automotive.myshopify.com\/",
+              "title": ""
+            }
+          },
+          "1576322451059-7": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brands-23_ab08b596-f18f-4f07-8866-0e99675b26ba.png",
+              "link": "https:\/\/spark-theme-automotive.myshopify.com\/",
+              "title": ""
+            }
+          },
+          "1576322451059-8": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brands-24_309132e0-9c74-4962-aed7-215cf1b27e6a.png",
+              "link": "https:\/\/spark-theme-automotive.myshopify.com\/",
+              "title": ""
+            }
+          },
+          "1576322451059-9": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brands-25.png",
+              "link": "https:\/\/spark-theme-automotive.myshopify.com\/",
+              "title": ""
+            }
+          },
+          "1576322659442": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brands-26_c2b32abd-9a3e-47d9-80ff-0c95862508c2.png",
+              "link": "https:\/\/spark-theme-automotive.myshopify.com\/",
+              "title": ""
+            }
+          },
+          "1576322672549": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brands-27.png",
+              "link": "https:\/\/spark-theme-automotive.myshopify.com\/",
+              "title": ""
+            }
+          }
+        },
+        "block_order": [
+          "1576322451059-0",
+          "1576322451059-1",
+          "1576322451059-2",
+          "1576322451059-3",
+          "1576322451059-4",
+          "1576322451059-5",
+          "1576322451059-6",
+          "1576322451059-7",
+          "1576322451059-8",
+          "1576322451059-9",
+          "1576322659442",
+          "1576322672549"
+        ],
+        "settings": {
+          "background-color": true,
+          "border-top": false,
+          "border-bottom": false,
+          "padding-top": 0,
+          "padding-bottom": 5,
+          "title": "Popular Brands",
+          "text_link": "",
+          "custom_link": "",
+          "description": "",
+          "title_layout": "left",
+          "column": 6,
+          "border_image": false,
+          "custom_color": false,
+          "color_heading_section": "",
+          "color_link_section": "",
+          "color_des_section": ""
+        }
+      },
+      "1576322737744": {
+        "type": "section-product-1",
+        "settings": {
+          "background-color": true,
+          "border-top": false,
+          "border-bottom": false,
+          "padding-top": 0,
+          "padding-bottom": 5,
+          "icon": "",
+          "title": "Today's Deals",
+          "text_link": "view more",
+          "custom_link": "shopify:\/\/collections\/today-s-deals",
+          "title_layout": "special",
+          "title_border": false,
+          "collection": "today-s-deals",
+          "collection_layout": "carousel",
+          "grid": 5,
+          "rows": 6,
+          "carousel-arrows": true,
+          "carousel-dots": true,
+          "custom-color": false,
+          "color_heading_custom": "",
+          "color_link_section": "",
+          "color_border_section": ""
+        }
+      },
+      "1576322845738": {
+        "type": "banner-block-5",
+        "blocks": {
+          "1576322845738-0": {
+            "type": "banner_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/banner-17.jpg",
+              "link": "https:\/\/spark-theme-automotive.myshopify.com\/",
+              "title": "Powersports",
+              "description": "Dinterdum pretium, Mauris, Condimentus",
+              "button": "shop now"
+            }
+          },
+          "1576322845738-1": {
+            "type": "banner_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/banner-18.jpg",
+              "link": "https:\/\/spark-theme-automotive.myshopify.com\/",
+              "title": "Motocycle",
+              "description": "Dinterdum pretium, Mauris, Condimentus",
+              "button": "shop now"
+            }
+          },
+          "1576322845738-2": {
+            "type": "banner_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/banner-19.jpg",
+              "link": "https:\/\/spark-theme-automotive.myshopify.com\/",
+              "title": "Jeep Shop",
+              "description": "Dinterdum pretium, Mauris, Condimentus",
+              "button": "Shop now"
+            }
+          },
+          "1576322845738-3": {
+            "type": "banner_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/banner-20_a8ac145a-d312-4866-b746-a850b2ee787d.jpg",
+              "link": "https:\/\/spark-theme-automotive.myshopify.com\/",
+              "title": "Suv\/Truck",
+              "description": "Dinterdum pretium, Mauris, Condimentus",
+              "button": "Shop Now"
+            }
+          },
+          "1576322845738-4": {
+            "type": "banner_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Layer-675.jpg",
+              "link": "https:\/\/spark-theme-automotive.myshopify.com\/",
+              "title": "Recreation",
+              "description": "Dinterdum pretium, Mauris, Condimentus",
+              "button": "Shop now"
+            }
+          }
+        },
+        "block_order": [
+          "1576322845738-0",
+          "1576322845738-1",
+          "1576322845738-2",
+          "1576322845738-3",
+          "1576322845738-4"
+        ],
+        "settings": {
+          "background-color": true,
+          "border-top": false,
+          "border-bottom": false,
+          "padding-top": 0,
+          "padding-bottom": 5,
+          "title": "",
+          "text_link": "",
+          "custom_link": "",
+          "description": "",
+          "title_layout": "left",
+          "overlay": "dark",
+          "custom_color": false,
+          "color_heading_section": "",
+          "color_link_section": "",
+          "color_heading": "",
+          "color_heading_hover": "",
+          "color_text": ""
+        }
+      },
+      "1576323097851": {
+        "type": "section-product-1",
+        "settings": {
+          "background-color": true,
+          "border-top": false,
+          "border-bottom": false,
+          "padding-top": 0,
+          "padding-bottom": 5,
+          "icon": "",
+          "title": "New Products",
+          "text_link": "view more",
+          "custom_link": "shopify:\/\/collections\/wheels-tires",
+          "title_layout": "special",
+          "title_border": false,
+          "collection": "wheels-tires",
+          "collection_layout": "carousel",
+          "grid": 5,
+          "rows": 6,
+          "carousel-arrows": true,
+          "carousel-dots": true,
+          "custom-color": false,
+          "color_heading_custom": "",
+          "color_link_section": "",
+          "color_border_section": ""
+        }
+      },
+      "1576323158764": {
+        "type": "banner-block-3",
+        "blocks": {
+          "1576323158764-0": {
+            "type": "banner_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Layer-673.jpg",
+              "link": "https:\/\/spark-theme-automotive.myshopify.com\/",
+              "title": "Custom Wheels",
+              "description": "Dinterdum pretium, Mauris, Condimentus",
+              "button": "shop now"
+            }
+          },
+          "1576323158764-1": {
+            "type": "banner_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Layer-6731.jpg",
+              "link": "https:\/\/spark-theme-automotive.myshopify.com\/",
+              "title": "Body Kits",
+              "description": "Dinterdum pretium, Mauris, Condimentus",
+              "button": "shop now"
+            }
+          }
+        },
+        "block_order": [
+          "1576323158764-0",
+          "1576323158764-1"
+        ],
+        "settings": {
+          "background-color": true,
+          "border-top": false,
+          "border-bottom": false,
+          "padding-top": 0,
+          "padding-bottom": 5,
+          "title": "",
+          "text_link": "",
+          "custom_link": "",
+          "description": "",
+          "title_layout": "left",
+          "column": 2,
+          "overlay": "dark",
+          "custom_color": false,
+          "color_heading_section": "",
+          "color_link_section": "",
+          "color_heading": "",
+          "color_heading_hover": "",
+          "color_text": ""
+        }
+      },
+      "1576323329657": {
+        "type": "section-product-tab-1",
+        "blocks": {
+          "1576323329657-0": {
+            "type": "collectiontab",
+            "settings": {
+              "title_tab": "Featured Products",
+              "collection": "interior"
+            }
+          },
+          "1576323329657-1": {
+            "type": "collectiontab",
+            "settings": {
+              "title_tab": "Current Top Sellers",
+              "collection": "exterior"
+            }
+          }
+        },
+        "block_order": [
+          "1576323329657-0",
+          "1576323329657-1"
+        ],
+        "settings": {
+          "background-color": true,
+          "border-top": false,
+          "border-bottom": false,
+          "padding-top": 0,
+          "padding-bottom": 5,
+          "tab_layout": "tab-center",
+          "collection_layout": "carousel",
+          "column": 5,
+          "limit_product": 6,
+          "carousel-arrows": true,
+          "carousel-dots": true
+        }
+      },
+      "1576323411093": {
+        "type": "rich-text",
+        "settings": {
+          "background-color": false,
+          "border-top": false,
+          "border-bottom": false,
+          "padding-top": 3,
+          "padding-bottom": 3,
+          "full_width": false,
+          "text_align": "text-center",
+          "section_title": "Spark Performance",
+          "text": "<p>Donec placerat de dictum ornare cosmopolis. Phasellus danos interdum an dipsum de malesuada blandit delementum justo massa lorem mollis delous.<\/p>",
+          "title_size": "medium",
+          "text_size": "medium",
+          "showmore_html": false,
+          "custom_color": false,
+          "color_heading": "",
+          "color_text": ""
+        }
+      },
+      "1576323452094": {
+        "type": "hero-2",
+        "blocks": {
+          "1576323452094-0": {
+            "type": "banner_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/test-1.jpg",
+              "link": "https:\/\/spark-theme-automotive.myshopify.com\/",
+              "title": "#Cosmopolis",
+              "description": "Dinterdum pretium, Mauris, Condimentus"
+            }
+          },
+          "1576323452094-1": {
+            "type": "banner_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/test-2.jpg",
+              "link": "https:\/\/spark-theme-automotive.myshopify.com\/",
+              "title": "#Milancelos",
+              "description": "Dinterdum pretium, Mauris, Condimentus"
+            }
+          },
+          "1576323452094-2": {
+            "type": "banner_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/test-3.jpg",
+              "link": "https:\/\/spark-theme-automotive.myshopify.com\/",
+              "title": "#Metropolis",
+              "description": "Dinterdum pretium, Mauris, Condimentus"
+            }
+          }
+        },
+        "block_order": [
+          "1576323452094-0",
+          "1576323452094-1",
+          "1576323452094-2"
+        ],
+        "settings": {
+          "image": "shopify:\/\/shop_images\/Parallax-IMG.jpg",
+          "hero_layout": "full_width",
+          "hero_size": "medium",
+          "overlay": "dark",
+          "content-layout": "middle",
+          "text_size": "large",
+          "title": "Cosmo de Milancelos",
+          "text": "<p>Nullam aliquet vestibulum augue non varius. Cras nec congue elit duis tristique vel ante nec aliquam. Praesent urna tellus laoreet eu tellus ullamcorper lorem, fermentum facilisis erat. Suspendisse tellus erat, saliquam loremous a posuere tincidunt melit. Aliquam eget lacus nec metus lobortis gravida sedos...<\/p>",
+          "button_video": "Watch Video",
+          "button_video_link": "#",
+          "button_label": "View Products",
+          "button_link": "#",
+          "custom_block": true,
+          "title_2": "",
+          "text_link_2": "",
+          "custom_link_2": "",
+          "custom_color": false,
+          "color_heading": "",
+          "color_text": ""
+        }
+      },
+      "1576323910808": {
+        "type": "rich-text",
+        "settings": {
+          "background-color": false,
+          "border-top": false,
+          "border-bottom": false,
+          "padding-top": 5,
+          "padding-bottom": 6,
+          "full_width": true,
+          "text_align": "text-center",
+          "section_title": "",
+          "text": "<p>Nam tempus turpis at metus scelerisque placerat nulla deumantos sollicitudin felis. Pellentesque diam dolor, elementum et lobortis at, mollis ut risus. Sedcuman des faucibus sullamcorper mattis fusce molestie elit a lorem tempus scelerisque blandit est cursus. Quisque volutpat orci ut metus malesuada in interdumos lectus anmos scelerisque lorem. Praesent deu odio des nisios dullamcorper sultricies. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus.&nbsp;Nam tempus turpis at metus scelerisque placerat nulla deumantos sollicitudin felis. Pellentesque diam dolor, elementum et lobortis at, mollis ut risus. Sedcuman des faucibus sullamcorper mattis fusce molestie elit a lorem tempus scelerisque blandit est cursus. Quisque volutpat orci ut metus malesuada in interdumos lectus anmos scelerisque lorem. Praesent deu odio des nisios dullamcorper sultricies. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus.&nbsp;Nam tempus turpis at metus scelerisque placerat nulla deumantos sollicitudin felis. Pellentesque diam dolor, elementum et lobortis at, mollis ut risus. Sedcuman des faucibus sullamcorper mattis fusce molestie elit a lorem tempus scelerisque blandit est cursus. Quisque volutpat orci ut metus malesuada in interdumos lectus anmos scelerisque lorem. Praesent deu odio des nisios dullamcorper sultricies. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus...<\/p>",
+          "title_size": "medium",
+          "text_size": "medium",
+          "showmore_html": true,
+          "custom_color": false,
+          "color_heading": "",
+          "color_text": ""
+        }
+      },
+      "1576323973517": {
+        "type": "featured-blog-2",
+        "settings": {
+          "background-color": false,
+          "border-top": true,
+          "border-bottom": false,
+          "padding-top": 6,
+          "padding-bottom": 6,
+          "title": "From Our Blog",
+          "text_link": "view more",
+          "custom_link": "shopify:\/\/blogs\/news",
+          "description": "",
+          "title_layout": "left",
+          "blog": "news",
+          "post_limit": 4,
+          "blog_show_author": true,
+          "blog_show_date": true,
+          "title_2": "Special Layout",
+          "text_link_2": "",
+          "custom_link_2": "",
+          "description_2": "",
+          "custom_color": false,
+          "color_heading_section": "",
+          "color_link_section": "",
+          "color_des_section": ""
+        }
+      }
+    },
+    "content_for_index": [
+      "1573645506188",
+      "1576322197548",
+      "1576322451059",
+      "1576322737744",
+      "1576322845738",
+      "1576323097851",
+      "1576323158764",
+      "1576323329657",
+      "1576323411093",
+      "1576323452094",
+      "1576323910808",
+      "1576323973517"
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+&#x3C;section class=&#x22;themevale_section&#x22; id=&#x22;themevale_brandsImage&#x22;&#x3E;
+    &#x3C;div class=&#x22;container&#x22;&#x3E;
+        &#x3C;div class=&#x22;themevale_page-heading-wrapper text-center&#x22;&#x3E;
+            &#x3C;h2 class=&#x22;page-heading&#x22;&#x3E;{{title_1}}&#x3C;/h2&#x3E;
+            &#x3C;a href=&#x22;{{urls.brands}}&#x22; class=&#x22;themevale_link&#x22;&#x3E;{{link_text_1}}&#x3C;/a&#x3E;
+        &#x3C;/div&#x3E;
+        &#x3C;div class=&#x22;brandsImage-slider layout-1&#x22; data-slick='{
+            &#x22;dots&#x22;:false,
+            &#x22;arrows&#x22;: true,
+            &#x22;autoplay&#x22;: false,
+            &#x22;slidesToShow&#x22;: 2, 
+            &#x22;slidesToScroll&#x22;: 2, 
+            &#x22;adaptiveHeight&#x22;: true,
+            &#x22;mobileFirst&#x22;: true,
+            &#x22;infinite&#x22;: false,
+            &#x22;nextArrow&#x22;: &#x22;&#x3C;svg class=&apos;slick-next slick-arrow&apos;&#x3E;&#x3C;use xlink:href=&apos;#slick-arrow-next&apos;&#x3E;&#x3C;/use&#x3E;&#x3C;/svg&#x3E;&#x22;, 
+            &#x22;prevArrow&#x22;: &#x22;&#x3C;svg class=&apos;slick-prev slick-arrow&apos;&#x3E;&#x3C;use xlink:href=&apos;#slick-arrow-prev&apos;&#x3E;&#x3C;/use&#x3E;&#x3C;/svg&#x3E;&#x22;,
+            &#x22;responsive&#x22;: [
+                {
+                    &#x22;breakpoint&#x22;: 1024,
+                    &#x22;settings&#x22;: {
+                        &#x22;slidesToShow&#x22;: 6,
+                        &#x22;slidesToScroll&#x22;: 6
+                    }
+                },
+                {
+                    &#x22;breakpoint&#x22;: 768,
+                    &#x22;settings&#x22;: {
+                        &#x22;slidesToShow&#x22;: 4,
+                        &#x22;slidesToScroll&#x22;: 4
+                    }
+                },
+                {
+                    &#x22;breakpoint&#x22;: 430,
+                    &#x22;settings&#x22;: {
+                        &#x22;slidesToShow&#x22;: 3,
+                        &#x22;slidesToScroll&#x22;: 3
+                    }
+                }
+            ]}'&#x3E;
+            &#x3C;div class=&#x22;brand-item&#x22;&#x3E;
+                &#x3C;a href=&#x22;{{link_2}}&#x22; class=&#x22;featured-brand&#x22;&#x3E;&#x3C;img class=&#x22;lazyload&#x22; data-sizes=&#x22;auto&#x22; src=&#x22;{{cdn 'img/loading.svg'}}&#x22; data-src=&#x22;{{image_2}}&#x22; alt=&#x22;brands-1&#x22;/&#x3E;&#x3C;/a&#x3E; 
+            &#x3C;/div&#x3E;
+            &#x3C;div class=&#x22;brand-item&#x22;&#x3E;
+                &#x3C;a href=&#x22;{{link_3}}&#x22; class=&#x22;featured-brand&#x22;&#x3E;&#x3C;img class=&#x22;lazyload&#x22; data-sizes=&#x22;auto&#x22; src=&#x22;{{cdn 'img/loading.svg'}}&#x22; data-src=&#x22;{{image_3}}&#x22; alt=&#x22;brands-2&#x22;/&#x3E;&#x3C;/a&#x3E; 
+            &#x3C;/div&#x3E;
+            &#x3C;div class=&#x22;brand-item&#x22;&#x3E;
+                &#x3C;a href=&#x22;{{link_4}}&#x22; class=&#x22;featured-brand&#x22;&#x3E;&#x3C;img class=&#x22;lazyload&#x22; data-sizes=&#x22;auto&#x22; src=&#x22;{{cdn 'img/loading.svg'}}&#x22; data-src=&#x22;{{image_4}}&#x22; alt=&#x22;brands-3&#x22;/&#x3E;&#x3C;/a&#x3E; 
+            &#x3C;/div&#x3E;
+            &#x3C;div class=&#x22;brand-item&#x22;&#x3E;
+                &#x3C;a href=&#x22;{{link_5}}&#x22; class=&#x22;featured-brand&#x22;&#x3E;&#x3C;img class=&#x22;lazyload&#x22; data-sizes=&#x22;auto&#x22; src=&#x22;{{cdn 'img/loading.svg'}}&#x22; data-src=&#x22;{{image_5}}&#x22; alt=&#x22;brands-4&#x22;/&#x3E;&#x3C;/a&#x3E; 
+            &#x3C;/div&#x3E;
+            &#x3C;div class=&#x22;brand-item&#x22;&#x3E;
+                &#x3C;a href=&#x22;{{link_6}}&#x22; class=&#x22;featured-brand&#x22;&#x3E;&#x3C;img class=&#x22;lazyload&#x22; data-sizes=&#x22;auto&#x22; src=&#x22;{{cdn 'img/loading.svg'}}&#x22; data-src=&#x22;{{image_6}}&#x22; alt=&#x22;brands-5&#x22;/&#x3E;&#x3C;/a&#x3E; 
+            &#x3C;/div&#x3E;
+            &#x3C;div class=&#x22;brand-item&#x22;&#x3E;
+                &#x3C;a href=&#x22;{{link_7}}&#x22; class=&#x22;featured-brand&#x22;&#x3E;&#x3C;img class=&#x22;lazyload&#x22; data-sizes=&#x22;auto&#x22; src=&#x22;{{cdn 'img/loading.svg'}}&#x22; data-src=&#x22;{{image_7}}&#x22; alt=&#x22;brands-6&#x22;/&#x3E;&#x3C;/a&#x3E; 
+            &#x3C;/div&#x3E;
+            &#x3C;div class=&#x22;brand-item&#x22;&#x3E;
+                &#x3C;a href=&#x22;{{link_8}}&#x22; class=&#x22;featured-brand&#x22;&#x3E;&#x3C;img class=&#x22;lazyload&#x22; data-sizes=&#x22;auto&#x22; src=&#x22;{{cdn 'img/loading.svg'}}&#x22; data-src=&#x22;{{image_8}}&#x22; alt=&#x22;brands-7&#x22;/&#x3E;&#x3C;/a&#x3E;
+            &#x3C;/div&#x3E;
+        &#x3C;/div&#x3E;
+    &#x3C;/div&#x3E;
+&#x3C;/section&#x3E;
